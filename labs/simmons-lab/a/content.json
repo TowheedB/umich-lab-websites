@@ -1,0 +1,164 @@
+{
+ "lab": "Simmons Lab",
+ "pi": {
+  "name": "Lyle Simmons",
+  "title": "Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Lyle Simmons earned a B.S. from Alma College and a Ph.D. in Biochemistry and Molecular Biology from Michigan State University. He was a postdoctoral fellow in the Department of Biology at MIT before joining the University of Michigan in 2008. His laboratory studies how bacteria duplicate and repair their DNA, using Bacillus subtilis as a model organism.",
+  "email": "lasimm@umich.edu",
+  "phone": "(734) 647-2016",
+  "office": "Biological Sciences Building, Room 5068 (lab: 5A East, (734) 647-2174)",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/lasimm.html",
+  "initials": "LS"
+ },
+ "description": "The Simmons Lab investigates how bacteria duplicate and repair their DNA, using Bacillus subtilis as a model organism, with an emphasis on mechanisms that are conserved in eukaryotes and humans. Current projects include the biochemistry of RNase H enzymes that remove ribonucleotides and RNA-DNA hybrids from the genome, and the use of mutation accumulation lines with whole-genome resequencing to identify mutagenic signatures linked to antibiotic resistance. The lab also uses transposon-insertion sequencing screens to discover uncharacterized genes required for surviving DNA damage, and SMRT sequencing to map N6-methyladenosine sites that regulate gene expression and virulence in B. subtilis and Streptococcus pyogenes. Approaches span genetics, biochemistry, structural biology, genomics, and single-molecule imaging in collaboration with the Biteen lab.",
+ "areas": [
+  {
+   "title": "Ribonucleotide excision repair and RNA-DNA hybrids",
+   "summary": "Biochemical characterization of RNase H enzymes that remove RNA from RNA-DNA hybrids in bacterial cells, combined with mutation accumulation lines and whole-genome resequencing to identify mutagenic signatures of uncorrected ribonucleotides and their connection to antibiotic resistance."
+  },
+  {
+   "title": "Discovery of gene function in DNA damage survival",
+   "summary": "Transposon-insertion mutagenesis followed by deep sequencing identifies uncharacterized genes that contribute to survival of DNA damage, addressing the fact that 46.2% of B. subtilis genes have no demonstrated experimental function."
+  },
+  {
+   "title": "N6-methyladenosine (m6A) regulation of gene expression",
+   "summary": "Pacific Biosciences SMRT sequencing maps m6A methylation sites in B. subtilis and Streptococcus pyogenes genomes, revealing how methylation regulates virulence gene expression and bacterial adherence to human cells through changes in RNA polymerase occupancy."
+  }
+ ],
+ "pubs": [
+  {
+   "year": 2026,
+   "title": "Bacillus subtilis RNase HII is inefficient at processing guanosine monophosphate and damaged ribonucleotides",
+   "authors": "Cresti JR, Simmons LA",
+   "venue": "Molecular Microbiology",
+   "doi_or_url": "https://doi.org/10.1111/mmi.70047"
+  },
+  {
+   "year": 2026,
+   "title": "TlyA is a 23S and 16S 2'-O-methylcytidine methyltransferase important for ribosome assembly in Bacillus subtilis",
+   "authors": "Hibma JL, Munson LM, Jones JD, Nye TM, Koutmou KS, Simmons LA",
+   "venue": "Nucleic Acids Research",
+   "doi_or_url": "https://doi.org/10.1093/nar/gkaf1531"
+  },
+  {
+   "year": 2025,
+   "title": "DNA polymerase I is an efficient reverse transcriptase that mediates RNA-templated DNA repair synthesis",
+   "authors": "Lowder FC, Kendal AH, Simmons LA",
+   "venue": "bioRxiv (preprint)",
+   "doi_or_url": "https://www.biorxiv.org/content/10.64898/2025.12.22.696026v1"
+  },
+  {
+   "year": 2025,
+   "title": "Single-molecule tracking of RNA-DNA hybrid removal enzymes important for lagging-strand replication",
+   "authors": "Foust DJ, Lowder FC, Chung J, Cresti JR, van Gijtenbeek LA, Simmons LA, Biteen JS",
+   "venue": "bioRxiv (preprint)",
+   "doi_or_url": "https://doi.org/10.64898/2025.12.17.694926"
+  },
+  {
+   "year": 2025,
+   "title": "DNA replication initiation timing is important for maintaining genome integrity",
+   "authors": "Reed TT, Kendal AH, Wozniak KJ, Simmons LA",
+   "venue": "Journal of Bacteriology",
+   "doi_or_url": "https://doi.org/10.1128/jb.00175-25"
+  },
+  {
+   "year": 2024,
+   "title": "Two distinct regulatory systems control pulcherrimin biosynthesis in Bacillus subtilis",
+   "authors": "Fernandez NL, Simmons LA",
+   "venue": "PLOS Genetics",
+   "doi_or_url": "https://doi.org/10.1371/journal.pgen.1011283"
+  },
+  {
+   "year": 2024,
+   "title": "Structural and biochemical characterization of the mitomycin C repair exonuclease MrfB",
+   "authors": "Manthei KA, Munson LM, Nandakumar J, Simmons LA",
+   "venue": "Nucleic Acids Research",
+   "doi_or_url": "https://doi.org/10.1093/nar/gkae308"
+  },
+  {
+   "year": 2023,
+   "title": "RNA-DNA hybrids cause genome-wide instability through base deamination, genomic rearrangements, and induction of the DNA damage response",
+   "authors": "Schroeder JW, Hurto R, Randall JR, Wozniak KJ, Timko TA, Nye TM, Wang JD, Freddolino PL, Simmons LA",
+   "venue": "Science Advances",
+   "doi_or_url": "https://doi.org/10.1126/sciadv.adi5945"
+  },
+  {
+   "year": 2023,
+   "title": "Bacillus subtilis encodes a discrete flap endonuclease that cleaves RNA-DNA hybrids",
+   "authors": "Lowder FC, Simmons LA",
+   "venue": "PLOS Genetics",
+   "doi_or_url": "https://doi.org/10.1371/journal.pgen.1010585"
+  },
+  {
+   "year": 2023,
+   "title": "Single-molecule dynamics of DNA methyltransferase DnmA are regulated by DNA methylation and RNA-DNA hybrids",
+   "authors": "Fernandez NL, Chen Z, Fuller DEH, van Gijtenbeek LA, Nye TM, Biteen JS, Simmons LA",
+   "venue": "mBio",
+   "doi_or_url": "https://doi.org/10.1128/mbio.03185-22"
+  }
+ ],
+ "team_groups": [
+  [
+   "Research Scientists",
+   [
+    {
+     "name": "Nico Fernandez",
+     "role": "Research Fellow",
+     "note": "Ph.D.; in lab since 2019; studies gene expression regulation through DNA methylation",
+     "initials": "NF"
+    },
+    {
+     "name": "Kelly Manthei",
+     "role": "Research Associate",
+     "note": "Ph.D., University of Wisconsin-Madison; in lab since 2021; MrfAB excision repair",
+     "initials": "KM"
+    }
+   ]
+  ],
+  [
+   "Graduate Students",
+   [
+    {
+     "name": "Caroline Lowder",
+     "role": "Graduate Student",
+     "note": "B.S. Western Carolina University; RNA-DNA hybrid removal and Okazaki fragment maturation",
+     "initials": "CL"
+    },
+    {
+     "name": "Jennie Hibma",
+     "role": "Graduate Student",
+     "note": "B.S. Lipscomb University; RNA methylation",
+     "initials": "JH"
+    },
+    {
+     "name": "Julianna Cresti",
+     "role": "Graduate Student",
+     "note": "B.S. Chemistry and Biochemistry, Villanova University; ribonucleotide excision repair",
+     "initials": "JC"
+    },
+    {
+     "name": "Tristan Reed",
+     "role": "Graduate Student (M.S.)",
+     "note": "B.S. University of Georgia",
+     "initials": "TR"
+    },
+    {
+     "name": "Abigail Kendal",
+     "role": "Undergraduate",
+     "note": "MCDB major; DNA replication fork collapse",
+     "initials": "AK"
+    },
+    {
+     "name": "Lia Munson",
+     "role": "Undergraduate",
+     "note": "MCDB major; ribosomal RNA methylation",
+     "initials": "LM"
+    }
+   ]
+  ]
+ ],
+ "news": [],
+ "joining": "",
+ "address": "Biological Sciences Building, 1105 N. University Ave., Ann Arbor, MI 48109"
+}

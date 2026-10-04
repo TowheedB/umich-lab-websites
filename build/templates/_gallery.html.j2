@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>U-M MCDB Lab Website Prototypes</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#fff;--surface:#f6f7f9;--line:#e4e6ea;--text:#15171c;--muted:#5c6271;--accent:#00274c;--accent2:#ffcb05;color-scheme:light}
+@media (prefers-color-scheme: dark){:root{--bg:#0f1115;--surface:#171a21;--line:#2a2f3a;--text:#e8eaf0;--muted:#a3a9b8;--accent:#ffcb05;color-scheme:dark}}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,sans-serif;background:var(--bg);color:var(--text);line-height:1.55}
+.wrap{max-width:1140px;margin:0 auto;padding:0 clamp(16px,4vw,40px)}
+header{padding:56px 0 28px;border-bottom:1px solid var(--line)}
+h1{font-size:clamp(1.8rem,4vw,2.8rem);margin:0 0 .4rem;letter-spacing:-.02em}
+.sub{color:var(--muted);max-width:70ch;margin:0}
+.tools{display:flex;gap:1rem;align-items:center;flex-wrap:wrap;margin:1.6rem 0 0}
+input{font:inherit;padding:.6rem .9rem;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--text);min-width:min(320px,100%)}
+.legend{display:flex;gap:.5rem;flex-wrap:wrap;font-size:.8rem;color:var(--muted)}
+.legend span{border:1px solid var(--line);border-radius:999px;padding:.15rem .6rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;padding:28px 0 64px}
+.card{border:1px solid var(--line);border-radius:12px;padding:1.1rem 1.2rem;background:var(--surface);display:flex;flex-direction:column;gap:.5rem}
+.card h2{font-size:1.1rem;margin:0}
+.card .pi{color:var(--muted);font-size:.9rem}
+.card .focus{font-size:.85rem;color:var(--muted);margin:0}
+.meta{font-size:.75rem;color:var(--muted);display:flex;gap:.8rem;flex-wrap:wrap}
+.links{display:flex;gap:.5rem;margin-top:auto;padding-top:.6rem;flex-wrap:wrap}
+.links a{flex:1;text-align:center;padding:.5rem .7rem;border-radius:8px;background:var(--accent);color:#fff;text-decoration:none;font-weight:600;font-size:.9rem}
+@media (prefers-color-scheme: dark){.links a{color:#111}}
+.links a.b{background:transparent;color:var(--text);border:1px solid var(--line)}
+.links a small{display:block;font-weight:400;opacity:.8;font-size:.72rem}
+.num{font-size:.75rem;color:var(--muted);font-variant-numeric:tabular-nums}
+footer{border-top:1px solid var(--line);padding:1.5rem 0 3rem;color:var(--muted);font-size:.85rem}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1>Lab website prototypes</h1>
+  <p class="sub">{{ labs | length }} research groups in the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan. Each lab has two design directions (A and B) built from the same content, drawn from the lab's current public pages. Every prototype has Research, Publications, People, and Join pages plus light and dark modes.</p>
+  <div class="tools">
+    <input id="q" type="search" placeholder="Filter by name or topic…" aria-label="Filter labs">
+    <div class="legend">{% for t in templates %}<span>{{ t }}</span>{% endfor %}</div>
+  </div>
+</div></header>
+<main class="wrap">
+  <div class="grid" id="grid">
+  {% for l in labs %}
+    <article class="card" data-text="{{ (l.lab ~ ' ' ~ l.pi ~ ' ' ~ l.focus) | lower }}">
+      <div class="num">#{{ '%02d' % l.n }}</div>
+      <h2>{{ l.lab }}</h2>
+      <div class="pi">{{ l.pi }}</div>
+      <p class="focus">{{ l.focus }}</p>
+      <div class="meta"><span>{{ l.team }} members</span><span>{{ l.pubs }} publications</span><span>A: {{ l.a.template }}/{{ l.a.palette }}</span><span>B: {{ l.b.template }}/{{ l.b.palette }}</span></div>
+      <div class="links">
+        <a href="labs/{{ l.slug }}/a/index.html">Design A<small>{{ l.a.template }}</small></a>
+        <a class="b" href="labs/{{ l.slug }}/b/index.html">Design B<small>{{ l.b.template }}</small></a>
+      </div>
+    </article>
+  {% endfor %}
+  </div>
+</main>
+<footer><div class="wrap">Prototype framework. Content sourced from each lab's public website and faculty profile; corrections welcome. Not affiliated with or endorsed by the University of Michigan.</div></footer>
+<script>
+document.getElementById('q').addEventListener('input',function(){var v=this.value.toLowerCase();document.querySelectorAll('#grid .card').forEach(function(c){c.style.display=c.dataset.text.indexOf(v)>-1?'':'none'})});
+</script>
+</body>
+</html>

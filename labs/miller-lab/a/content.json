@@ -1,0 +1,211 @@
+{
+ "lab": "Miller Lab",
+ "pi": {
+  "name": "Ann L. Miller",
+  "title": "Arthur F. Thurnau Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Ann L. Miller earned a B.A. in Biochemistry from Gustavus Adolphus College and a Ph.D. in Molecular Biophysics and Biochemistry from Yale University in Tony Koleske's lab, then completed postdoctoral training in cell biology with Bill Bement at the University of Wisconsin-Madison. She joined the University of Michigan MCDB department as an Assistant Professor in 2011, was promoted to Associate Professor in 2018 and Professor in 2024, and was named an Arthur F. Thurnau Professor in 2025. She chaired the Signaling by Adhesion Receptors Gordon Research Conference in 2022 and has received the Class of 1923 Memorial Teaching Award (2018) and an Exceptional Mentor Award (2017). She also serves as MCDB's Community Engagement Faculty Liaison.",
+  "email": "annlm@umich.edu",
+  "phone": "(734) 764-9732",
+  "office": "5264 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/annlm.html",
+  "initials": "AL"
+ },
+ "description": "The Miller Lab studies how epithelial cell-cell junctions maintain adhesion and barrier function while being dynamically remodeled during cell shape changes such as cytokinesis and morphogenesis. The lab uses Xenopus laevis embryos with live-cell imaging and quantitative microscopy to examine Rho GTPase regulation in space and time, actin cytoskeletal dynamics, and the roles of proteins including Anillin, MgcRacGAP, and Vinculin. Key discoveries include Rho flares, localized bursts of Rho activity that repair leaks in tight junctions, visualized with the lab's ZnUMBA barrier assay, and mechanosensitive recruitment of Vinculin to tricellular junctions. The lab also studies cortical excitability and cytokinesis using reconstituted systems of supported lipid bilayers and Xenopus egg extracts.",
+ "areas": [
+  {
+   "title": "Rho flares and tight junction repair",
+   "summary": "Localized Rho activation restores barrier function after junction breaches by concentrating tight junction proteins through actin polymerization and ROCK-mediated contraction, visualized with the lab's Zinc-based Ultrasensitive Microscopic Barrier Assay (ZnUMBA)."
+  },
+  {
+   "title": "Cell-cell junction remodeling during epithelial cytokinesis",
+   "summary": "Investigates how adhesion and barrier function persist as epithelial cells divide, including Vinculin-mediated stabilization of adherens junction proteins at the cleavage furrow and how neighbor cells restrain furrowing."
+  },
+  {
+   "title": "Anillin in junctional and actomyosin regulation",
+   "summary": "The scaffolding protein Anillin regulates both junction integrity and cell mechanics; depletion reduces junctional F-actin while overexpression causes hypercontractility."
+  },
+  {
+   "title": "Cortical pattern formation and excitability",
+   "summary": "Studies sustained waves of Rho activity and actin assembly using reconstituted supported lipid bilayers combined with Xenopus egg extracts imaged by TIRF microscopy."
+  },
+  {
+   "title": "Cytokinesis regulation by Rho GTPase flux",
+   "summary": "Examines how RhoA activity zones form and focus the contractile ring during cell division, with emphasis on the regulatory role of MgcRacGAP."
+  }
+ ],
+ "pubs": [
+  {
+   "year": 2026,
+   "title": "Anillin variant associated with kidney disease demonstrates epithelial cell membrane instability and apoptosis",
+   "authors": "Craig Z, Jacobs HM, et al.",
+   "venue": "medRxiv (preprint)",
+   "doi_or_url": "https://doi.org/10.64898/2026.03.24.26348901"
+  },
+  {
+   "year": 2026,
+   "title": "PAK4 promotes vertex remodeling to maintain epithelial integrity and barrier function",
+   "authors": "Adhikary B, Chang A, et al.",
+   "venue": "Journal of Cell Biology (in press)",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2025,
+   "title": "Neighbor cells restrain furrowing during Xenopus epithelial cytokinesis",
+   "authors": "Landino J, Misterovich E, et al.",
+   "venue": "Developmental Cell",
+   "doi_or_url": "https://doi.org/10.1016/j.devcel.2025.03.010"
+  },
+  {
+   "year": 2025,
+   "title": "Anillin tunes contractility and regulates barrier function during Rho flare-mediated tight junction remodeling",
+   "authors": "Craig Z, Arnold TR, et al.",
+   "venue": "Molecular Biology of the Cell",
+   "doi_or_url": "https://doi.org/10.1091/mbc.E24-11-0513"
+  },
+  {
+   "year": 2024,
+   "title": "The Heterotaxy Gene CCDC11 Is Important for Cytokinesis via RhoA Regulation",
+   "authors": "Kulkarni SS, Stephenson RE, et al.",
+   "venue": "Cytoskeleton",
+   "doi_or_url": "https://doi.org/10.1002/cm.21952"
+  },
+  {
+   "year": 2024,
+   "title": "Mechanosensitive recruitment of Vinculin maintains junction integrity and barrier function at epithelial tricellular junctions",
+   "authors": "van den Goor LM, Iseler J, et al.",
+   "venue": "Current Biology",
+   "doi_or_url": "https://doi.org/10.1016/j.cub.2024.08.060"
+  },
+  {
+   "year": 2024,
+   "title": "Patterning of the cell cortex by Rho GTPases",
+   "authors": "Bement WM, Goryachev AB, et al.",
+   "venue": "Nature Reviews Molecular Cell Biology",
+   "doi_or_url": "https://doi.org/10.1038/s41580-023-00682-z"
+  },
+  {
+   "year": 2023,
+   "title": "ZnUMBA - a live-imaging method to detect local barrier breaches",
+   "authors": "Higashi T, Stephenson RE, et al.",
+   "venue": "Journal of Cell Science",
+   "doi_or_url": "https://doi.org/10.1242/jcs.260668"
+  },
+  {
+   "year": 2022,
+   "title": "p115RhoGEF activates RhoA to support tight junction maintenance and remodeling",
+   "authors": "Chumki SA, Van den Goor L, et al.",
+   "venue": "Molecular Biology of the Cell",
+   "doi_or_url": "https://doi.org/10.1091/mbc.E22-06-0205"
+  },
+  {
+   "year": 2022,
+   "title": "SNAP- and Halo-tagging and dye introduction protocol for live microscopy in Xenopus embryos",
+   "authors": "Dudley CE, Van den Goor L, et al.",
+   "venue": "STAR Protocols",
+   "doi_or_url": "https://doi.org/10.1016/j.xpro.2022.101622"
+  }
+ ],
+ "team_groups": [
+  [
+   "Postdoctoral Researchers",
+   [
+    {
+     "name": "Catherine Redmond",
+     "role": "Postdoctoral Fellow",
+     "note": "Ph.D. Cancer Biology, University of Michigan; keratin filaments in cell fate decisions during development and cancer",
+     "initials": "CR"
+    }
+   ]
+  ],
+  [
+   "Graduate Students",
+   [
+    {
+     "name": "Babli Adhikary",
+     "role": "Graduate Student",
+     "note": "MCDB PhD student; mechanosensitive channels in epithelial barrier function",
+     "initials": "BA"
+    },
+    {
+     "name": "Katherine Koning",
+     "role": "Graduate Student",
+     "note": "CMB PhD student; Zyxin and LPP at tricellular junctions",
+     "initials": "KK"
+    },
+    {
+     "name": "Samantha Wheeler",
+     "role": "Graduate Student",
+     "note": "CMB PhD student; RhoA and Rac1 regulation of epithelial cytokinesis",
+     "initials": "SW"
+    },
+    {
+     "name": "Olivia Tuckey",
+     "role": "Graduate Student",
+     "note": "MCDB PhD student; keratin filaments and desmosomes during cytokinesis",
+     "initials": "OT"
+    },
+    {
+     "name": "Ashley Shahi",
+     "role": "Undergraduate",
+     "note": "Independent research student",
+     "initials": "AS"
+    },
+    {
+     "name": "Kylie Lianez",
+     "role": "Undergraduate",
+     "note": "Lab assistant: plate preparation, solutions, reagent aliquoting, frog water maintenance",
+     "initials": "KL"
+    },
+    {
+     "name": "Leah Beel",
+     "role": "Undergraduate",
+     "note": "Independent research student",
+     "initials": "LB"
+    },
+    {
+     "name": "Nikola Pando",
+     "role": "Undergraduate",
+     "note": "Independent research student",
+     "initials": "NP"
+    }
+   ]
+  ]
+ ],
+ "news": [
+  {
+   "date": "2024-10",
+   "text": "MCDB website feature on the lab's Current Biology paper on mechanosensitive recruitment of Vinculin at epithelial tricellular junctions."
+  },
+  {
+   "date": "2023-09",
+   "text": "LSA News story on Jalen Smith's participation in the Horizons Summer Research Interns Program in the lab."
+  },
+  {
+   "date": "2021-12",
+   "text": "University of Michigan News press release on the lab's Current Biology paper using an artificial cell cortex to study cell division."
+  },
+  {
+   "date": "2020-05",
+   "text": "LSA article on how the lab stayed connected as a team during the COVID-19 pandemic."
+  },
+  {
+   "date": "2019-11",
+   "text": "University of Michigan feature on Ann Miller's Super-resolution Microscopy Workshop, organized with Biosciences Initiative funding."
+  },
+  {
+   "date": "2019-02",
+   "text": "University of Michigan News story on the lab's Developmental Cell paper describing a cellular repair crew that plugs leaky biological barriers."
+  },
+  {
+   "date": "2017-09",
+   "text": "Ann Miller interviewed for a Nature article about choosing lab size as a postdoc."
+  },
+  {
+   "date": "2017-07",
+   "text": "Journal of Cell Biology published a People and Ideas profile of Ann Miller."
+  }
+ ],
+ "joining": "Postdoctoral applicants should email Dr. Ann Miller a cover letter explaining their interest in the lab and desired projects, a CV, and three references. Prospective graduate students apply through the MCDB department or the Program in Biomedical Sciences (PIBS); current graduate students interested in rotating should email Dr. Miller directly. Undergraduates are welcome for experience, for credit (BIO200, MCDB300, MCDB400), or for work study; the lab prefers sophomores so students can stay involved throughout college, but all may apply by emailing Dr. Miller.",
+ "address": "University of Michigan, 5250 Biological Sciences Building, 1105 North University Ave., Ann Arbor, MI 48109-1085"
+}

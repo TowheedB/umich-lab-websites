@@ -1,0 +1,147 @@
+{
+ "lab": "Cadigan Lab",
+ "pi": {
+  "name": "Kenneth Cadigan",
+  "title": "Professor and Chair of Molecular, Cellular, and Developmental Biology",
+  "bio": "Kenneth Cadigan earned his Ph.D. from Dartmouth in 1989 and completed postdoctoral fellowships at the University of Basel in Switzerland and at Stanford University. He is Professor and Chair of the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan. His lab studies the Wnt/beta-catenin signaling pathway, which is conserved in all metazoans, focusing on how Wnt target genes are identified and transcriptionally regulated in Drosophila, other model organisms, and human cells.",
+  "email": "cadigan@umich.edu",
+  "phone": "734-936-3246",
+  "office": "5210 Biological Sciences Building (Chair's office: 2256 BSB)",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/cadigan.html",
+  "initials": "KC"
+ },
+ "description": "The Cadigan Lab investigates signal transduction by Wnts, a class of secreted glycoproteins that regulate cell fate decisions during development and that are misregulated in cancers. The lab uses Drosophila genetics to study Wingless (Wg) signaling, combining genetic screens for pathway components with promoter analysis, biochemistry, and genomics to understand how the transcription factor TCF and beta-catenin activate or repress target genes. Recent work has examined beta-catenin biomolecular condensates, TCF binding sites and co-regulators such as SOX9, CDX, and TLE, and extends to Wnt target gene regulation in colorectal cancer cells. The lab also identified a protein kinase that regulates normal apoptosis levels in fly embryos, establishing a secondary line of research on programmed cell death.",
+ "areas": [
+  {
+   "title": "Wnt/Wingless signaling mechanisms",
+   "summary": "Dissects how Wingless signaling activates transcription in Drosophila, including the roles of Pygopus, which acts downstream of TCF and is required for Wg signaling in all tissues examined, and its vertebrate homologs in human cells."
+  },
+  {
+   "title": "Transcriptional regulation of Wnt target genes",
+   "summary": "Studies how TCF transcription factors recognize DNA, how beta-catenin condensates and co-factors such as SOX9, CDX, and TLE switch target genes between activation and repression, and how these mechanisms operate in colorectal cancer."
+  },
+  {
+   "title": "Apoptosis regulation",
+   "summary": "Genetic screening identified a protein kinase that regulates normal levels of programmed cell death in fruit fly embryos, a secondary research direction in the lab."
+  }
+ ],
+ "pubs": [
+  {
+   "year": 2024,
+   "title": "Wnt target gene activation requires beta-catenin separation into biomolecular condensates",
+   "authors": "Stewart RA, Ding Z, Jeon US, Goodman LB, Tran JJ, Zientko JP, Sabu M, Cadigan KM",
+   "venue": "PLoS Biology",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/39316611/"
+  },
+  {
+   "year": 2024,
+   "title": "Semaphorin receptors antagonize Wnt signaling through beta-catenin degradation",
+   "authors": "Hoard TM, Liu K, Cadigan KM, Giger RJ, Allen BL",
+   "venue": "bioRxiv (preprint)",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/38854152/"
+  },
+  {
+   "year": 2023,
+   "title": "SOX9 and TCF transcription factors associate to mediate Wnt/beta-catenin target gene activation in colorectal cancer",
+   "authors": "Ramakrishnan AB, Burby PE, Adiga K, Cadigan KM",
+   "venue": "Journal of Biological Chemistry",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/36423688/"
+  },
+  {
+   "year": 2021,
+   "title": "Wnt target enhancer regulation by a CDX/TCF transcription factor collective and a novel DNA motif",
+   "authors": "Ramakrishnan AB, Chen L, Burby PE, Cadigan KM",
+   "venue": "Nucleic Acids Research",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/34358319/"
+  },
+  {
+   "year": 2021,
+   "title": "Repression of Wnt/beta-catenin signaling by SOX9 and Mastermind-like transcriptional coactivator 2",
+   "authors": "Sinha A, Fan VB, Ramakrishnan AB, Engelhardt N, Kennell J, Cadigan KM",
+   "venue": "Science Advances",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/33597243/"
+  },
+  {
+   "year": 2019,
+   "title": "Diffusion and function of Wnt ligands",
+   "authors": "Stewart RA, Ramakrishnan AB, Cadigan KM",
+   "venue": "PLoS Genetics",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/31194739/"
+  },
+  {
+   "year": 2018,
+   "title": "The Wnt transcriptional switch: TLE removal or inactivation?",
+   "authors": "Ramakrishnan AB, Sinha A, Fan VB, Cadigan KM",
+   "venue": "BioEssays",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/29250807/"
+  },
+  {
+   "year": 2017,
+   "title": "Wnt target genes and where to find them",
+   "authors": "Ramakrishnan AB, Cadigan KM",
+   "venue": "F1000Research",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/28649368/"
+  },
+  {
+   "year": 2017,
+   "title": "The matrix protein Tiggrin regulates plasmatocyte maturation in Drosophila larva",
+   "authors": "Zhang CU, Cadigan KM",
+   "venue": "Development",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/28526755/"
+  },
+  {
+   "year": 2016,
+   "title": "The role of the C-clamp in Wnt-related colorectal cancers",
+   "authors": "Ravindranath AJ, Cadigan KM",
+   "venue": "Cancers",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/27527215/"
+  }
+ ],
+ "team_groups": [
+  [
+   "Graduate Students",
+   [
+    {
+     "name": "Richard Stewart",
+     "role": "Graduate Student",
+     "note": "Doctoral candidate",
+     "initials": "RS"
+    },
+    {
+     "name": "Albert Jeon",
+     "role": "Graduate Student",
+     "note": "Doctoral student",
+     "initials": "AJ"
+    },
+    {
+     "name": "Jon Millar",
+     "role": "Undergraduate",
+     "note": "MCDB '25",
+     "initials": "JM"
+    },
+    {
+     "name": "Hara Choi",
+     "role": "Undergraduate",
+     "note": "MCDB '26",
+     "initials": "HC"
+    },
+    {
+     "name": "Julia Khater",
+     "role": "Undergraduate",
+     "note": "MCDB '24",
+     "initials": "JK"
+    },
+    {
+     "name": "Kyla Yi",
+     "role": "Undergraduate",
+     "note": "MCDB '23",
+     "initials": "KY"
+    }
+   ]
+  ]
+ ],
+ "news": [],
+ "joining": "",
+ "address": "Biological Sciences Building, 1105 North University Ave., Ann Arbor, MI 48109-1085 (Office: 5210 BSB; Lab: 5202 BSB, 5C West)"
+}

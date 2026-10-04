@@ -1,0 +1,169 @@
+{
+ "slug": "dus-lab",
+ "pi": {
+  "name": "Monica Dus",
+  "title": "Professor of Molecular, Cellular, and Developmental Biology; Assistant Vice President for Research (Natural Sciences and Engineering) and Director of the Office of National Laboratories",
+  "bio": "Monica Dus earned her Ph.D. in Molecular Biology from the Cold Spring Harbor Laboratory School of Biological Sciences in 2008. She is a Professor in the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan and serves as Assistant Vice President for Research and inaugural Director of U-M's Office of National Laboratories. Her Laboratory of Molecular Nutrition studies the interplay between food, genes, and physiology, with a focus on nutrigenomics, nutrient sensing, and the effects of diet on the brain. She is a 2023 Guggenheim Fellow, a 2023-2024 White House Fellow, and a recipient of the NSF CAREER Award and NIH New Innovator Award.",
+  "email": "mdus@umich.edu",
+  "phone": "",
+  "office": "2220 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/mdus.html"
+ },
+ "lab_description": "The Dus Laboratory of Molecular Nutrition views nutrients as more than energy and raw materials: they act as life's sensors, regulators, and actuators. The lab works across molecules, genes, cells, organs, and whole organisms to understand how nutrients guide biology, health, and disease. Its initial focus on how diet affects the brain has expanded to developmental and aging processes. Using Drosophila and rodent models, the lab has shown that sugar breakdown products silence genes required for taste cell function, that high-sugar diets desensitize brain circuits controlling appetite and food memory, and that these effects can be reversed by returning to lower-sugar diets. Current work addresses questions in precision nutrition, including optimal diets across life stages and the role of genetic variation.",
+ "research_areas": [
+  {
+   "title": "Nutrigenomics: how nutrients manipulate genetic switches",
+   "summary": "The lab discovered that nutrients and their metabolic byproducts can activate or silence genes, with particular impacts on brain function and health."
+  },
+  {
+   "title": "Sugar's impact on taste perception",
+   "summary": "Sugar breakdown products silence genes essential for taste cell function, causing animals to lose sweetness sensitivity with increased consumption, which in turn alters food choices."
+  },
+  {
+   "title": "Sugar's effects on brain regulation of eating",
+   "summary": "High sugar consumption desensitizes brain regions controlling appetite and disrupts dopamine signaling needed to form food memories important for satiety."
+  },
+  {
+   "title": "Reversibility of dietary damage",
+   "summary": "Negative effects of high-sugar diets can be reversed by returning to lower-sugar options, suggesting taste buds and brains can be retrained toward healthier eating."
+  },
+  {
+   "title": "Precision nutrition",
+   "summary": "Current investigations address optimal diets for different life stages, genetic factors in nutrition, and whether truly personalized nutrition is achievable."
+  }
+ ],
+ "team": [
+  {
+   "name": "Hayeon Sung",
+   "role": "Postdoctoral Fellow",
+   "note": "Since 2019; taste plasticity and sensory system adaptation"
+  },
+  {
+   "name": "Koustubh Vaze",
+   "role": "Postdoctoral Fellow",
+   "note": "Metabolism and its modulation of behavior and physiology"
+  },
+  {
+   "name": "Manaswini Sarangi",
+   "role": "Research Scientist",
+   "note": "Parental diet impacts on offspring neurodevelopment"
+  },
+  {
+   "name": "TJ Waller",
+   "role": "Research Scientist",
+   "note": "Neuromuscular metabolism and science communication"
+  },
+  {
+   "name": "Maggie McGlothlin",
+   "role": "Graduate Student",
+   "note": "Computational approaches to omics data and metabolism"
+  },
+  {
+   "name": "Bingcong Li",
+   "role": "Graduate Student",
+   "note": "Molecular nutrition and metabolic regulation"
+  },
+  {
+   "name": "Nishka Sawkar",
+   "role": "Undergraduate",
+   "note": "Ketogenesis pathways in Drosophila"
+  },
+  {
+   "name": "Angel Weng",
+   "role": "Undergraduate",
+   "note": "High-sugar diet effects on Drosophila larval neurodevelopment"
+  }
+ ],
+ "alumni": [],
+ "publications": [
+  {
+   "year": 2025,
+   "title": "Taste Plasticity in Nutrition and Health: A Scoping Review",
+   "authors": "Sung H, Heaton E, Dus M",
+   "venue": "Nutrients",
+   "doi_or_url": "https://doi.org/10.3390/nu17081336"
+  },
+  {
+   "year": 2025,
+   "title": "Pyruvate Kinase Deficiency Links Metabolic Perturbations to Neurodegeneration and Axonal Protection",
+   "authors": "Waller TJ, Collins CA, Dus M",
+   "venue": "Molecular Metabolism",
+   "doi_or_url": "https://doi.org/10.1016/j.molmet.2025.102187"
+  },
+  {
+   "year": 2024,
+   "title": "Savor the Flavor: How Genes and Diet Shape Taste",
+   "authors": "Dus M",
+   "venue": "Food and Addiction: A Comprehensive Handbook, 2nd ed. (Oxford University Press)",
+   "doi_or_url": "https://doi.org/10.1093/oso/9780190671051.003.0039"
+  },
+  {
+   "year": 2024,
+   "title": "Obesity- and Diet-Induced Plasticity in Systems That Control Eating and Energy Balance",
+   "authors": "Ferrario CR, et al.",
+   "venue": "Obesity",
+   "doi_or_url": "https://doi.org/10.1002/oby.24060"
+  },
+  {
+   "year": 2023,
+   "title": "Nutrigenomic Regulation of Sensory Plasticity",
+   "authors": "Sung H, Vaziri A, Wilinski D, et al.",
+   "venue": "eLife",
+   "doi_or_url": "https://doi.org/10.7554/eLife.83979"
+  },
+  {
+   "year": 2023,
+   "title": "Food Memory Circuits Regulate Eating and Energy Balance",
+   "authors": "Pardo-Garcia TR, Gu K, Woerner RKR, Dus M",
+   "venue": "Current Biology",
+   "doi_or_url": "https://doi.org/10.1016/j.cub.2022.11.039"
+  },
+  {
+   "year": 2023,
+   "title": "N6-Adenosine Methylation Regulates the Translation of Insulin mRNA",
+   "authors": "Wilinski D, Dus M",
+   "venue": "Nature Structural and Molecular Biology",
+   "doi_or_url": "https://doi.org/10.1038/s41594-023-01048-x"
+  },
+  {
+   "year": 2022,
+   "title": "High-Sucrose Diet Exposure Is Associated With Selective and Reversible Alterations in the Rat Peripheral Taste System",
+   "authors": "Sung H, Vesela I, Dricks H, et al.",
+   "venue": "Current Biology",
+   "doi_or_url": "https://doi.org/10.1016/j.cub.2022.07.063"
+  },
+  {
+   "year": 2021,
+   "title": "Brain on Food: The Neuroepigenetics of Nutrition",
+   "authors": "Vaziri A, Dus M",
+   "venue": "Neurochemistry International",
+   "doi_or_url": "https://doi.org/10.1016/j.neuint.2021.105099"
+  },
+  {
+   "year": 2021,
+   "title": "Confection Confusion: The Interplay Between Diet, Taste, and Feeding Behavior",
+   "authors": "May C, Dus M",
+   "venue": "Trends in Endocrinology and Metabolism",
+   "doi_or_url": "https://doi.org/10.1016/j.tem.2020.11.011"
+  }
+ ],
+ "news": [],
+ "funding": [
+  "NIH",
+  "NSF"
+ ],
+ "joining": "",
+ "address": "2220 Biological Sciences Building, 1105 North University Ave., Ann Arbor, MI 48109-1085",
+ "links": {
+  "twitter": "https://twitter.com/TheDrSparkles",
+  "github": "",
+  "google_scholar": "",
+  "pubmed": "",
+  "other": [
+   "https://www.monicadus.com",
+   "https://www.linkedin.com/in/monica-dus-6a415065/",
+   "https://theconversation.com/profiles/monica-dus-1252346/articles"
+  ]
+ }
+}

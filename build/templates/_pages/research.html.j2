@@ -1,0 +1,36 @@
+{% extends template ~ '/base.html.j2' %}
+{% import '_partials.j2' as P with context %}
+{% block title %}Research · {{ lab.short }}{% endblock %}
+{% block pagehead %}
+  <div class="eyebrow">Research</div>
+  <h1>What we study</h1>
+  <p class="lede">{{ lab.hero }}</p>
+{% endblock %}
+{% block content %}
+<section class="overview">
+  <div class="wrap">
+    <div class="grid grid-2 overview-grid">
+      <div class="prose">
+        <h2>Overview</h2>
+        {% if lab.description %}<p>{{ lab.description }}</p>{% else %}<p class="placeholder">Lab overview to be provided.</p>{% endif %}
+        <ul class="chips" aria-label="Keywords">{% for k in lab.keywords %}<li>{{ k }}</li>{% endfor %}</ul>
+      </div>
+      <div class="art-box">{{ art | safe }}</div>
+    </div>
+  </div>
+</section>
+<section class="areas-section alt">
+  <div class="wrap">
+    <div class="section-head"><h2>Research themes</h2><span class="muted small">{{ lab.areas | length }} active directions</span></div>
+    {{ P.areas_list(lab) }}
+  </div>
+</section>
+{% if lab.funding %}
+<section class="funding">
+  <div class="wrap">
+    <h2>Support</h2>
+    <p class="muted">Our work is supported by {{ lab.funding | join(', ') }}.</p>
+  </div>
+</section>
+{% endif %}
+{% endblock %}

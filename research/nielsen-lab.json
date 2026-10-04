@@ -1,0 +1,144 @@
+{
+ "slug": "nielsen-lab",
+ "pi": {
+  "name": "Erik Nielsen",
+  "title": "Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Erik Nielsen earned his Ph.D. in 1997 from the Plant Research Lab at Michigan State University and was a postdoctoral fellow at EMBL Heidelberg, Germany, from 1998 to 2001. He is a Professor in the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan. His research examines polarized secretion during cellular differentiation, focusing on the membrane trafficking pathways that deliver cell wall components in plants and how this relates to plant growth and development.",
+  "email": "nielsene@umich.edu",
+  "phone": "(734) 764-1324",
+  "office": "5114 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/nielsene.html"
+ },
+ "lab_description": "The Nielsen Lab investigates plant cell wall biosynthesis in Arabidopsis thaliana, exploring the cell biology underlying this essential process, which is crucial for plant growth, development, and defense. The lab uses genetic, biochemical, and live-cell imaging techniques to study the cellular and molecular mechanisms of cell wall formation, with emphasis on how cellulose synthase (CESA) and cellulose synthase-like D (CSLD) proteins are sorted and delivered to specific plasma membrane domains during polarized growth. Additional work examines KORRIGAN accessory proteins that regulate cellulose synthase activity and how plants sense and respond to artificial nanomaterials derived from cell wall fractions.",
+ "research_areas": [
+  {
+   "title": "Cellulose synthesis protein sorting",
+   "summary": "Identifies how CESA and CSLD proteins are delivered to specific plasma membrane domains, including CSLD3 as a beta-1,4-glucan synthase in tip-growing cells and CSLD5 in cell plate formation."
+  },
+  {
+   "title": "KORRIGAN proteins",
+   "summary": "Investigates accessory proteins that regulate cellulose synthase activity during cell wall synthesis."
+  },
+  {
+   "title": "Plant responses to nanomaterials",
+   "summary": "Studies how plants sense and respond to artificial nanomaterials derived from cell wall fractions, in the context of agricultural nanotechnology."
+  }
+ ],
+ "team": [
+  {
+   "name": "Shuyao Yin",
+   "role": "Graduate Student",
+   "note": "Graduate Research Assistant"
+  },
+  {
+   "name": "Noah Volin",
+   "role": "Undergraduate",
+   "note": "Undergraduate Research Assistant"
+  },
+  {
+   "name": "Tamar Landesman",
+   "role": "Undergraduate",
+   "note": "Undergraduate Research Assistant"
+  },
+  {
+   "name": "Anika Ranjan",
+   "role": "Undergraduate",
+   "note": "Undergraduate Research Assistant"
+  },
+  {
+   "name": "Lillie Gregory",
+   "role": "Undergraduate",
+   "note": "Undergraduate Research Assistant"
+  },
+  {
+   "name": "Brooklin Flaugher",
+   "role": "Undergraduate",
+   "note": "Undergraduate Research Assistant"
+  }
+ ],
+ "alumni": [],
+ "publications": [
+  {
+   "year": 2024,
+   "title": "Agricultural Nanotechnology for Safe and Sustainable Future: Current Status, Challenges and Beyond",
+   "authors": "Santos PA, Biraku X, Nielsen E, et al.",
+   "venue": "Journal of the Science of Food and Agriculture (in press)",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2022,
+   "title": "Plant exocytosis: Weaving distinct pathways to the plant plasma membrane",
+   "authors": "Nielsen E",
+   "venue": "Molecular Plant 15:382-384",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2022,
+   "title": "Chromosome-level assembly of Neolamarckia cadamba genome provides insights into the evolution of cadambine biosynthesis",
+   "authors": "Zhao X, Hu X, Nielsen E, et al.",
+   "venue": "Plant Journal 109:891-908",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2021,
+   "title": "Functional Characterization of ltl2, a Novel Temperature-Sensitive FERONIA Mutant Allele That Alters Root Hair Growth",
+   "authors": "Kim D-W, Adams A, Nielsen E, et al.",
+   "venue": "Plant Physiology 185:405-423",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2020,
+   "title": "Biochemical and Genetic Analysis Identify CSLD3 as a beta-1,4-glucan Synthase that Functions during Plant Cell Wall Synthesis",
+   "authors": "Yang J, Bak G, Nielsen E, et al.",
+   "venue": "Plant Cell 32:1749-1767",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2016,
+   "title": "The Arabidopsis CSLD5 functions in cell plate formation in a cell cycle dependent manner",
+   "authors": "Gu F, Bringmann M, Nielsen E, et al.",
+   "venue": "Plant Cell 28:1722-1737",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2015,
+   "title": "Recruitment of PLANT U-BOX13 and the PI4Kbeta1/beta2 Phosphatidylinositol-4 Kinases by the Small GTPase RabA4B",
+   "authors": "Antignani V, Bak G, Nielsen E, et al.",
+   "venue": "Plant Cell 27:243-261",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2013,
+   "title": "Targeting and Regulation of Cell Wall Synthesis during Tip Growth in Plants",
+   "authors": "Gu F, Nielsen E",
+   "venue": "Journal of Integrative Plant Biology 55:835-846",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2013,
+   "title": "The amino acid permeases, AAP3 and AAP6, are involved in root-knot nematode parasitism of Arabidopsis",
+   "authors": "Marella H, Nielsen E, Schachtman DP, Taylor CG",
+   "venue": "Molecular Plant-Microbe Interactions 26:44-54",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2012,
+   "title": "AUX/LAX Genes Encode a Family of Auxin Influx Transporters That Perform Distinct Functions during Arabidopsis Development",
+   "authors": "Peret B, Swarup K, Nielsen E, et al.",
+   "venue": "Plant Cell 24:2874-2885",
+   "doi_or_url": ""
+  }
+ ],
+ "news": [],
+ "funding": [],
+ "joining": "",
+ "address": "5114 Biological Sciences Building, University of Michigan, Ann Arbor, MI",
+ "links": {
+  "twitter": "",
+  "github": "",
+  "google_scholar": "",
+  "pubmed": "",
+  "other": []
+ }
+}

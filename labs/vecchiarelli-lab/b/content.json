@@ -1,0 +1,155 @@
+{
+ "lab": "Vecchiarelli Lab",
+ "pi": {
+  "name": "Anthony Vecchiarelli",
+  "title": "Associate Professor of Molecular, Cellular, and Developmental Biology and Associate Professor of Biophysics",
+  "bio": "Anthony Vecchiarelli earned his HBSc and PhD in Molecular Genetics and Microbiology at the University of Toronto with Barbara Funnell. He completed postdoctoral training at the National Institutes of Health with Kiyoshi Mizuuchi as a Nancy Nossal Postdoctoral Fellow. At the University of Michigan his laboratory uses genetics, cell biology, biochemistry, and bioinformatics to understand how bacteria spatially organize fundamental processes in the cell.",
+  "email": "ave@umich.edu",
+  "phone": "734-647-7251",
+  "office": "Biological Sciences Building, Office 5260 (Lab 5250)",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/ave.html",
+  "initials": "AV"
+ },
+ "description": "The Vecchiarelli Lab studies how bacterial cells organize their organelles and other components at the subcellular level, challenging the outdated view of bacteria as disorganized sacks of molecules. Rather than cytoskeletons and motor proteins, bacteria use ParA/MinD-family ATPases to position protein-based organelles. A central model is the carboxysome, the Rubisco-containing compartment responsible for almost half of global CO2 fixation, whose positioning by the McdA/McdB system the lab has characterized. The lab also asks whether bacteria form membraneless biomolecular condensates that compartmentalize biochemistry, and how multiple ParA/MinD ATPases coordinate the trafficking of disparate cargos in the same cell, using organisms such as Synechococcus elongatus and Halothiobacillus neapolitanus. The group combines genetics, cell biology, biochemistry, quantitative microscopy, and bioinformatics.",
+ "areas": [
+  {
+   "title": "Organelle trafficking and homeostasis",
+   "summary": "Spatial regulation of bacterial organelles, especially carboxysomes, which contain Rubisco and are responsible for almost half of global CO2 fixation. The lab investigates how cells position these organelles via the McdA/McdB system."
+  },
+  {
+   "title": "Material state of bacterial organelles",
+   "summary": "Whether bacteria form membraneless compartments (biomolecular condensates) like those found in eukaryotic cells, and whether such phase-separated structures compartmentalize biochemical reactions."
+  },
+  {
+   "title": "Coordinated organelle trafficking",
+   "summary": "How multiple ParA/MinD ATPases coordinate the positioning of diverse cellular components in a single cell, using Halothiobacillus neapolitanus, which encodes seven such ATPases, to understand how trafficking is synchronized with the cell cycle."
+  }
+ ],
+ "pubs": [
+  {
+   "year": 2025,
+   "title": "Nucleoid compaction influences carboxysome localization and dynamics in Synechococcus elongatus PCC 7942",
+   "authors": "Dudley CE, Azaldegui CA, Foust DJ, LaCommare O, Biteen JS, Vecchiarelli AG",
+   "venue": "mBio",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/40838714/"
+  },
+  {
+   "year": 2025,
+   "title": "Current practices in the study of biomolecular condensates: a community comment",
+   "authors": "Alberti S, et al., Vecchiarelli AG, ..., Dormann D, Mittag T",
+   "venue": "Nature Communications",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/40830340/"
+  },
+  {
+   "year": 2025,
+   "title": "Brownian ratchet mechanisms for carboxysome positioning in bacteria",
+   "authors": "Azaldegui CA, Vecchiarelli AG, Biteen JS",
+   "venue": "Current Opinion in Microbiology",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/40737819/"
+  },
+  {
+   "year": 2025,
+   "title": "Robust synthetic biology toolkit to advance carboxysome study and redesign",
+   "authors": "Trettel DS, Hoang Y, Vecchiarelli AG, Gonzalez-Esquer CR",
+   "venue": "ACS Synthetic Biology",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/40488673/"
+  },
+  {
+   "year": 2025,
+   "title": "Carboxysome shell protein CcmK2 assembles into monodisperse and pH-reversible microparticles",
+   "authors": "Mak CA, et al., Vecchiarelli AG",
+   "venue": "ACS Nano",
+   "doi_or_url": "https://doi.org/10.1021/acsnano.4c18021"
+  },
+  {
+   "year": 2024,
+   "title": "An invariant C-terminal tryptophan in McdB mediates its interaction and positioning function with carboxysomes",
+   "authors": "Basalla JL, Ghalmi M, Hoang Y, Dow RE, Vecchiarelli AG",
+   "venue": "Molecular Biology of the Cell",
+   "doi_or_url": "https://www.biorxiv.org/content/10.1101/2023.11.21.568049v1"
+  },
+  {
+   "year": 2024,
+   "title": "An experimental framework to assess biomolecular condensates in bacteria",
+   "authors": "Hoang Y, Azaldegui CA, Dow RE, Ghalmi M, Biteen JS, Vecchiarelli AG",
+   "venue": "Nature Communications",
+   "doi_or_url": "https://www.nature.com/articles/s41467-024-47330-4"
+  },
+  {
+   "year": 2024,
+   "title": "Positioning of cellular components by the ParA/MinD family of ATPases",
+   "authors": "Pulianmackal LT, Vecchiarelli AG",
+   "venue": "Current Opinion in Microbiology",
+   "doi_or_url": "https://www.sciencedirect.com/science/article/pii/S1369527424000614"
+  },
+  {
+   "year": 2023,
+   "title": "Dissecting the phase separation and oligomerization activities of the carboxysome positioning protein McdB",
+   "authors": "Basalla JL, Mak CA, Byrne JA, Ghalmi M, Hoang Y, Vecchiarelli AG",
+   "venue": "eLife",
+   "doi_or_url": "https://elifesciences.org/articles/81362"
+  },
+  {
+   "year": 2023,
+   "title": "Multiple ParA/MinD ATPases coordinate the positioning of disparate cargos in a bacterial cell",
+   "authors": "Pulianmackal LT, et al., Vecchiarelli AG",
+   "venue": "Nature Communications",
+   "doi_or_url": "https://www.nature.com/articles/s41467-023-39019-x"
+  }
+ ],
+ "team_groups": [
+  [
+   "Postdoctoral Researchers",
+   [
+    {
+     "name": "Hema Swasthi",
+     "role": "Postdoctoral Fellow",
+     "note": "Ph.D. on intrinsically disordered proteins, IISER Mohali; biochemical characterization of McdA and McdB",
+     "initials": "HS"
+    }
+   ]
+  ],
+  [
+   "Graduate Students",
+   [
+    {
+     "name": "Rachelle Baumann",
+     "role": "Graduate Student",
+     "note": "Biochemistry program, started 2023; McdB adaptor protein connection to the carboxysome",
+     "initials": "RB"
+    },
+    {
+     "name": "Jessica Panchaud",
+     "role": "Graduate Student",
+     "note": "MCDB program, started 2023",
+     "initials": "JP"
+    }
+   ]
+  ]
+ ],
+ "news": [
+  {
+   "date": "2023-11",
+   "text": "Postdoc Y Hoang was invited to the Rising Stars Symposium at the University of Chicago Department of Microbiology and received the MCDB Postdoctoral Research Award."
+  },
+  {
+   "date": "2023-11",
+   "text": "Jordan Byrne won the MCDB Service Award and Claudia Mak earned the Biological Chemistry Graduate Research Award."
+  },
+  {
+   "date": "2023-11",
+   "text": "Joe Basalla's paper on McdB phase separation was published in eLife with an accompanying eLife Digest."
+  },
+  {
+   "date": "2023-05",
+   "text": "Jordan Byrne began a CBTP Fellowship internship with ONL Therapeutics; Jordan and Claire passed their Checkpoint #2 evaluations."
+  },
+  {
+   "date": "2023-04",
+   "text": "Anthony Vecchiarelli delivered the Farrand Lecture; Claudia gave an oral presentation and Joe a poster at the ASBMB conference."
+  }
+ ],
+ "joining": "The lab welcomes applicants with interests in biochemistry, microscopy, or quantitative biology. Postdoctoral candidates should contact Dr. Vecchiarelli directly with a cover letter describing their background, a CV, and reference contacts. Graduate students join through rotations after admission to MCDB or PIBS. Freshman and sophomore undergraduates may apply through UROP; juniors and seniors can email Dr. Vecchiarelli directly.",
+ "address": "Biological Sciences Building, Lab 5250 / Office 5260, 1105 North University Ave, Ann Arbor, MI 48109"
+}

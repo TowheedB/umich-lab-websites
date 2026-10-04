@@ -1,0 +1,226 @@
+{
+ "lab": "DeSantis Lab",
+ "pi": {
+  "name": "Morgan DeSantis",
+  "title": "Assistant Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Morgan DeSantis is an Assistant Professor in the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan. She earned her Ph.D. from the University of Pennsylvania. Her lab investigates how microtubule-associated motor proteins, especially cytoplasmic dynein, transport cellular cargo, how motor activity is regulated, and how motor dysfunction relates to neurodevelopmental disease, using single-molecule TIRF microscopy, live-cell fluorescence microscopy, protein biochemistry, and cryo-electron microscopy.",
+  "email": "mdesant@umich.edu",
+  "phone": "",
+  "office": "Room 4210, Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/mdesant.html",
+  "initials": "MD"
+ },
+ "description": "The DeSantis lab studies microtubule-associated motor proteins, which transport cellular cargo including organelles, mRNA, viruses, and protein aggregates. The lab focuses on cytoplasmic dynein, a 1.5 MDa motor complex that moves cargo toward the cell interior. Researchers ask how dynein is assembled in living cells, how binding proteins such as Lis1, Ndel1, and cargo adaptors modify its activity, how it binds and transports specific cargoes, how it is correctly localized within cells, and how its dysfunction contributes to disease. The group combines single-molecule TIRF microscopy, protein biochemistry, cryo-electron microscopy, and live-cell imaging.",
+ "areas": [
+  {
+   "title": "Dynein motor assembly and activation",
+   "summary": "The lab investigates how the 1.5 MDa dynein complex is assembled in living cells and how regulators such as Lis1, Ndel1, and cargo adaptors control the mechanism and kinetics of dynein activation."
+  },
+  {
+   "title": "Cargo recognition and transport",
+   "summary": "Researchers study how dynein binds and transports specific cargoes, including organelles, mRNA, viruses (e.g., HIV-1), and protein aggregates, and how adaptor identity dictates transport."
+  },
+  {
+   "title": "Dynein localization and disease",
+   "summary": "The group examines how dynein is properly localized within cells (e.g., gating at the cell periphery by CCSer2) and how impaired motor function is associated with neurodevelopmental and other diseases."
+  }
+ ],
+ "pubs": [
+  {
+   "year": 2026,
+   "title": "Dynein upsizes under load",
+   "authors": "Hensley A, DeSantis ME",
+   "venue": "Nature Cell Biology",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2026,
+   "title": "Accessibility of the unstructured alpha-tubulin C-terminal tail is controlled by microtubule lattice conformation",
+   "authors": "Hotta T, et al.",
+   "venue": "eLife",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2025,
+   "title": "Occludin acts as a dynein adaptor regulating permeability and collateral angiogenesis",
+   "authors": "Liu X, et al.",
+   "venue": "Proceedings of the National Academy of Sciences USA",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2025,
+   "title": "HIV-1 binds dynein directly to hijack microtubule transport machinery",
+   "authors": "Badieyan S, et al.",
+   "venue": "Science Advances",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2025,
+   "title": "CCSer2 gates dynein activity at the cell periphery",
+   "authors": "Zang JL, et al.",
+   "venue": "Journal of Cell Biology",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2025,
+   "title": "Cargo adaptor identity controls the mechanism and kinetics of dynein activation",
+   "authors": "Gillies JP, et al.",
+   "venue": "Journal of Biological Chemistry",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2023,
+   "title": "Ndel1 disfavors dynein-dynactin-adaptor complex formation in two distinct ways",
+   "authors": "Garrott SR, Gillies JP, DeSantis ME",
+   "venue": "Journal of Biological Chemistry",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2023,
+   "title": "Distinct dynein complexes defined by DYNLRB1 and DYNLRB2 regulate mitotic and male meiotic spindle bipolarity",
+   "authors": "He S, et al.",
+   "venue": "Nature Communications",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2022,
+   "title": "The KASH5 protein involved in meiotic chromosomal movements is a novel dynein activating adaptor",
+   "authors": "Agrawal R, et al.",
+   "venue": "eLife",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2020,
+   "title": "Lis1 promotes the formation of activated cytoplasmic dynein complexes",
+   "authors": "Htet ZM, et al.",
+   "venue": "Nature Cell Biology",
+   "doi_or_url": ""
+  }
+ ],
+ "team_groups": [
+  [
+   "Postdoctoral Researchers",
+   [
+    {
+     "name": "Rishi Mishra",
+     "role": "Postdoctoral Fellow",
+     "note": "AHA, Damon Runyon, and Michigan Pioneer Postdoctoral Fellowships (2025)",
+     "initials": "RM"
+    }
+   ]
+  ],
+  [
+   "Graduate Students",
+   [
+    {
+     "name": "Juliana Zang",
+     "role": "Graduate Student",
+     "note": "MCDB program",
+     "initials": "JZ"
+    },
+    {
+     "name": "Aravintha Siva",
+     "role": "Graduate Student",
+     "note": "MCDB program",
+     "initials": "AS"
+    },
+    {
+     "name": "Wanjing Shi",
+     "role": "Graduate Student",
+     "note": "MCDB program; AHA Predoctoral Fellowship (2025)",
+     "initials": "WS"
+    },
+    {
+     "name": "Ashley de Borchgrave",
+     "role": "Graduate Student",
+     "note": "Biological Chemistry; Chemistry Biology Interface Training Program",
+     "initials": "AD"
+    },
+    {
+     "name": "Siara Sandwith",
+     "role": "Graduate Student",
+     "note": "CMB program",
+     "initials": "SS"
+    },
+    {
+     "name": "Reagan Clarke",
+     "role": "Undergraduate",
+     "note": "MCDB",
+     "initials": "RC"
+    },
+    {
+     "name": "Aico Miao",
+     "role": "Undergraduate",
+     "note": "MCDB",
+     "initials": "AM"
+    },
+    {
+     "name": "Cameron Conklin",
+     "role": "Undergraduate",
+     "note": "Biology",
+     "initials": "CC"
+    },
+    {
+     "name": "Pranav Kulkarni",
+     "role": "Undergraduate",
+     "note": "",
+     "initials": "PK"
+    }
+   ]
+  ],
+  [
+   "Lab Members",
+   [
+    {
+     "name": "John Gillies",
+     "role": "Staff Scientist",
+     "note": "",
+     "initials": "JG"
+    },
+    {
+     "name": "Jonathan Williams",
+     "role": "MSTP Student",
+     "note": "Lab affiliate in Nandakumar group",
+     "initials": "JW"
+    }
+   ]
+  ]
+ ],
+ "news": [
+  {
+   "date": "2025-12",
+   "text": "Rishi awarded an American Heart Association Postdoctoral Fellowship."
+  },
+  {
+   "date": "2025-12",
+   "text": "Wanjing awarded an American Heart Association Predoctoral Fellowship."
+  },
+  {
+   "date": "2025-11",
+   "text": "Rishi awarded a Damon Runyon Postdoctoral Research Fellowship."
+  },
+  {
+   "date": "2025-09",
+   "text": "Rishi awarded a Michigan Pioneer Postdoctoral Fellowship."
+  },
+  {
+   "date": "2025-06",
+   "text": "Ash received funding from the Chemistry Biology Interface Training Program."
+  },
+  {
+   "date": "2025-05",
+   "text": "Sharon defended her thesis."
+  },
+  {
+   "date": "2025-04",
+   "text": "CCSer2 paper published in the Journal of Cell Biology; Daytan awarded high honors on thesis; Ash joined the lab."
+  },
+  {
+   "date": "2025-02",
+   "text": "Dynein activation kinetics paper published in JBC."
+  }
+ ],
+ "joining": "The lab site points prospective graduate students to the PIBS and MCDB graduate programs at the University of Michigan.",
+ "address": "Biological Sciences Building, Room 4210, 1105 N. University Ave., Ann Arbor, MI 48109"
+}

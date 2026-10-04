@@ -1,0 +1,138 @@
+{
+ "lab": "Chang Lab",
+ "pi": {
+  "name": "Amy Chang",
+  "title": "Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Amy Chang received an A.B. in Biochemistry from Harvard University and a Ph.D. in Cell Biology from Yale University, followed by postdoctoral training at Yale and at the Whitehead Institute at MIT. She is a Professor in the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan. Her lab uses budding yeast to study how cells respond to stress, in particular how misfolded proteins in the endoplasmic reticulum trigger signaling, transcription, and mitochondrial remodeling that allow cells to survive.",
+  "email": "amychang@umich.edu",
+  "phone": "734-647-7963",
+  "office": "3218 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/amychang.html",
+  "initials": "AC"
+ },
+ "description": "The Chang Lab investigates the cellular mechanisms that maintain protein quality control at different organellar sites, using genetic and biochemical approaches in the budding yeast Saccharomyces cerevisiae. A long-standing question is how proteins are sorted in the secretory pathway: the lab studies conformationally impaired variants of the plasma membrane ATPase Pma1 that are handled differently by quality control systems, being degraded in the ER, routed to endosomes, or internalized from the cell surface. Forward genetic suppressor screens are used to identify the machinery that recognizes misfolded proteins in each pathway. More recent work focuses on how ER stress is communicated to mitochondria and peroxisomes, showing that increased mitochondrial respiration and retrograde signaling promote survival from ER stress, and on how Orm proteins integrate signals to maintain sphingolipid homeostasis.",
+ "areas": [
+  {
+   "title": "Pma1 localization and quality control",
+   "summary": "Studies how the yeast plasma membrane ATPase Pma1 is sorted and processed, examining mutant variants that are degraded in the ER, routed to endosomes for destruction, or improperly internalized from the cell surface."
+  },
+  {
+   "title": "Genetic suppression analysis",
+   "summary": "Uses forward genetics to isolate suppressor mutations that rescue defective pma1 variants, revealing the molecular machinery that recognizes misfolded proteins in different quality control pathways."
+  },
+  {
+   "title": "ER stress, mitochondria, and peroxisomes",
+   "summary": "Examines how misfolding in the ER drives mitochondrial restructuring and retrograde signaling, and how peroxisomal support of mitochondrial respiration promotes survival from ER stress."
+  },
+  {
+   "title": "Sphingolipid homeostasis",
+   "summary": "Investigates how the conserved ER membrane proteins Orm1 and Orm2 integrate multiple signals to regulate sphingolipid synthesis, and how sphingolipid accumulation leads to mitochondrial dysregulation and cell death."
+  }
+ ],
+ "pubs": [
+  {
+   "year": 2022,
+   "title": "Peroxisomal support of mitochondrial respiratory efficiency promotes ER stress survival",
+   "authors": "Hijazi I, Wang E, Orozco M, Pelton S, Chang A",
+   "venue": "Journal of Cell Science",
+   "doi_or_url": "https://doi.org/10.1242/jcs.259254"
+  },
+  {
+   "year": 2020,
+   "title": "Retrograde signaling mediates an adaptive survival response to endoplasmic reticulum stress in Saccharomyces cerevisiae",
+   "authors": "Hijazi I, Knupp J, Chang A",
+   "venue": "Journal of Cell Science",
+   "doi_or_url": "https://doi.org/10.1242/jcs.241539"
+  },
+  {
+   "year": 2019,
+   "title": "Increased mitochondrial respiration promotes survival from endoplasmic reticulum stress",
+   "authors": "Knupp J, Arvan P, Chang A",
+   "venue": "Cell Death & Differentiation",
+   "doi_or_url": "https://doi.org/10.1038/s41418-018-0133-4"
+  },
+  {
+   "year": 2017,
+   "title": "Sphingolipid accumulation causes mitochondrial dysregulation and cell death",
+   "authors": "Knupp J, Martinez-Montanes F, Van Den Bergh F, Cottier S, Schneiter R, Beard D, Chang A",
+   "venue": "Cell Death & Differentiation",
+   "doi_or_url": "https://doi.org/10.1038/cdd.2017.128"
+  },
+  {
+   "year": 2013,
+   "title": "Orm proteins integrate multiple signals to maintain sphingolipid homeostasis",
+   "authors": "Gururaj C, Federman RS, Chang A",
+   "venue": "Journal of Biological Chemistry",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/23737533/"
+  },
+  {
+   "year": 2012,
+   "title": "Regulation of sphingolipid synthesis through Orm1 and Orm2 in yeast",
+   "authors": "Liu M, Huang C, Polu SR, Schneiter R, Chang A",
+   "venue": "Journal of Cell Science",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/22328531/"
+  },
+  {
+   "year": 2011,
+   "title": "pH-dependent cargo sorting from the Golgi",
+   "authors": "Huang C, Chang A",
+   "venue": "Journal of Biological Chemistry",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/21239492/"
+  },
+  {
+   "year": 2010,
+   "title": "Orm1 and Orm2 are conserved endoplasmic reticulum membrane proteins regulating lipid homeostasis and protein quality control",
+   "authors": "Han S, Lone MA, Schneiter R, Chang A",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2009,
+   "title": "A mutant plasma membrane protein is stabilized upon loss of Yvh1, a novel ribosome assembly factor",
+   "authors": "Liu Y, Chang A",
+   "venue": "Genetics",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2008,
+   "title": "Heat shock response relieves ER stress",
+   "authors": "Liu Y, Chang A",
+   "venue": "EMBO Journal",
+   "doi_or_url": ""
+  }
+ ],
+ "team_groups": [
+  [
+   "Research Scientists",
+   [
+    {
+     "name": "Jeff Knupp",
+     "role": "Research Technician",
+     "note": "",
+     "initials": "JK"
+    }
+   ]
+  ],
+  [
+   "Graduate Students",
+   [
+    {
+     "name": "Imad Hijazi",
+     "role": "Undergraduate",
+     "note": "Listed as undergraduate student on the Team page; first author on the lab's 2020 and 2022 Journal of Cell Science papers",
+     "initials": "IH"
+    },
+    {
+     "name": "Sharan Jayachandran",
+     "role": "Undergraduate",
+     "note": "",
+     "initials": "SJ"
+    }
+   ]
+  ]
+ ],
+ "news": [],
+ "joining": "",
+ "address": "2092 Natural Science Building, 830 N. University, Ann Arbor, MI 48109-1048 (lab phone 734-647-7964)"
+}

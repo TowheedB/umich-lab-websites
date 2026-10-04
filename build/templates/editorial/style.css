@@ -1,0 +1,25 @@
+body.t-editorial { --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif; --font-serif: "Newsreader", Georgia, serif; }
+.t-editorial h1, .t-editorial h2, .t-editorial .pub .t { font-family: var(--font-serif); font-weight: 500; letter-spacing: -.015em; }
+.t-editorial h1 { font-size: clamp(2.3rem, 5vw, 4rem); line-height: 1.05; }
+.t-editorial header.site { border-bottom: 1px solid var(--line); background: var(--bg); }
+.t-editorial .hero { padding: clamp(48px, 8vw, 110px) 0; }
+.t-editorial .hero-grid { display: grid; grid-template-columns: 1.15fr .85fr; gap: 3rem; align-items: center; }
+.t-editorial .hero-side { background: var(--accent-soft); border-radius: 24px; padding: 1rem; }
+@media (max-width: 860px) { .t-editorial .hero-grid { grid-template-columns: 1fr; } .t-editorial .hero-side { max-width: 420px; } }
+.t-editorial .alt { background: var(--surface); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.t-editorial .card { background: var(--bg); }
+.t-editorial .alt .card { background: var(--bg); }
+.t-editorial .recent-grid { grid-template-columns: 1.4fr .8fr; gap: 3rem; }
+@media (max-width: 860px) { .t-editorial .recent-grid { grid-template-columns: 1fr; } }
+.t-editorial .cta-box { display: flex; justify-content: space-between; align-items: center; gap: 2rem; flex-wrap: wrap; border: 1px solid var(--line); border-left: 6px solid var(--accent); padding: 2rem; border-radius: var(--radius); }
+.t-editorial .pagehead { padding: clamp(40px, 6vw, 72px) 0 1rem; }
+.t-editorial .area-list { list-style: none; padding: 0; margin: 0; counter-reset: a; }
+.t-editorial .area-list li { counter-increment: a; display: grid; grid-template-columns: 70px 1fr; gap: 1.2rem; padding: 1.6rem 0; border-top: 1px solid var(--line); }
+.t-editorial .area-list li::before { content: counter(a, decimal-leading-zero); font-family: var(--font-mono); color: var(--accent); font-size: .9rem; padding-top: .5rem; }
+.t-editorial .area-list h3 { font-family: var(--font-serif); font-size: 1.45rem; font-weight: 500; }
+.t-editorial .art-box { background: var(--accent-soft); border-radius: 24px; padding: 1rem; align-self: start; }
+.t-editorial .search input { font: inherit; padding: .55rem .9rem; border: 1px solid var(--line); border-radius: 999px; background: var(--bg); color: var(--text); min-width: 260px; }
+.t-editorial .group-head { margin: 2rem 0 1rem; font-family: var(--font-sans); font-size: .85rem; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+.t-editorial .contact-box { align-self: start; }
+.t-editorial .contact-box .btn { margin-top: 1.2rem; }
+.t-editorial .roles { margin-top: 1.5rem; }

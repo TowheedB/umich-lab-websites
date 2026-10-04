@@ -1,0 +1,51 @@
+{% extends 'horizon/base.html.j2' %}
+{% import '_partials.j2' as P with context %}
+{% block hero %}
+<section class="hero">
+  <div class="band">{{ art | safe }}</div>
+  <div class="wrap hero-copy">
+    <h1>{{ lab.hero }}</h1>
+    <p class="lede">{{ lab.short }} &middot; {{ lab.pi.department }}, University of Michigan</p>
+    <div class="actions">
+      <a class="btn btn-primary" href="research.html">Our research</a>
+      <a class="btn btn-ghost" href="people.html">The team</a>
+    </div>
+  </div>
+</section>
+{% endblock %}
+{% block content %}
+<section class="intro">
+  <div class="wrap grid grid-2 intro-grid">
+    <h2>About the lab</h2>
+    <div class="prose"><p>{{ lab.description }}</p>{% if lab.funding %}<p class="small muted">Supported by {{ lab.funding | join(', ') }}.</p>{% endif %}</div>
+  </div>
+</section>
+<section class="strip-section">
+  <div class="wrap section-head"><h2>Research themes</h2><a href="research.html">All research &rarr;</a></div>
+  <div class="strip" tabindex="0" aria-label="Research themes, scroll horizontally">
+    {% for a in lab.areas %}
+    <article class="strip-card">
+      <div class="num">{{ '%02d' % loop.index }}</div>
+      <h3>{{ a.title }}</h3>
+      <p>{{ a.summary or 'Summary to be added with the lab’s input.' }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+<section class="recent alt">
+  <div class="wrap">
+    <div class="section-head"><h2>Recent publications</h2><a href="publications.html">All publications &rarr;</a></div>
+    <div class="grid grid-2 recent-grid">
+      <div>{{ P.pubs_recent(lab, 4) }}</div>
+      <aside class="aside-col">
+        {% if lab.news %}<h3>News</h3>{{ P.news(lab, 4) }}{% endif %}
+        <div class="join-box">
+          <h3>Join the lab</h3>
+          <p class="small">Prospective students and postdocs are encouraged to get in touch.</p>
+          <a href="join.html">How to apply &rarr;</a>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,54 @@
+body.t-monograph { --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif; --font-serif: "Source Serif 4", Georgia, serif; --font-mono: "IBM Plex Mono", ui-monospace, monospace; --radius: 4px; --maxw: 860px; font-family: var(--font-serif); font-size: 17.5px; }
+.t-monograph h1, .t-monograph h2, .t-monograph h3 { font-family: var(--font-serif); font-weight: 600; }
+.t-monograph .menu a, .t-monograph .eyebrow, .t-monograph .btn, .t-monograph .small, .t-monograph .person .r, .t-monograph .pub .a, .t-monograph footer, .t-monograph .chips, .t-monograph .stat span, .t-monograph .placeholder, .t-monograph .nav-toggle, .t-monograph dl.contact dt { font-family: var(--font-sans); }
+.t-monograph .shell { display: grid; grid-template-columns: 260px 1fr; min-height: 100vh; }
+.t-monograph .side-col { background: var(--surface); border-right: 1px solid var(--line); }
+.t-monograph header.site { padding: 2rem 1.6rem; position: sticky; top: 0; height: 100vh; display: flex; flex-direction: column; justify-content: space-between; }
+.t-monograph .nav { flex-direction: column; align-items: stretch; gap: 2rem; min-height: 0; }
+.t-monograph .brand { flex-direction: column; align-items: flex-start; gap: .3rem; font-family: var(--font-serif); font-size: 1.45rem; }
+.t-monograph .brand small { font-family: var(--font-sans); font-weight: 400; font-size: .78rem; color: var(--muted); line-height: 1.4; }
+.t-monograph .menu { flex-direction: column; align-items: stretch; gap: 0; }
+.t-monograph .menu li:last-child { margin-top: 1rem; }
+.t-monograph .menu a { display: block; padding: .5rem 0; border-bottom: 1px solid var(--line); border-left: 0; }
+.t-monograph .menu a[aria-current="page"] { color: var(--accent); border-bottom-color: var(--line); font-weight: 600; }
+.t-monograph .side-foot { font-family: var(--font-sans); font-size: .82rem; color: var(--muted); }
+.t-monograph .side-foot p { margin: 0 0 .2rem; }
+@media (max-width: 900px) {
+  .t-monograph .shell { grid-template-columns: 1fr; }
+  .t-monograph .side-col { border-right: 0; border-bottom: 1px solid var(--line); }
+  .t-monograph header.site { position: relative; height: auto; padding: 1rem var(--gutter); flex-direction: row; align-items: center; }
+  .t-monograph .nav { flex-direction: row; align-items: center; justify-content: space-between; width: 100%; }
+  .t-monograph .brand { font-size: 1.15rem; } .t-monograph .brand small { display: none; }
+  .t-monograph .side-foot { display: none; }
+  .t-monograph .menu { flex-direction: column; } .t-monograph .menu li:last-child { margin-top: 0; }
+}
+@media (min-width: 761px) and (max-width: 900px) { .t-monograph .menu { flex-direction: row; gap: 1.2rem; } .t-monograph .menu a { border-bottom: 2px solid transparent; } .t-monograph .menu a[aria-current="page"] { border-bottom-color: var(--accent); } }
+.t-monograph .content-col { min-width: 0; }
+.t-monograph .wrap { margin: 0; padding: 0 clamp(20px, 5vw, 64px); }
+.t-monograph section { padding: clamp(28px, 4vw, 48px) 0; }
+.t-monograph .hero { padding-top: clamp(48px, 7vw, 96px); }
+.t-monograph .hero h1 { font-size: clamp(2.1rem, 4vw, 3.3rem); line-height: 1.12; max-width: 24ch; }
+.t-monograph .rule { border: 0; border-top: 2px solid var(--accent); width: 80px; margin: 1.6rem 0; }
+.t-monograph .intro { gap: 2.5rem; align-items: start; }
+.t-monograph .lede { font-size: 1.12rem; color: var(--text); }
+.t-monograph .art-frame { border: 1px solid var(--line); padding: .6rem; background: var(--bg); }
+.t-monograph .section-title { font-family: var(--font-sans); font-size: .8rem; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); font-weight: 600; display: flex; align-items: center; gap: 1rem; margin-bottom: 1.4rem; }
+.t-monograph .section-title::after { content: ""; flex: 1; border-top: 1px solid var(--line); }
+.t-monograph .area-list { list-style: none; padding: 0; margin: 0; }
+.t-monograph .area-list li { padding: 1.1rem 0; border-top: 1px dotted var(--line); display: grid; grid-template-columns: 240px 1fr; gap: 1.5rem; }
+.t-monograph .area-list h3 { font-size: 1.15rem; margin: 0; }
+.t-monograph .area-list p { margin: 0; color: var(--muted); }
+@media (max-width: 640px) { .t-monograph .area-list li { grid-template-columns: 1fr; gap: .3rem; } }
+.t-monograph .pub .t { font-family: var(--font-serif); font-weight: 600; }
+.t-monograph .pagehead { padding: clamp(40px, 6vw, 80px) 0 0; }
+.t-monograph .pagehead h1 { font-size: clamp(2rem, 3.6vw, 3rem); }
+.t-monograph .overview-grid { gap: 2.5rem; }
+.t-monograph .art-box { border: 1px solid var(--line); padding: .6rem; align-self: start; }
+.t-monograph .card { background: var(--bg); border-radius: 0; }
+.t-monograph .search input { font: inherit; font-family: var(--font-sans); padding: .5rem .8rem; border: 1px solid var(--line); border-radius: 0; background: var(--bg); color: var(--text); min-width: 260px; }
+.t-monograph .group-head { margin: 2rem 0 1rem; font-family: var(--font-sans); font-size: .8rem; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+.t-monograph .avatar { border-radius: 4px; }
+.t-monograph .contact-box { align-self: start; }
+.t-monograph .contact-box .btn { margin-top: 1.2rem; }
+.t-monograph .roles { margin-top: 1.5rem; }
+.t-monograph .btn { border-radius: 4px; }

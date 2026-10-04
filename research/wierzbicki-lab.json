@@ -1,0 +1,148 @@
+{
+ "slug": "wierzbicki-lab",
+ "pi": {
+  "name": "Andrzej Wierzbicki",
+  "title": "Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Andrzej Wierzbicki received his Ph.D. from the University of Warsaw, Poland, and was a postdoctoral research associate at Washington University in St. Louis before joining the University of Michigan faculty in 2009. His research asks how DNA is packaged and how that packaging relates to gene activity in the nucleus and in plastids, using plant experimental systems. He teaches genetics (BIO 305) and epigenetics (MCDB 462).",
+  "email": "wierzbic@umich.edu",
+  "phone": "734-647-6841",
+  "office": "5164 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/wierzbic.html"
+ },
+ "lab_description": "The Wierzbicki Lab studies how gene expression is regulated through chromatin structure and non-coding RNAs in plants. One major area is chloroplast chromatin: how chloroplast DNA is organized and packaged by nucleoid-associated proteins and how this packaging, including membrane association of active genes, connects to transcription by the plastid-encoded RNA polymerase. The second area is RNA-mediated transcriptional silencing, in which small interfering RNAs and long non-coding RNAs produced by the plant-specific polymerases Pol IV and Pol V direct DNA methylation, nucleosome positioning, and chromatin modifications that silence transposons and regulate genes. The lab works primarily in Arabidopsis thaliana, with additional work in maize, cucumber, and tomato, and combines mutant analysis, protein-RNA-DNA interaction assays, chromatin profiling, and high-throughput sequencing with bioinformatic analysis.",
+ "research_areas": [
+  {
+   "title": "Chloroplast chromatin",
+   "summary": "How chloroplast DNA is organized and packaged by nucleoid-associated proteins and how this packaging is connected to gene expression, studied with genetic tools in Arabidopsis, maize, cucumber, and tomato as the chloroplast equivalent of chromatin."
+  },
+  {
+   "title": "RNA-mediated transcriptional silencing",
+   "summary": "How siRNAs and long non-coding RNAs cooperate to silence transposons and regulate genes through chromatin modifications, including how lncRNA production is regulated, how chromatin-modifying enzymes are recruited, and how nucleosome positioning and chromosome organization are controlled."
+  }
+ ],
+ "team": [
+  {
+   "name": "Miguel Palomar",
+   "role": "Visiting Scientist",
+   "note": "Assistant Professor, National Autonomous University of Mexico"
+  },
+  {
+   "name": "Ji-Hee Min",
+   "role": "Postdoctoral Fellow",
+   "note": "Ph.D. Chonnam National University; chloroplast genome organization"
+  },
+  {
+   "name": "Yoonjin Cho",
+   "role": "Graduate Student (rotation)",
+   "note": "MCDB; B.S. Yonsei University"
+  },
+  {
+   "name": "Megan Tafoya",
+   "role": "Undergraduate",
+   "note": "Senior biochemistry major, history minor"
+  }
+ ],
+ "alumni": [
+  {
+   "name": "M. Hafiz Rothi",
+   "role": "Ph.D. Student (2015-2021)",
+   "now": ""
+  },
+  {
+   "name": "Shriya Sethuraman",
+   "role": "Ph.D. Student (2015-2020)",
+   "now": ""
+  },
+  {
+   "name": "Jan Kuciński",
+   "role": "Ph.D. Student (2013-2019)",
+   "now": ""
+  }
+ ],
+ "publications": [
+  {
+   "year": 2024,
+   "title": "PAP1 and PAP7 are required for association of plastid-encoded RNA polymerase with DNA",
+   "authors": "Wang J, Palomar VM, Min JH, Wierzbicki AT",
+   "venue": "Plant Molecular Biology",
+   "doi_or_url": "https://doi.org/10.1007/s11103-024-01498-x"
+  },
+  {
+   "year": 2024,
+   "title": "Membrane association of active genes organizes the chloroplast nucleoid structure",
+   "authors": "Palomar VM, Cho Y, Fujii S, Rothi MH, Jaksich S, Min JH, Schlachter AN, Wang J, Liu Z, Wierzbicki AT",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "doi_or_url": "https://doi.org/10.1073/pnas.2309244121"
+  },
+  {
+   "year": 2022,
+   "title": "High-resolution map of plastid encoded RNA polymerase binding patterns demonstrates a major role of transcription in chloroplast gene expression",
+   "authors": "Palomar VM, Jaksich S, Fujii S, Kuciński J, Wierzbicki AT",
+   "venue": "The Plant Journal",
+   "doi_or_url": "https://doi.org/10.1111/tpj.15882"
+  },
+  {
+   "year": 2021,
+   "title": "Reinforcement of transcriptional silencing by a positive feedback between DNA methylation and non-coding transcription",
+   "authors": "Rothi MH, Tsuzuki M, Sethuraman S, Wierzbicki AT",
+   "venue": "Nucleic Acids Research",
+   "doi_or_url": "https://doi.org/10.1093/nar/gkab746"
+  },
+  {
+   "year": 2021,
+   "title": "Long noncoding RNAs in plants",
+   "authors": "Wierzbicki AT, Blevins T, Świeżewski S",
+   "venue": "Annual Review of Plant Biology",
+   "doi_or_url": "https://doi.org/10.1146/annurev-arplant-093020-035446"
+  },
+  {
+   "year": 2020,
+   "title": "Broad noncoding transcription suggests genome surveillance by RNA polymerase V",
+   "authors": "Tsuzuki M, Sethuraman S, Coke AN, Rothi MH, Boyle AP, Wierzbicki AT",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "doi_or_url": "https://doi.org/10.1073/pnas.2014419117"
+  },
+  {
+   "year": 2020,
+   "title": "DNA methylation directs nucleosome positioning in RNA-mediated transcriptional silencing",
+   "authors": "Rothi MH, Sethuraman S, Dolata J, Boyle AP, Wierzbicki AT",
+   "venue": "bioRxiv (preprint)",
+   "doi_or_url": "https://doi.org/10.1101/2020.10.29.359794"
+  },
+  {
+   "year": 2020,
+   "title": "Evolutionary history and activity of RNase H1-like proteins in Arabidopsis thaliana",
+   "authors": "Kuciński J, Chamera S, Kmera A, Rowley MJ, Fujii S, Khurana P, Nowotny M, Wierzbicki AT",
+   "venue": "Plant and Cell Physiology",
+   "doi_or_url": "https://doi.org/10.1093/pcp/pcaa040"
+  },
+  {
+   "year": 2019,
+   "title": "The immune repressor BIR1 contributes to antiviral defense and undergoes transcriptional and post-transcriptional regulation during viral infections",
+   "authors": "Guzman-Benito I, Donaire L, Amorim-Silva V, Vallarino JG, Esteban A, Wierzbicki AT, Ruiz-Ferrer V, Llave C",
+   "venue": "New Phytologist",
+   "doi_or_url": "https://doi.org/10.1111/nph.15931"
+  },
+  {
+   "year": 2018,
+   "title": "Buried in PEAT: discovery of a new silencing complex with opposing activities",
+   "authors": "Tsuzuki M, Wierzbicki AT",
+   "venue": "The EMBO Journal",
+   "doi_or_url": "https://doi.org/10.15252/embj.2018100573"
+  }
+ ],
+ "news": [],
+ "funding": [],
+ "joining": "",
+ "address": "5164 Biological Sciences Building, 1105 N. University Ave., Ann Arbor, MI 48109-1085",
+ "links": {
+  "twitter": "",
+  "github": "",
+  "google_scholar": "",
+  "pubmed": "",
+  "other": [
+   "https://sites.lsa.umich.edu/wierzbicki-lab/plavisto/"
+  ]
+ }
+}

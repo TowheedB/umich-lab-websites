@@ -1,0 +1,27 @@
+{% extends template ~ '/base.html.j2' %}
+{% import '_partials.j2' as P with context %}
+{% block title %}People · {{ lab.short }}{% endblock %}
+{% block pagehead %}
+  <div class="eyebrow">People</div>
+  <h1>Who we are</h1>
+  <p class="lede">The {{ lab.short }} brings together researchers across career stages in the {{ lab.pi.department }} at the University of Michigan.</p>
+{% endblock %}
+{% block content %}
+<section class="pi-section">
+  <div class="wrap">{{ P.pi_block(lab) }}</div>
+</section>
+<section class="team-section alt">
+  <div class="wrap">
+    <div class="section-head"><h2>Lab members</h2><span class="muted small">Photos to be added</span></div>
+    {{ P.team(lab) }}
+  </div>
+</section>
+{% if lab.alumni %}
+<section class="alumni-section">
+  <div class="wrap">
+    <h2>Alumni</h2>
+    {{ P.alumni(lab) }}
+  </div>
+</section>
+{% endif %}
+{% endblock %}

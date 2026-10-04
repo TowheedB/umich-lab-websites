@@ -1,0 +1,165 @@
+{
+ "lab": "Kargbo-Hill Lab",
+ "pi": {
+  "name": "Sarah E. Kargbo-Hill",
+  "title": "Assistant Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Sarah E. Kargbo-Hill earned a B.S. in Biochemistry and Molecular Biology from Penn State University (2012), where she worked with Melissa Rolls on microtubule polarity in Drosophila neurons, and a Ph.D. in Cell Biology from Yale University (2018) with Daniel Colon-Ramos studying presynaptic development and autophagy in C. elegans. She completed postdoctoral training with Michael Ward at the NIH, using human iPSC-derived neurons to study neurodegenerative disease proteins such as TDP-43. She joined the MCDB department at the University of Michigan as an Assistant Professor in January 2024. Her training was supported by an NSF Graduate Research Fellowship, a BrightFocus Foundation Fellowship, and a K99 NIH/NIA Pathway to Independence Award.",
+  "email": "skarhill@umich.edu",
+  "phone": "734-763-2967",
+  "office": "4168 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/skarhill.html",
+  "initials": "SE"
+ },
+ "description": "The Kargbo-Hill Lab studies how neurons, as non-dividing cells that must survive for a lifetime, regulate gene expression to adapt to changing and sometimes stressful conditions. The lab focuses on two mechanisms, RNA splicing and active DNA demethylation, and how they are specialized in neurons and altered during aging and neurodegeneration. A central theme is the RNA-binding protein TDP-43, whose nuclear loss drives cryptic exon inclusion in ALS, frontotemporal dementia, and Alzheimer's disease. The lab combines human iPSC-derived neurons, the nematode C. elegans, live imaging, and multi-omics (epigenomic, transcriptomic, splicing, and proteomic) approaches.",
+ "areas": [
+  {
+   "title": "TDP-43 and RNA splicing in neurodegeneration",
+   "summary": "Investigates how TDP-43 regulates splicing and how its translocation from nucleus to cytosol in ALS, FTD, and Alzheimer's disease leads to cryptic exon inclusion that reduces target gene expression. Work in human iPSC-derived neurons identified novel pathologic splicing in the ALS/TDP-associated synaptic gene UNC13A."
+  },
+  {
+   "title": "RNA splicing in C. elegans",
+   "summary": "Uses the nematode's ubiquitously expressed TDP-43 ortholog, TDP-1, to explore tissue-specific mechanisms of cryptic splicing regulation, taking advantage of the worm's optical accessibility and conserved RNA metabolism for studies of neuronal aging."
+  },
+  {
+   "title": "Neuronal DNA (de)methylation",
+   "summary": "Examines active DNA demethylation as a gene regulatory mechanism in non-dividing neurons, building on the discovery that neurons undergo widespread DNA synthesis at enhancers to repair recurrent single-stranded DNA breaks, and asks how this is used during acute stress responses."
+  }
+ ],
+ "pubs": [
+  {
+   "year": 2025,
+   "title": "Integrative multiomic analysis links TDP-43-driven splicing defects to cascading proteomic disruption of ALS/FTD pathways",
+   "authors": "Kozareva V, Liu Z, Blake K, Qi Y, Rollinson S, Seddighi S, Alsaidi M, et al.",
+   "venue": "bioRxiv (preprint)",
+   "doi_or_url": "https://www.biorxiv.org/content/10.1101/2025.09.29.679403v2"
+  },
+  {
+   "year": 2022,
+   "title": "TDP-43 loss and ALS-risk SNPs drive mis-splicing and depletion of UNC13A",
+   "authors": "Brown AL, Wilkins O, Keuss M, Kargbo-Hill SE, et al.",
+   "venue": "Nature 603(7899):131-137",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/35197628/"
+  },
+  {
+   "year": 2022,
+   "title": "Presynaptic autophagy is coupled to the synaptic vesicle cycle via ATG-9",
+   "authors": "Yang S, Park D, Manning L, Kargbo-Hill SE, et al.",
+   "venue": "Neuron 110(5):824-840",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/35065714/"
+  },
+  {
+   "year": 2021,
+   "title": "Neuronal enhancers are hotspots for DNA single-strand break repair",
+   "authors": "Wu W, Kargbo-Hill SE, Nathan WJ, et al.",
+   "venue": "Nature 593:440-444",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/33767446/"
+  },
+  {
+   "year": 2020,
+   "title": "Truncated stathmin-2 is a marker of TDP-43 pathology in frontotemporal dementia",
+   "authors": "Prudencio M, Humphrey J, Pickles S, Brown AL, Kargbo-Hill SE, et al.",
+   "venue": "Journal of Clinical Investigation 130(11):6080-6092",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/32790644/"
+  },
+  {
+   "year": 2020,
+   "title": "The journey of the synaptic autophagosome: a cell biological perspective",
+   "authors": "Kargbo-Hill SE, Colon-Ramos DA",
+   "venue": "Neuron 105(6):961-973",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/32191859/"
+  },
+  {
+   "year": 2019,
+   "title": "Maturation and Clearance of Autophagosomes in Neurons Depends on a Specific Cysteine Protease Isoform, ATG-4.2",
+   "authors": "Kargbo-Hill SE, Kauffman K, Krout M, Richmond JE, Melia T, Colon-Ramos DA",
+   "venue": "Developmental Cell 49(2):251-266.e8",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/30880001/"
+  },
+  {
+   "year": 2019,
+   "title": "A specific ATG-4 isoform is required for autophagic maturation and clearance in C. elegans neurons",
+   "authors": "Kargbo-Hill SE, Colon-Ramos DA",
+   "venue": "Autophagy 15(10):1840-1842",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/31291815/"
+  },
+  {
+   "year": 2016,
+   "title": "KIF1A/UNC-104 Transports ATG-9 to Regulate Neurodevelopment and Autophagy at Synapses",
+   "authors": "Stavoe AK, Kargbo-Hill SE, Hall DH, Colon-Ramos DA",
+   "venue": "Developmental Cell 38(2):171-185",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/27396362/"
+  },
+  {
+   "year": 2012,
+   "title": "Development of dendrite polarity in Drosophila neurons",
+   "authors": "Kargbo-Hill SE, Parmar M, Gheres KW, Guignet MA, Huang Y, Jackson FR, Rolls MM",
+   "venue": "Neural Development 7(1):34",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/23111238/"
+  }
+ ],
+ "team_groups": [
+  [
+   "Graduate Students",
+   [
+    {
+     "name": "Zhengde Liu",
+     "role": "Graduate Student",
+     "note": "MCDB PhD student (cohort 2023); B.S. Molecular and Cellular Biology, University of Illinois at Urbana-Champaign",
+     "initials": "ZL"
+    },
+    {
+     "name": "Sasha Rollinson",
+     "role": "Graduate Student",
+     "note": "MCDB Pathways Master's student; Honors B.S. Neuroscience, Eastern Michigan University",
+     "initials": "SR"
+    },
+    {
+     "name": "Keyana Blake",
+     "role": "Graduate Student",
+     "note": "Neuroscience Graduate Program PhD student (joined March 2025); investigating TDP-43-related cryptic splicing",
+     "initials": "KB"
+    },
+    {
+     "name": "Sincere (Yicheng) Kang",
+     "role": "Graduate Student",
+     "note": "MCDB PhD student (cohort 2024); B.S. Biological Sciences, China Agricultural University",
+     "initials": "SK"
+    },
+    {
+     "name": "Tiffany Huang",
+     "role": "Undergraduate",
+     "note": "MCDB, class of 2026",
+     "initials": "TH"
+    },
+    {
+     "name": "Nicole Dontu",
+     "role": "Undergraduate",
+     "note": "Neuroscience, class of 2026",
+     "initials": "ND"
+    },
+    {
+     "name": "Mohammed Alsaidi",
+     "role": "Undergraduate",
+     "note": "Neuroscience/Chemistry, class of 2027",
+     "initials": "MA"
+    },
+    {
+     "name": "Yash Gupta",
+     "role": "Undergraduate",
+     "note": "LSA, class of 2029",
+     "initials": "YG"
+    },
+    {
+     "name": "Leah Covey",
+     "role": "Undergraduate",
+     "note": "LSA, class of 2029",
+     "initials": "LC"
+    }
+   ]
+  ]
+ ],
+ "news": [],
+ "joining": "The lab is actively recruiting at multiple levels. Postdoctoral applicants should send a CV with publication list and a cover letter explaining their research interests. Graduate students from the MCDB, PIBS, and Neuroscience graduate programs are welcome and should reach out to discuss setting up a rotation. Prospective undergraduates should email a description of their research interests and goals along with an unofficial transcript.",
+ "address": "University of Michigan, MCDB, 4170 Biological Sciences Building, 1105 N. University Ave., Ann Arbor, MI 48109"
+}

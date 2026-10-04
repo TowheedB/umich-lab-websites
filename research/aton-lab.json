@@ -1,0 +1,254 @@
+{
+ "slug": "aton-lab",
+ "pi": {
+  "name": "Sara Aton",
+  "title": "Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Sara Aton received her PhD in Neuroscience from Washington University in St. Louis, where she worked with Erik Herzog, and completed postdoctoral training with Marcos Frank at the University of Pennsylvania. She joined the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan as an Assistant Professor in 2012, was promoted to Associate Professor with tenure in 2019, and to Professor in 2024. Her research examines how sensory experience and sleep shape neural circuits, with a focus on the mechanisms underlying plasticity and memory formation.",
+  "email": "saton@umich.edu",
+  "phone": "734-615-1576",
+  "office": "4268 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/saton.html"
+ },
+ "lab_description": "The Aton Lab studies how neuronal and network activity during sleep and waking contributes to neural plasticity following novel sensory experiences. Using mice, the lab investigates how sleep supports two processes: hippocampal long-term memory formation and visual cortex plasticity. The group combines behavioral, biochemical, electrophysiological, and optogenetic techniques in freely behaving animals to link brain-state-specific network activity to the intracellular signaling and structural changes that consolidate memories. The lab also asks whether abnormal sleep contributes to cognitive deficits in neurodevelopmental disorders such as Fragile X syndrome, Angelman syndrome, and autism spectrum disorders.",
+ "research_areas": [
+  {
+   "title": "Thalamocortical oscillations and sleep-dependent plasticity",
+   "summary": "Tests whether high-amplitude, low-frequency oscillations during sleep uniquely promote cortical plasticity, using optogenetic tools to silence oscillation-generating neurons while recording neural activity and plasticity in freely behaving mice."
+  },
+  {
+   "title": "Sleep and hippocampal memory consolidation",
+   "summary": "Explores how network activity during sleep activates intracellular signaling pathways needed to convert short-term memories into long-term memories, combining electrophysiology, optogenetics, and biochemistry."
+  },
+  {
+   "title": "Sleep and neurodevelopmental disorders",
+   "summary": "Investigates whether abnormal sleep contributes to cognitive deficits in autism spectrum disorders, Fragile X syndrome, and Angelman syndrome, and how disease-associated mutations affect sleep behavior and the network activity associated with memory consolidation."
+  }
+ ],
+ "team": [
+  {
+   "name": "Frank Raven",
+   "role": "Postdoctoral Fellow",
+   "note": "2021-present; PhD from University of Groningen"
+  },
+  {
+   "name": "Luuk van Boekholdt",
+   "role": "Postdoctoral Fellow",
+   "note": "2024-present; PhD from Katholieke Universiteit Leuven"
+  },
+  {
+   "name": "Alexis Vega Medina",
+   "role": "Graduate Student",
+   "note": "PhD student, Neuroscience Graduate Program, 2021-present"
+  },
+  {
+   "name": "Vinodh Balendran",
+   "role": "Graduate Student",
+   "note": "PhD student, Neuroscience Graduate Program, 2021-present"
+  },
+  {
+   "name": "Kate McDonald",
+   "role": "Graduate Student",
+   "note": "PhD student, MCDB, 2023-present"
+  },
+  {
+   "name": "Hira Mirza",
+   "role": "Graduate Student",
+   "note": "PhD student, Neuroscience Graduate Program, 2024-present"
+  },
+  {
+   "name": "Anna VanKampen",
+   "role": "Undergraduate",
+   "note": "Neuroscience/Sociology, 2022-present"
+  },
+  {
+   "name": "Annie He",
+   "role": "Undergraduate",
+   "note": "MCDB/Computer Science, 2022-present"
+  },
+  {
+   "name": "Alvin Dong",
+   "role": "Undergraduate",
+   "note": "Neuroscience/French, 2022-present"
+  },
+  {
+   "name": "Brayden Bunce",
+   "role": "Undergraduate",
+   "note": "Neuroscience, 2023-present"
+  }
+ ],
+ "alumni": [
+  {
+   "name": "Jessy Martinez",
+   "role": "PhD Student, MCDB (2018-2023)",
+   "now": ""
+  },
+  {
+   "name": "Zhongying Yang",
+   "role": "Senior Lab Technician / Lab Manager (2021-2023)",
+   "now": ""
+  },
+  {
+   "name": "Lijing Wang",
+   "role": "PhD Student, MCDB (2019-2023)",
+   "now": ""
+  },
+  {
+   "name": "Delaney McKinstry",
+   "role": "Pathways Master's Student, MCDB (2021-2023)",
+   "now": ""
+  },
+  {
+   "name": "William Brancaleone",
+   "role": "Lab Technician / Undergraduate (2021-2023)",
+   "now": ""
+  },
+  {
+   "name": "Lydia Wilson",
+   "role": "Lab Technician / Undergraduate (2021-2023)",
+   "now": ""
+  },
+  {
+   "name": "Kathryn Peterson",
+   "role": "Undergraduate (2021-2022)",
+   "now": ""
+  },
+  {
+   "name": "Lauren Park",
+   "role": "Lab Technician / Undergraduate (2019-2022)",
+   "now": ""
+  },
+  {
+   "name": "Sha Jiang",
+   "role": "Senior Lab Technician / Lab Manager (2014-2021)",
+   "now": ""
+  },
+  {
+   "name": "Brittany Clawson",
+   "role": "PhD Student, MCDB/PIBS (2014-2020)",
+   "now": ""
+  },
+  {
+   "name": "Carlos Puentes-Mestril",
+   "role": "PhD Student, Neuroscience/PIBS (2014-2020)",
+   "now": ""
+  },
+  {
+   "name": "James Delorme",
+   "role": "PhD Student, Neuroscience Graduate Program (2015-2020)",
+   "now": ""
+  },
+  {
+   "name": "Nicolette Ognjanovski",
+   "role": "PhD Student, MCDB (2012-2017)",
+   "now": ""
+  },
+  {
+   "name": "Kariharan (Hari) Thiruchelvam",
+   "role": "Postdoctoral Fellow (2014-2017)",
+   "now": ""
+  },
+  {
+   "name": "Jaclyn Durkin",
+   "role": "PhD Student, Neuroscience (2013-2018)",
+   "now": ""
+  },
+  {
+   "name": "Aneesha Suresh",
+   "role": "Senior Lab Technician (2012-2013)",
+   "now": ""
+  }
+ ],
+ "publications": [
+  {
+   "year": 2025,
+   "title": "Brief sleep disruption alters synaptic structures among hippocampal and neocortical somatostatin-expressing interneurons",
+   "authors": "Raven F, Vega Medina A, Schmidt K, He A, Vankampen AA, Balendran V, Aton SJ",
+   "venue": "SLEEP",
+   "doi_or_url": "https://doi.org/10.1093/sleep/zsaf064"
+  },
+  {
+   "year": 2025,
+   "title": "Cholinergic modulation of neural networks supports sequential and complementary roles for NREM and REM states in memory consolidation",
+   "authors": "Satchell M, Fry B, Noureddine Z, Simmons A, Ognjanovski NN, Aton SJ, Zochowski M",
+   "venue": "PLoS Computational Biology",
+   "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1013097"
+  },
+  {
+   "year": 2025,
+   "title": "Daily rhythms drive dynamism in sleep, oscillations, and interneuron firing, while excitatory firing remains stable across 24-hours",
+   "authors": "Ognjanovski N, Kim DS, Charlett-Green E, van Koppen S, Aton SJ, Watson BO",
+   "venue": "European Journal of Neuroscience",
+   "doi_or_url": "https://doi.org/10.1111/ejn.16619"
+  },
+  {
+   "year": 2024,
+   "title": "Hypnotic treatment improves sleep architecture and EEG disruptions and rescues memory deficits in a mouse model of Fragile X syndrome",
+   "authors": "Martinez JD, Wilson LG, Brancaleone WP, Peterson KG, Popke DS, Garzon VC, Perez Tremble RE, Donnelly MJ, Mendez Ortega SL, Torres D, Shaver JJ, Jiang S, Yang Z, Aton SJ",
+   "venue": "Cell Reports",
+   "doi_or_url": "https://doi.org/10.1016/j.celrep.2024.114266"
+  },
+  {
+   "year": 2024,
+   "title": "Sleep-dependent engram reactivation during hippocampal memory consolidation associated with subregion-specific biosynthetic changes",
+   "authors": "Wang L, Park L, Wu W, King D, Vega Medina A, Raven F, Martinez JD, Ensing A, McDonald K, Yang Z, Jiang S, Aton SJ",
+   "venue": "iScience",
+   "doi_or_url": "https://doi.org/10.1016/j.isci.2024.109408"
+  },
+  {
+   "year": 2023,
+   "title": "Enriched binocular experience followed by sleep optimally restores binocular visual cortical responses in a mouse model of amblyopia",
+   "authors": "Martinez JD, Donnelly MJ, Popke DS, Torres D, Wilson LG, Brancaleone WP, Sheskey S, Lin C, Clawson BC, Jiang S, Aton SJ",
+   "venue": "Communications Biology",
+   "doi_or_url": "https://doi.org/10.1038/s42003-023-04798-y"
+  },
+  {
+   "year": 2023,
+   "title": "Atypical hypnotic compound ML297 restores sleep architecture immediately following emotionally valenced learning, to promote memory consolidation and hippocampal network activation during recall",
+   "authors": "Martinez JD, Brancaleone WP, Peterson KG, Wilson LG, Aton SJ",
+   "venue": "SLEEP",
+   "doi_or_url": "https://doi.org/10.1093/sleep/zsac301"
+  },
+  {
+   "year": 2022,
+   "title": "Perspective - Ultrastructural analyses reflect the effects of sleep and sleep loss on neuronal cell biology",
+   "authors": "Wang L, Aton SJ",
+   "venue": "SLEEP",
+   "doi_or_url": "https://doi.org/10.1093/sleep/zsac047"
+  },
+  {
+   "year": 2021,
+   "title": "Hippocampal neurons' cytosolic and membrane-bound ribosomal mRNA profiles are differentially regulated by learning and subsequent sleep",
+   "authors": "Delorme J, Wang L, Kodoth V, Wang Y, Ma J, Jiang S, Aton SJ",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "doi_or_url": "https://doi.org/10.1073/pnas.2108534118"
+  },
+  {
+   "year": 2021,
+   "title": "Sleep loss drives acetylcholine- and somatostatin interneuron-mediated gating of hippocampal activity, to inhibit memory consolidation",
+   "authors": "Delorme J, Wang L, Kuhn FR, Kodoth V, Ma J, Martinez JD, Raven F, Toth BA, Balendran V, Vega Medina A, Jiang S, Aton SJ",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "doi_or_url": "https://doi.org/10.1073/pnas.2019318118"
+  }
+ ],
+ "news": [
+  {
+   "date": "",
+   "text": "Lab research on sleep, emotion, and memory featured by Michigan News (\"Sleep is vital to associating emotion with memory\")."
+  },
+  {
+   "date": "",
+   "text": "Lab research on sleep and visual learning featured by Michigan News."
+  }
+ ],
+ "funding": [],
+ "joining": "The lab is actively seeking applications from undergraduate students for the Fall 2026 semester; interested students apply through a Qualtrics form linked from the Join Us page. The lab offers training in research methodology, involvement in research initiatives, and a collaborative team environment, and looks for research enthusiasm, reliable and precise work habits, and openness to learning. Contact Dr. Sara Aton (734-615-1576) or the lab (734-936-6864).",
+ "address": "Biological Sciences Building, 1105 North University Ave, Ann Arbor, MI 48109-1085 (Lab: BSB 4250; Office: BSB 4268)",
+ "links": {
+  "twitter": "",
+  "github": "",
+  "google_scholar": "",
+  "pubmed": "",
+  "other": []
+ }
+}

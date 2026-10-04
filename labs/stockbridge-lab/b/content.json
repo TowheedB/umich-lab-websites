@@ -1,0 +1,201 @@
+{
+ "lab": "Stockbridge Lab",
+ "pi": {
+  "name": "Randy Stockbridge",
+  "title": "Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Randy Stockbridge earned an A.B. in Molecular Biology from Princeton University (2005) and a Ph.D. in Biochemistry and Biophysics from the University of North Carolina at Chapel Hill (2010). She established her laboratory at the University of Michigan in 2016. In 2024-2025 she completed a sabbatical in the Paulino lab studying cryo-EM with support from the Alexander von Humboldt Foundation. Her lab studies membrane transport proteins, the channels and energy-coupled pumps that act as molecular gatekeepers of the cell.",
+  "email": "stockbr@umich.edu",
+  "phone": "734-764-3631",
+  "office": "Biological Sciences Building, Room 3242",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/stockbr.html",
+  "initials": "RS"
+ },
+ "description": "The Stockbridge Lab studies membrane transport proteins, the channels and energy-coupled pumps that serve as molecular gatekeepers of the cell. The group works to understand the structure, dynamics, and function of these proteins, with particular interest in how bacteria resist environmental stressors such as antiseptics, PFAS, pharmaceuticals, and pollutants. Major projects include fluoride export channels in oral pathogens and eukaryotes, the small multidrug resistance (SMR) family of exporters that move antiseptics and pharmaceutical metabolites such as metformin breakdown products, and the molecular evolution of new protein folds and functions. The lab combines cryo-EM, X-ray crystallography, biochemistry, single-molecule biophysics, microbiology, and evolutionary analysis, and is supported by NIH and NSF.",
+ "areas": [
+  {
+   "title": "Structural biology of membrane proteins",
+   "summary": "Cryo-EM and X-ray crystallography of small membrane transport proteins, including development of epitope tags that make these small proteins tractable for structure determination."
+  },
+  {
+   "title": "Fluoride resistance in oral pathogens",
+   "summary": "How fluoride channels (Fluc, FEX) export fluoride, how fluoride triggers lysis in Streptococcus mutans, and whether fluoride export is required for pathogen fitness in dental biofilm models."
+  },
+  {
+   "title": "Bacterial resistance to antiseptics and pharmaceutical metabolites",
+   "summary": "Mechanisms by which small multidrug resistance (SMR) transporters such as EmrE and guanidinium exporters move antiseptics and metformin metabolites across the membrane, including the residues that encode transport specificity."
+  },
+  {
+   "title": "Molecular evolution of transporters",
+   "summary": "How novel protein folds and transport functions arise, studied through evolutionary analysis combined with biophysical characterization."
+  }
+ ],
+ "pubs": [
+  {
+   "year": 2025,
+   "title": "The molecular mechanism of fluoride export by the eukaryotic fluoride channel FEX",
+   "authors": "Kang CY, An M, Heidari S, Torabifard H, Ohi MD, Stockbridge RB",
+   "venue": "Nature Communications",
+   "doi_or_url": "https://doi.org/10.1038/s41467-025-67289-0"
+  },
+  {
+   "year": 2025,
+   "title": "Fluoride triggers lysis in Streptococcus mutans by inhibition of the Clp protease complex leading to an unabated competence cascade",
+   "authors": "Banerjee A, Pickelner S, Smith F, Stockbridge RB",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "doi_or_url": "https://doi.org/10.1073/pnas.2511884122"
+  },
+  {
+   "year": 2024,
+   "title": "Peripheral positions encode transport specificity in the small multidrug resistance exporters",
+   "authors": "Burata OE, O'Donnell E, Hyun J, Lucero RM, Thomas JE, Gibbs EM, Reacher I, Carney NA, Stockbridge RB",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "doi_or_url": "https://doi.org/10.1073/pnas.2403273121"
+  },
+  {
+   "year": 2024,
+   "title": "The link between ancient microbial fluoride resistance mechanisms and bioengineering organofluorine degradation or synthesis",
+   "authors": "Stockbridge RB, Wackett LP",
+   "venue": "Nature Communications",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2024,
+   "title": "Fluoride export is required for competitive fitness of pathogenic microorganisms in dental biofilm models",
+   "authors": "Banerjee A, Kang CY, An M, Koff BB, Sunder S, Kumar A, Tenuta LMA, Stockbridge RB",
+   "venue": "mBio",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2024,
+   "title": "Transport of metformin metabolites by guanidinium exporters of the small multidrug resistance family",
+   "authors": "Lucero RM, Demirer K, Yeh TJ, Stockbridge RB",
+   "venue": "Journal of General Physiology",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2022,
+   "title": "Wastewater bacteria remediating the pharmaceutical metformin: Genomes, plasmids and products",
+   "authors": "Martinez-Vaz BM, Dodge AG, Lucero RM, Stockbridge RB, Robinson AA, Tassoulas LJ, Wackett LP",
+   "venue": "Frontiers in Bioengineering and Biotechnology",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2022,
+   "title": "Still rocking in the structural era: a molecular overview of the Small Multidrug Resistance transporters",
+   "authors": "Burata OE, Yeh TJ, Macdonald CB, Stockbridge RB",
+   "venue": "Journal of Biological Chemistry",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2022,
+   "title": "Crystal structures of bacterial small multidrug resistance transporter EmrE in complex with structurally diverse substrates",
+   "authors": "Kermani AA, Burata OE, Koff BB, Koide A, Koide S, Stockbridge RB",
+   "venue": "eLife",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2021,
+   "title": "Membrane exporters of fluoride ion",
+   "authors": "McIlwain BM, Ruprecht MT, Stockbridge RB",
+   "venue": "Annual Review of Biochemistry",
+   "doi_or_url": ""
+  }
+ ],
+ "team_groups": [
+  [
+   "Postdoctoral Researchers",
+   [
+    {
+     "name": "Aditya Banerjee",
+     "role": "Postdoctoral Fellow",
+     "note": "Fluoride resistance in oral microbiota; Ph.D. Biochemistry, University of Calcutta",
+     "initials": "AB"
+    },
+    {
+     "name": "Jordan Compton",
+     "role": "Postdoctoral Fellow",
+     "note": "Molecular evolution of transporters; Ph.D. Victoria University of Wellington; joined 2025",
+     "initials": "JC"
+    },
+    {
+     "name": "Saikat Mandal",
+     "role": "Postdoctoral Fellow",
+     "note": "Structural biology; Ph.D. NIT Durgapur, postdoc Michigan State; joined 2025",
+     "initials": "SM"
+    }
+   ]
+  ],
+  [
+   "Graduate Students",
+   [
+    {
+     "name": "Chia-Yu Kang",
+     "role": "Graduate Student",
+     "note": "Biophysics; fluoride channels; defended Ph.D. March 2026",
+     "initials": "CK"
+    },
+    {
+     "name": "Trevor Justin Yeh",
+     "role": "Graduate Student",
+     "note": "Biophysics; biophysical characterization of SMR transporters; defended Ph.D. March 2026",
+     "initials": "TJ"
+    },
+    {
+     "name": "Carla Peralta",
+     "role": "Graduate Student",
+     "note": "Chemical Biology; ion channel evolution; defended Ph.D. March 2026",
+     "initials": "CP"
+    },
+    {
+     "name": "Eva Marshall",
+     "role": "Graduate Student",
+     "note": "B.S. Biomedical Sciences, Grand Valley State University",
+     "initials": "EM"
+    },
+    {
+     "name": "Maya Bradley",
+     "role": "Undergraduate",
+     "note": "Chemistry major",
+     "initials": "MB"
+    }
+   ]
+  ]
+ ],
+ "news": [
+  {
+   "date": "2026-08",
+   "text": "Lab's work on fluoride export proteins featured in a C&EN article on microbial degradation of PFAS."
+  },
+  {
+   "date": "2026-04",
+   "text": "Postdoc Aditya Banerjee received an International Association for Dental Research award for his studies on making fluoride a more potent antimicrobial against dental pathogens."
+  },
+  {
+   "date": "2026-04",
+   "text": "Trevor Yeh, Carla Peralta, and Chia-Yu Kang successfully defended their Ph.D. dissertations in March."
+  },
+  {
+   "date": "2025-12",
+   "text": "Two papers published the same day: Aditya Banerjee's PNAS paper on fluoride-induced lysis in Streptococcus mutans and Chia-Yu Kang's Nature Communications paper on the eukaryotic fluoride exporter FEX."
+  },
+  {
+   "date": "2025-04",
+   "text": "Postdocs Jordan Compton (Victoria University of Wellington) and Saikat Mandal (Michigan State) joined the lab."
+  },
+  {
+   "date": "2025-04",
+   "text": "Randy Stockbridge completed a sabbatical in the Paulino lab studying cryo-EM, supported by the Alexander von Humboldt Foundation."
+  },
+  {
+   "date": "2025-04",
+   "text": "Rachael Lucero won the 2025 Cranefield Award from the Society of General Physiologists for her work on metformin metabolite transport by guanidinium exporters."
+  },
+  {
+   "date": "2024-10",
+   "text": "Undergraduate Minjun An won a Best Poster award at the MCDB department retreat."
+  }
+ ],
+ "joining": "The lab is hiring a long-term senior research scientist (PhD in structural biology, biochemistry, or related field; combines benchwork and lab management; supported by an NIH R35 grant). Postdoctoral positions are available in cryo-EM and X-ray crystallography of membrane proteins and in membrane protein biophysics, and applicants may also propose new directions; send a CV and cover letter describing experience and interests. Rotation students are accepted from MCDB, Biophysics, PCB, PIBS, and Biological Chemistry, with projects on antimicrobial compound development, conformational dynamics of bacterial drug exporters, and discovery of membrane transport regulatory proteins. Undergraduates interested in independent, semester-long biochemical research (possibly leading to a senior thesis) should send a resume and a brief description of research goals. The lab emphasizes a welcoming and inclusive environment.",
+ "address": "Biological Sciences Building, 1105 N. University Ave., Ann Arbor, MI 48109"
+}

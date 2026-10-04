@@ -1,0 +1,172 @@
+{
+ "lab": "Kozik Lab",
+ "pi": {
+  "name": "Ariangela J. Kozik",
+  "title": "Assistant Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Ariangela J. Kozik earned a B.S. in Biotechnology from Calvin College and a Ph.D. in Comparative Pathobiology from Purdue University, followed by training in Personalized and Genomic Medicine at the University of Colorado Anschutz Medical Campus. She was an NIH-fellowship-supported postdoctoral fellow studying the respiratory microbiome and asthma and then a Research Investigator in pulmonary medicine at Michigan Medicine, focusing on microbial-immune relationships in adult asthma with an emphasis on precision approaches. She is now an Assistant Professor in MCDB with affiliations in Internal Medicine (Pulmonary and Critical Care Medicine), the Center for Computational Medicine and Bioinformatics, and AI and Digital Health Innovation. She co-founded the Black Microbiologists Association in 2020.",
+  "email": "dariange@umich.edu",
+  "phone": "",
+  "office": "3214 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/kozik.html",
+  "initials": "AJ"
+ },
+ "description": "The Kozik Lab investigates host-microbe and microbe-microbe crosstalk in the human respiratory tract, with a focus on how immune-microbiome interactions shape chronic respiratory disease, particularly asthma. The lab uses multi-omic approaches spanning the microbiome, genome, transcriptome, metabolome, and proteome to understand dynamic interactions in the airways and asthma heterogeneity. A major experimental focus is the genus Prevotella, including how the lung symbiont Prevotella melaninogenica tolerates oxygen, how it can be made genetically and experimentally tractable, and whether lung commensals metabolize inhaled corticosteroids. The lab also works to advance precision medicine by measuring lived environmental conditions rather than relying on broad population labels. Its stated values are teamwork, communication, curiosity, and community, with a commitment that science belongs to everyone.",
+ "areas": [
+  {
+   "title": "The Prevotella paradox and oxygen adaptation",
+   "summary": "Asks how Prevotella melaninogenica, classified as a strict anaerobe for over a century, thrives in the oxygenated respiratory tract. The lab's preprinted work shows active growth in hypoxic conditions and gene expression shifts suggesting oxygen tolerance, and it is identifying mechanisms of oxygen detection and neutralization and their effects on microbe-microbe competition and persistence during airway inflammation."
+  },
+  {
+   "title": "Expanding experimental tractability for Prevotella",
+   "summary": "Develops laboratory protocols and genetic tools so that Prevotella can be studied functionally in controlled settings, moving beyond observational genomic correlations."
+  },
+  {
+   "title": "Microbial biotransformation of inhaled corticosteroids",
+   "summary": "Explores whether lung commensals, especially Prevotella species, carry biochemical machinery that metabolically alters inhaled corticosteroids, potentially explaining partial or complete nonresponsiveness in some patients."
+  },
+  {
+   "title": "The ecosocial interface",
+   "summary": "Works to advance precision medicine in microbiome research by shifting from broad population labels toward direct measurement of the lived environmental conditions that influence health outcomes."
+  }
+ ],
+ "pubs": [
+  {
+   "year": 2026,
+   "title": "The redefined identity of Prevotella: new implications for oral, respiratory, and vaginal health",
+   "authors": "",
+   "venue": "Journal of Bacteriology",
+   "doi_or_url": "https://doi.org/10.1128/jb.00133-26"
+  },
+  {
+   "year": 2026,
+   "title": "The Aerotolerant Capacity of Lung Symbiont Prevotella melaninogenica",
+   "authors": "",
+   "venue": "Journal of Bacteriology",
+   "doi_or_url": "https://doi.org/10.1128/jb.00142-26"
+  },
+  {
+   "year": 2025,
+   "title": "Development of a basal media for carbon utilization assay and analysis of the starch utilization locus in Prevotella melaninogenica",
+   "authors": "",
+   "venue": "bioRxiv (preprint)",
+   "doi_or_url": "https://www.biorxiv.org/content/10.1101/2025.07.04.663206v1"
+  },
+  {
+   "year": 2025,
+   "title": "Respiratory Microbiota Associations with Asthma Across American and Emirati Adults: A Comparative Analysis",
+   "authors": "Kozik AJ, Henderson K, Salameh L, Mahboub B, Al Bataineh MT, Huang YJ",
+   "venue": "Applied Microbiology 5(3):59",
+   "doi_or_url": "https://doi.org/10.3390/applmicrobiol5030059"
+  },
+  {
+   "year": 2025,
+   "title": "Complete genome sequence of Prevotella histicola T05-04",
+   "authors": "",
+   "venue": "Microbiology Resource Announcements",
+   "doi_or_url": "https://doi.org/10.1128/mra.00144-25"
+  },
+  {
+   "year": 2023,
+   "title": "Airway microbiota and immune mediator relationships differ in obesity and asthma",
+   "authors": "Kozik AJ, et al.",
+   "venue": "Journal of Allergy and Clinical Immunology 151(4):931-942",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2021,
+   "title": "Introducing the Black Microbiologists Association",
+   "authors": "Taylor K, Kozik AJ, et al.",
+   "venue": "The Lancet Microbe 2(4):e131-e132",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2020,
+   "title": "mSphere of Influence: Frameshift - a Vision for Human Microbiome Research",
+   "authors": "Kozik AJ",
+   "venue": "mSphere 5(5)",
+   "doi_or_url": "https://doi.org/10.1128/mSphere.00944-20"
+  }
+ ],
+ "team_groups": [
+  [
+   "Graduate Students",
+   [
+    {
+     "name": "Kelyah Spurgeon",
+     "role": "Graduate Student",
+     "note": "Doctoral candidate; engineering and microbiology background; NIH Bridge to the Doctorate fellow; host-pathogen interactions",
+     "initials": "KS"
+    },
+    {
+     "name": "Claire Albright",
+     "role": "Graduate Student",
+     "note": "Doctoral candidate; previously at Whitehead Institute studying plant and bacterial metabolism",
+     "initials": "CA"
+    },
+    {
+     "name": "Sophie Pickelner",
+     "role": "Graduate Student",
+     "note": "Doctoral candidate; respiratory microbiome and host-microbe interactions",
+     "initials": "SP"
+    },
+    {
+     "name": "Souzane Ntamubano",
+     "role": "Graduate Student",
+     "note": "PhD student; M.S. in MCDB from University of Michigan; cell biology, immunology, host-pathogen interactions",
+     "initials": "SN"
+    },
+    {
+     "name": "Claire Smith",
+     "role": "Graduate Student",
+     "note": "PhD student; respiratory microbiome homeostasis",
+     "initials": "CS"
+    },
+    {
+     "name": "Manogna Seetharam",
+     "role": "Graduate Student",
+     "note": "Master's student in Bioinformatics",
+     "initials": "MS"
+    },
+    {
+     "name": "Sydnie Klauza",
+     "role": "Undergraduate",
+     "note": "Senior; Microbiology and Sociology majors",
+     "initials": "SK"
+    },
+    {
+     "name": "Sriya Joshi",
+     "role": "Undergraduate",
+     "note": "Honors Program student; host-microbe interactions",
+     "initials": "SJ"
+    },
+    {
+     "name": "Tasnia Chowdhury",
+     "role": "Undergraduate",
+     "note": "Biology, Health, and Society major; bacterial pathogenesis",
+     "initials": "TC"
+    }
+   ]
+  ]
+ ],
+ "news": [
+  {
+   "date": "2025-05",
+   "text": "Congrats Grads! Souzane and Isabella earned their Master's degrees and are on to the next steps in their career journeys."
+  },
+  {
+   "date": "2024-05",
+   "text": "Kel and Claire officially advanced to doctoral candidacy after completing their classes and preliminary exams."
+  },
+  {
+   "date": "2025",
+   "text": "Press: Kozik lab featured in the University Record article 'Eight Teams Selected for Bold Challenges 2025 Boost Cohort'."
+  },
+  {
+   "date": "",
+   "text": "Press: Michigan Medicine Health Lab feature on the lab's study challenging bacterial assumptions in lung research."
+  }
+ ],
+ "joining": "Interested in working with us? Let us know! Prospective members can reach the lab through its Google Form (https://forms.gle/qs76Dw6VzfXKNEtU6).",
+ "address": "3214 Biological Sciences Building, 1105 N. University Ave., Ann Arbor, MI 48109-1085"
+}

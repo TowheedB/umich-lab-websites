@@ -1,0 +1,44 @@
+{% extends 'monograph/base.html.j2' %}
+{% import '_partials.j2' as P with context %}
+{% block hero %}
+<section class="hero">
+  <div class="wrap">
+    <h1>{{ lab.hero }}</h1>
+    <hr class="rule">
+    <div class="grid grid-2 intro">
+      <p class="lede">{{ lab.description }}</p>
+      <div class="art-frame">{{ art | safe }}</div>
+    </div>
+  </div>
+</section>
+{% endblock %}
+{% block content %}
+<section class="themes">
+  <div class="wrap">
+    <h2 class="section-title"><span>Research</span></h2>
+    {{ P.areas_list(lab) }}
+    <p><a href="research.html">More about our research &rarr;</a></p>
+  </div>
+</section>
+<section class="recent">
+  <div class="wrap">
+    <h2 class="section-title"><span>Selected publications</span></h2>
+    {{ P.pubs_recent(lab, 5) }}
+    <p style="margin-top:1rem"><a href="publications.html">Full list &rarr;</a></p>
+  </div>
+</section>
+{% if lab.news %}
+<section class="newsblock">
+  <div class="wrap">
+    <h2 class="section-title"><span>News</span></h2>
+    {{ P.news(lab, 5) }}
+  </div>
+</section>
+{% endif %}
+<section class="joinblock">
+  <div class="wrap">
+    <h2 class="section-title"><span>Joining the lab</span></h2>
+    <p class="prose">We are always interested in hearing from prospective students and postdoctoral researchers. <a href="join.html">Details on openings and how to apply &rarr;</a></p>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,51 @@
+{% extends 'editorial/base.html.j2' %}
+{% import '_partials.j2' as P with context %}
+{% block hero %}
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <div class="eyebrow">{{ lab.pi.department }} &middot; University of Michigan</div>
+      <h1>{{ lab.hero }}</h1>
+      <p class="lede">{{ lab.description.split('. ')[0] }}.</p>
+      <div class="actions">
+        <a class="btn btn-primary" href="research.html">Our research</a>
+        <a class="btn btn-ghost" href="join.html">Join the lab</a>
+      </div>
+    </div>
+    <div class="hero-side">{{ art | safe }}</div>
+  </div>
+</section>
+{% endblock %}
+{% block content %}
+<section class="themes">
+  <div class="wrap">
+    <div class="section-head"><h2>Research themes</h2><a href="research.html">All research &rarr;</a></div>
+    {{ P.areas_cards(lab) }}
+  </div>
+</section>
+<section class="recent alt">
+  <div class="wrap grid grid-2 recent-grid">
+    <div>
+      <div class="section-head"><h2>Recent publications</h2><a href="publications.html">All publications &rarr;</a></div>
+      {{ P.pubs_recent(lab, 4) }}
+    </div>
+    <aside>
+      {% if lab.news %}
+      <h2>News</h2>{{ P.news(lab, 5) }}
+      {% else %}
+      <h2>About the lab</h2>
+      <p class="muted">{{ lab.description }}</p>
+      {% endif %}
+    </aside>
+  </div>
+</section>
+<section class="cta">
+  <div class="wrap cta-box">
+    <div>
+      <h2>We're recruiting</h2>
+      <p class="muted">Graduate students, postdoctoral researchers, and undergraduates interested in {{ lab.keywords[0] | lower }} are encouraged to get in touch.</p>
+    </div>
+    <a class="btn btn-primary" href="join.html">How to join &rarr;</a>
+  </div>
+</section>
+{% endblock %}

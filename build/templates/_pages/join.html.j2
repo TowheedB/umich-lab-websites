@@ -1,0 +1,30 @@
+{% extends template ~ '/base.html.j2' %}
+{% import '_partials.j2' as P with context %}
+{% block title %}Join us · {{ lab.short }}{% endblock %}
+{% block pagehead %}
+  <div class="eyebrow">Join us</div>
+  <h1>Work with us</h1>
+  <p class="lede">We are looking for curious, collaborative people who want to help answer the questions that drive the lab.</p>
+{% endblock %}
+{% block content %}
+<section class="join-section">
+  <div class="wrap">
+    <div class="grid grid-2 join-grid">
+      <div class="prose">
+        <h2>Openings</h2>
+        {{ P.join_text(lab) }}
+        <div class="grid grid-3 roles">
+          <div class="card"><h3>Graduate students</h3><p class="small muted">Apply through <a href="https://lsa.umich.edu/mcdb/graduates.html" target="_blank" rel="noopener">MCDB</a> or <a href="https://medschool.umich.edu/pibs" target="_blank" rel="noopener">PIBS</a> and mention your interest in the lab.</p></div>
+          <div class="card"><h3>Postdocs</h3><p class="small muted">Send a CV, a brief statement of interests, and contact details for references.</p></div>
+          <div class="card"><h3>Undergraduates</h3><p class="small muted">Email with your year, relevant coursework, and the kind of project you hope to join.</p></div>
+        </div>
+      </div>
+      <aside class="contact-box card">
+        <h3>Contact</h3>
+        {{ P.contact(lab) }}
+        <a class="btn btn-primary" href="mailto:{{ lab.pi.email }}?subject=Interest%20in%20joining%20the%20{{ lab.short | urlencode }}">Email {{ lab.pi.name.split(' ')[0] }} &rarr;</a>
+      </aside>
+    </div>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,163 @@
+{
+ "lab": "Schiefelbein Lab",
+ "pi": {
+  "name": "John Schiefelbein",
+  "title": "Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "John Schiefelbein received his Ph.D. from the University of Wisconsin at Madison in 1987 and completed postdoctoral work at Michigan State University (1987-1989). He received a National Science Foundation Young Investigator Award in 1992. His laboratory studies root epidermis development in the flowering plant Arabidopsis thaliana as a model for understanding how distinct cell fates arise during the development of multicellular organisms.",
+  "email": "schiefel@umich.edu",
+  "phone": "734-764-3580",
+  "office": "5110 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/schiefel.html",
+  "initials": "JS"
+ },
+ "description": "The Schiefelbein Lab seeks to understand the molecular mechanisms that enable distinct cell fates to arise during the development of multicellular organisms. The lab focuses on the specification and patterning of hair and non-hair cells in the root epidermis of Arabidopsis thaliana, a simple tissue containing only two cell types in which cells make a binary developmental decision based on their position relative to underlying cortical cells. Arabidopsis offers rapidly observable root development, a simple tissue structure, genetic tractability, and a fully sequenced genome. The lab uses molecular genetic approaches, including mutant analysis, tissue-specific transcript profiling, and single-cell RNA sequencing, and extends its comparative work on root and root-hair development across the plant kingdom.",
+ "areas": [
+  {
+   "title": "Single-cell RNA sequencing in plants",
+   "summary": "The lab has adapted scRNA-seq to individual plant cells, revealing gene expression from single Arabidopsis root cells and providing insight into cellular heterogeneity, rare cell types, and developmental trajectories. Work continues on expanding applications of this method in plants."
+  },
+  {
+   "title": "Root and root-hair development programs across the plant kingdom",
+   "summary": "Using available plant genome sequences, the lab performs comparative transcript profiling of developing roots and root hairs across diverse plant species to identify conserved and divergent gene expression programs."
+  },
+  {
+   "title": "Cell-type pattern formation in the root epidermis",
+   "summary": "The lab investigates the molecular mechanisms that determine root epidermal cell patterning in Arabidopsis and other species, including how regulatory proteins interact, when developmental mechanisms are activated, the evolutionary origins of the patterning system, and the downstream factors in the gene regulatory network."
+  }
+ ],
+ "pubs": [
+  {
+   "year": 2019,
+   "title": "Single-cell RNA sequencing resolves molecular relationships among individual plant cells",
+   "authors": "Ryu KH, Huang L, Kang HM, Schiefelbein J",
+   "venue": "Plant Physiology",
+   "doi_or_url": "https://doi.org/10.1104/pp.18.01482"
+  },
+  {
+   "year": 2017,
+   "title": "Diversification of root hair development genes in vascular plants",
+   "authors": "Huang L, Shi X, Wang W, Ryu KH, Schiefelbein J",
+   "venue": "Plant Physiology",
+   "doi_or_url": "https://doi.org/10.1104/pp.17.00374"
+  },
+  {
+   "year": 2016,
+   "title": "A single amino acid substitution in the R3 domain of GLABRA1 leads to inhibition of trichome formation in Arabidopsis without affecting its interaction with GLABRA3",
+   "authors": "Dai X, Zhou L, Zhang W, Cai L, Guo H, Tian H, Schiefelbein JW, Wang S",
+   "venue": "Plant, Cell & Environment",
+   "doi_or_url": "https://doi.org/10.1111/pce.12695"
+  },
+  {
+   "year": 2015,
+   "title": "Conserved gene expression programs in developing roots from diverse plants",
+   "authors": "Huang L, Schiefelbein J",
+   "venue": "The Plant Cell",
+   "doi_or_url": "https://doi.org/10.1105/tpc.15.00328"
+  },
+  {
+   "year": 2015,
+   "title": "TORNADO1 regulates root epidermal patterning through the WEREWOLF pathway in Arabidopsis thaliana",
+   "authors": "Kwak SH, Song SK, Lee MM, Schiefelbein J",
+   "venue": "Plant Signaling & Behavior",
+   "doi_or_url": "https://doi.org/10.1080/15592324.2015.1103407"
+  },
+  {
+   "year": 2015,
+   "title": "Molecular phenotyping of plant single cell-types enhances forward genetic analysis",
+   "authors": "Schiefelbein J",
+   "venue": "Frontiers in Plant Science",
+   "doi_or_url": "https://doi.org/10.3389/fpls.2015.00509"
+  },
+  {
+   "year": 2014,
+   "title": "Regulation of epidermal cell fate in Arabidopsis roots: the importance of multiple feedback loops",
+   "authors": "Schiefelbein J, Huang L, Zheng X",
+   "venue": "Frontiers in Plant Science",
+   "doi_or_url": "https://doi.org/10.3389/fpls.2014.00047"
+  },
+  {
+   "year": 2014,
+   "title": "Root Hairs",
+   "authors": "Grierson C, Nielsen E, Ketelaar T, Schiefelbein J",
+   "venue": "The Arabidopsis Book",
+   "doi_or_url": "https://doi.org/10.1199/tab.0172"
+  },
+  {
+   "year": 2013,
+   "title": "Tissue-specific profiling reveals transcriptome alterations in Arabidopsis mutants lacking morphological phenotypes",
+   "authors": "Simon M, Bruex A, Kainkaryam RM, Zheng X, Huang L, Woolf PJ, Schiefelbein J",
+   "venue": "The Plant Cell",
+   "doi_or_url": "https://doi.org/10.1105/tpc.113.115121"
+  },
+  {
+   "year": 2012,
+   "title": "A gene regulatory network for root epidermis cell differentiation in Arabidopsis",
+   "authors": "Bruex A, Kainkaryam RM, Wieckowski Y, Kang YH, Bernhardt C, Xia Y, Zheng X, Wang JY, Lee MM, Benfey P, Woolf PJ, Schiefelbein J",
+   "venue": "PLoS Genetics",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/22253603/"
+  }
+ ],
+ "team_groups": [
+  [
+   "Research Scientists",
+   [
+    {
+     "name": "Kook Hui Ryu",
+     "role": "Postdoctoral Research Associate",
+     "note": "Ph.D. in Biology from Yonsei University, Korea",
+     "initials": "KH"
+    },
+    {
+     "name": "Ashley Beacham",
+     "role": "Undergraduate Researcher",
+     "note": "B.S. in Biology from College of Charleston",
+     "initials": "AB"
+    },
+    {
+     "name": "Chukwudi Enogwe",
+     "role": "Undergraduate Researcher",
+     "note": "B.A.Sc. in Biology from Long Island University",
+     "initials": "CE"
+    }
+   ]
+  ],
+  [
+   "Graduate Students",
+   [
+    {
+     "name": "Wenjia Wang",
+     "role": "Graduate Student",
+     "note": "B.S. in Life Sciences from Peking University",
+     "initials": "WW"
+    },
+    {
+     "name": "Yun Long",
+     "role": "Visiting Graduate Student",
+     "note": "From Sichuan Agricultural University; M.S. in Crop Genetics & Breeding",
+     "initials": "YL"
+    },
+    {
+     "name": "Yan Zhu",
+     "role": "Graduate Student",
+     "note": "B.S. in Biological Sciences from Fudan University",
+     "initials": "YZ"
+    }
+   ]
+  ],
+  [
+   "Visitings",
+   [
+    {
+     "name": "Lijun An",
+     "role": "Visiting Faculty Member",
+     "note": "From Zhejiang University, Hangzhou, China",
+     "initials": "LA"
+    }
+   ]
+  ]
+ ],
+ "news": [],
+ "joining": "",
+ "address": "Biological Sciences Building, 1105 N. University Ave., Ann Arbor, MI 48109"
+}

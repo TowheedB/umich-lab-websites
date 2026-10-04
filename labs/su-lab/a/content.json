@@ -1,0 +1,127 @@
+{
+ "lab": "Su Lab",
+ "pi": {
+  "name": "Yujuan Su",
+  "title": "Assistant Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Yujuan Su holds a Ph.D. in neuroscience from the Chinese Academy of Sciences and completed postdoctoral training at UC San Diego, where she studied lung-innervating neurons and brainstem control of airway responses. She has received the Parker B. Francis Fellowship and an American Heart Association Career Development Award. She launched the Body-Brain Neural Circuits Lab in the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan in July 2026.",
+  "email": "yujuansu@umich.edu",
+  "phone": "",
+  "office": "",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "",
+  "initials": "YS"
+ },
+ "description": "The Su Lab (Body-Brain Neural Circuits Lab) studies body-brain communication in health and disease, using the lung-brain axis as a model for interoception. The lab asks how signals from the lung, including allergens, inflammation, toxins, and environmental exposures, are detected, transmitted through defined brainstem and higher brain pathways, and integrated in the central nervous system with cell-type specificity. It also investigates top-down neural circuits that regulate airway physiology and systemic responses, and how lung-brain circuits are remodeled in pulmonary and neurological disease. Approaches include neural circuit mapping, single-cell profiling, opto- and chemogenetics, electrophysiology, whole-animal physiology, and behavioral analysis, with the long-term goal of identifying targets for neuromodulation therapies.",
+ "areas": [
+  {
+   "title": "Lung-to-brain communication",
+   "summary": "How allergens, inflammation, toxins, and environmental exposures are sensed in the lung and relayed to the brain through defined brainstem and higher-order pathways with cell-type specificity."
+  },
+  {
+   "title": "Central control of lung function",
+   "summary": "Top-down neural circuits that regulate airway physiology and systemic responses, with a focus on identifying molecular and functional specificity that could enable precise neuromodulation therapies."
+  },
+  {
+   "title": "Circuit remodeling in disease",
+   "summary": "How lung-brain neural circuits become dysregulated in pulmonary and neurological diseases, and how perturbations reshape circuit activity and drive plasticity."
+  }
+ ],
+ "pubs": [
+  {
+   "year": 2026,
+   "title": "Lung innervating Vip+ vagal neurons control allergen-induced responses",
+   "authors": "Zhu Z, Su Y, Sun X",
+   "venue": "Cell Reports",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2025,
+   "title": "Lung innervating neurons in lung homeostasis and diseases",
+   "authors": "Su Y, Zhu Z, Sun X",
+   "venue": "Physiology",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2024,
+   "title": "Brainstem Dbh+ neurons control allergen-induced airway hyperreactivity",
+   "authors": "Su Y, et al.",
+   "venue": "Nature",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2013,
+   "title": "Canonical transient receptor potential 3 channels regulate mitochondrial calcium uptake",
+   "authors": "Feng S, et al.",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "doi_or_url": ""
+  }
+ ],
+ "team_groups": [
+  [
+   "Postdoctoral Researchers",
+   [
+    {
+     "name": "Kate Giffin",
+     "role": "Postdoctoral Fellow",
+     "note": "Ph.D. in Neuroscience, University of Michigan",
+     "initials": "KG"
+    }
+   ]
+  ],
+  [
+   "Graduate Students",
+   [
+    {
+     "name": "Jingyao Wang",
+     "role": "Graduate Student (rotation)",
+     "note": "MCDB; B.S. Neuroscience, University of Michigan; joined Aug 2026",
+     "initials": "JW"
+    },
+    {
+     "name": "Qingyin (Arovene) Zheng",
+     "role": "Graduate Student (rotation)",
+     "note": "MCDB; B.S. Molecular & Cellular Biology, UIUC; joined Aug 2026",
+     "initials": "QZ"
+    },
+    {
+     "name": "Pranav Mudhas",
+     "role": "Undergraduate",
+     "note": "Neuroscience major, Economics minor; joined Jul 2026",
+     "initials": "PM"
+    },
+    {
+     "name": "Addy Szpiech",
+     "role": "Undergraduate",
+     "note": "Biology major; joined Jul 2026",
+     "initials": "AS"
+    },
+    {
+     "name": "Roma Tewari",
+     "role": "Undergraduate",
+     "note": "Biology, Health, and Society major; joined Sep 2026",
+     "initials": "RT"
+    }
+   ]
+  ]
+ ],
+ "news": [
+  {
+   "date": "2026-08",
+   "text": "Jingyao Wang and Arovene Zheng joined as the lab's first rotation students."
+  },
+  {
+   "date": "2026-08",
+   "text": "The lab took its first group photo outside the museum."
+  },
+  {
+   "date": "2026-07",
+   "text": "Pranav Mudhas and Addy Szpiech joined as the lab's first undergraduate volunteers."
+  },
+  {
+   "date": "2026-07",
+   "text": "Su lab officially launched."
+  }
+ ],
+ "joining": "The lab is recruiting postdoctoral researchers from a broad variety of backgrounds (neuroscience, physiology, immunology, body-brain interactions); apply by emailing a cover letter describing research interests and a CV with three references. Ph.D., M.D., and Master's students interested in the lab's interdisciplinary work should email to discuss rotation projects. There are currently no undergraduate openings, but applicants are encouraged to check back. Exchange scholars and summer researchers may reach out with a CV and summary of experience. The lab emphasizes mentorship tailored to individual career goals in a collaborative and supportive environment.",
+ "address": ""
+}

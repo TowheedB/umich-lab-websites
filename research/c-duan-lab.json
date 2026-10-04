@@ -1,0 +1,150 @@
+{
+ "slug": "c-duan-lab",
+ "pi": {
+  "name": "Cunming Duan",
+  "title": "Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Cunming Duan is a Professor in the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan. He earned his doctoral degree from the University of Tokyo and completed postdoctoral fellowships at the University of Washington and the University of North Carolina at Chapel Hill. His lab studies the regulation, function, and evolution of nutrient-sensitive insulin and insulin-like growth factor (IIS) signaling and how it controls cellular plasticity under stresses such as hypoxia, nutrient deficiency, and acidosis, with recent work extending to calcium metabolism, bone mineralization, renal mineral balance, and hypoxia biology.",
+  "email": "cduan@umich.edu",
+  "phone": "(734) 763-4710",
+  "office": "Room 3250 (lab) / 3268 (office), Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/cunming-duan.html"
+ },
+ "lab_description": "The Duan lab investigates the molecular mechanisms governing cell cycle plasticity during tissue formation, growth, and regeneration. Using a zebrafish model in which differentiated epithelial cells can be induced to re-enter the cell cycle in response to stress, the lab asks how cells decide between quiescence and proliferation when faced with changing nutrient availability, oxygen levels, and pH. The group's approaches include CRISPR/Cas9 gene editing, in vivo imaging, chemical biology, and RNA-seq. Many of the regulators the lab has discovered converge on the insulin/insulin-like growth factor (IIS)-PI3 kinase-Akt-TOR signaling pathway. The lab also studies hypoxia and HIF biology, stanniocalcins, and calcium homeostasis.",
+ "research_areas": [
+  {
+   "title": "Tissue formation, growth, and regeneration",
+   "summary": "The lab examines how the insulin/IGF (IIS)-PI3K-Akt-TOR signaling pathway regulates cell cycle plasticity when cells encounter varying nutrient, oxygen, and pH conditions during tissue maintenance and healing, using a zebrafish epithelial cell reactivation model."
+  },
+  {
+   "title": "Hypoxia and HIF biology",
+   "summary": "The lab studies how hypoxia signaling, including stanniocalcins, shapes IGF-stimulated growth versus organismal survival under hypoxic stress."
+  }
+ ],
+ "team": [
+  {
+   "name": "Naotaka Aburatani",
+   "role": "Postdoctoral Fellow",
+   "note": ""
+  },
+  {
+   "name": "Shang-Wu Shih",
+   "role": "Postdoctoral Fellow",
+   "note": ""
+  },
+  {
+   "name": "Aayusah Bhandary",
+   "role": "Student Researcher",
+   "note": ""
+  },
+  {
+   "name": "Maceo Blumberg",
+   "role": "Student Researcher",
+   "note": ""
+  },
+  {
+   "name": "Rebeca Calderon",
+   "role": "Student Researcher",
+   "note": ""
+  },
+  {
+   "name": "Rachel Chung",
+   "role": "Student Researcher",
+   "note": ""
+  },
+  {
+   "name": "Juliana He",
+   "role": "Student Researcher",
+   "note": ""
+  },
+  {
+   "name": "Hui Xu",
+   "role": "Lab Specialist",
+   "note": ""
+  }
+ ],
+ "alumni": [],
+ "publications": [
+  {
+   "year": 2026,
+   "title": "Stc2a inhibits IGF-stimulated somatic growth in favor of organismal survival under hypoxic stress",
+   "authors": "Wang Z, Shah J, Li S, Jaggi S, Xu H, Duan C",
+   "venue": "Frontiers in Endocrinology",
+   "doi_or_url": "https://doi.org/10.3389/fendo.2025.1729649"
+  },
+  {
+   "year": 2025,
+   "title": "Regulation and function of insulin and insulin-like growth factor receptor signaling",
+   "authors": "Choi E, Duan C, Bai X",
+   "venue": "Nature Reviews Molecular Cell Biology",
+   "doi_or_url": "https://www.nature.com/articles/s41580-025-00826-3"
+  },
+  {
+   "year": 2025,
+   "title": "Sox10 is required for systemic initiation of bone mineralization",
+   "authors": "Gjorcheska S, Paudel S, McLeod S, Snape L, Camargo Sosa K, Duan C, Kelsh R, Barske L",
+   "venue": "Development",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2023,
+   "title": "ROS signaling-induced mitochondrial Sgk1 expression regulates epithelial cell renewal",
+   "authors": "Li Y, Liu C, Rolling L, Sikora V, Chen Z, Gurvin J, Barabell C, Lin J, Duan C",
+   "venue": "Proceedings of the National Academy of Sciences USA",
+   "doi_or_url": "https://doi.org/10.1073/pnas.2216310120"
+  },
+  {
+   "year": 2023,
+   "title": "Stanniocalcin 1a regulates organismal calcium balance and survival by suppressing Trpv6 expression",
+   "authors": "Li S, Li H, Wang Z, Duan C",
+   "venue": "Frontiers in Endocrinology",
+   "doi_or_url": "https://doi.org/10.3389/fendo.2023.1276348"
+  },
+  {
+   "year": 2023,
+   "title": "FK506-binding protein 5 regulates cell quiescence-proliferation decision in zebrafish epithelium",
+   "authors": "Li Y, Liu C, Bai X, Li M, Duan C",
+   "venue": "FEBS Letters",
+   "doi_or_url": "https://doi.org/10.1002/1873-3468.14670"
+  },
+  {
+   "year": 2022,
+   "title": "GCAF(TMEM251) regulates lysosome biogenesis by activating the mannose-6-phosphate pathway",
+   "authors": "Zhang W, Yang Y, Li Y, et al., Duan C, Kitzman J, Li M",
+   "venue": "Nature Communications",
+   "doi_or_url": "https://www.nature.com/articles/s41467-022-33025-1"
+  },
+  {
+   "year": 2021,
+   "title": "Regulation of epithelial cell quiescence-proliferation balance by Ca2+-CaMKK-Akt signaling",
+   "authors": "Xin Y, Guan J, Li Y, Duan C",
+   "venue": "Journal of Cell Science",
+   "doi_or_url": "https://doi.org/10.1242/jcs.253807"
+  },
+  {
+   "year": 2021,
+   "title": "Calcium state-dependent regulation of epithelial cell quiescence by stanniocalcin 1a",
+   "authors": "Li S, Liu C, Goldstein A, Xin Y, Ke C, Duan C",
+   "venue": "Frontiers in Cell and Developmental Biology",
+   "doi_or_url": "https://doi.org/10.3389/fcell.2021.662915"
+  },
+  {
+   "year": 2020,
+   "title": "The metalloproteinase Papp-aa controls epithelial cell quiescence to proliferation transition",
+   "authors": "Liu C, Li S, Noer PR, Kjaer-Sorensen K, Juhl AK, Goldstein A, Ke C, Oxvig C, Duan C",
+   "venue": "eLife",
+   "doi_or_url": "https://doi.org/10.7554/eLife.52322"
+  }
+ ],
+ "news": [],
+ "funding": [],
+ "joining": "",
+ "address": "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Room 3250 Biological Sciences Building, 1105 North University Ave., Ann Arbor, MI 48109-1085",
+ "links": {
+  "twitter": "",
+  "github": "",
+  "google_scholar": "",
+  "pubmed": "",
+  "other": []
+ }
+}

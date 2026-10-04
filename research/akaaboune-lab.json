@@ -1,0 +1,152 @@
+{
+ "slug": "akaaboune-lab",
+ "pi": {
+  "name": "Mohammed Akaaboune",
+  "title": "Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Mohammed Akaaboune earned his DEA and Ph.D. from the University of Pierre and Marie Curie (Paris 6) in France, and completed postdoctoral training in Jeff Lichtman's laboratory at Washington University School of Medicine in St. Louis, supported by a Human Frontier Science Program fellowship. He is a Professor in the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan. His lab studies the regulation and dynamics of synaptic proteins at healthy and compromised neuromuscular junctions using optical imaging, molecular, cellular, and biochemical approaches in mice.",
+  "email": "makaabou@umich.edu",
+  "phone": "734-647-8512",
+  "office": "4164 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/makaabou.html"
+ },
+ "lab_description": "The Akaaboune Lab investigates the cellular and molecular mechanisms underlying the dynamics and trafficking of postsynaptic proteins at healthy and compromised synapses. The lab uses the neuromuscular junction as its primary model because it is the simplest and best-characterized synapse in vertebrates. The team combines advanced in vivo imaging that follows the same synapses over extended periods with molecular and biochemical approaches in living mice. Current work addresses how high-fat diet, aging, and loss of dystrophin glycoprotein complex components alter the stability of nicotinic acetylcholine receptors and scaffold proteins such as rapsyn and alpha-kap at the postsynaptic membrane.",
+ "research_areas": [
+  {
+   "title": "High-fat diet and neuromuscular junction stability",
+   "summary": "Examines how obesity induced by a high-fat diet affects the structural integrity and disassembly of the neuromuscular junction in mouse models."
+  },
+  {
+   "title": "Dystrophin glycoprotein complex function",
+   "summary": "Studies the role of the dystrophin glycoprotein complex (including alpha-dystrobrevin and alpha-syntrophin) in maintaining nicotinic acetylcholine receptor stability at synapses."
+  },
+  {
+   "title": "Aging and the postsynaptic apparatus",
+   "summary": "Investigates how aging alters the stability and organization of postsynaptic components at the neuromuscular junction."
+  },
+  {
+   "title": "Molecular interactions in living systems",
+   "summary": "Analyzes spatial and temporal interactions between postsynaptic molecular components using live imaging in mice."
+  },
+  {
+   "title": "Rapsyn function in non-muscle contexts",
+   "summary": "Explores the role of the scaffold protein rapsyn in cellular environments outside muscle, including lysosome clustering."
+  }
+ ],
+ "team": [
+  {
+   "name": "Isabel Martinez-Pena y Valenzuela",
+   "role": "Research Staff",
+   "note": "Listed on the site as Dr. Isabel Martinez, research staff"
+  },
+  {
+   "name": "Mohamed Aittaleb",
+   "role": "Research Fellow",
+   "note": ""
+  },
+  {
+   "name": "Po-Ju Chen",
+   "role": "Graduate Student",
+   "note": "PhD candidate"
+  },
+  {
+   "name": "Jacob Menke",
+   "role": "Graduate Student",
+   "note": "Rotating graduate student"
+  },
+  {
+   "name": "Nayla Raad",
+   "role": "Undergraduate",
+   "note": ""
+  },
+  {
+   "name": "Laith Freij",
+   "role": "Undergraduate",
+   "note": ""
+  }
+ ],
+ "alumni": [],
+ "publications": [
+  {
+   "year": 2020,
+   "title": "Phosphorylation of alpha-dystrobrevin is essential for alpha-kap accumulation and acetylcholine receptor stability",
+   "authors": "Chen PJ, Zelada D, Belhasan DC, Akaaboune M",
+   "venue": "Journal of Biological Chemistry",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/32532815/"
+  },
+  {
+   "year": 2020,
+   "title": "The disassembly of the neuromuscular synapse in high-fat diet-induced obese male mice",
+   "authors": "Martinez-Pena y Valenzuela I, Akaaboune M",
+   "venue": "Molecular Metabolism",
+   "doi_or_url": "https://doi.org/10.1016/j.molmet.2020.100979"
+  },
+  {
+   "year": 2020,
+   "title": "The role of the dystrophin glycoprotein complex on the neuromuscular system",
+   "authors": "Belhasan DC, Akaaboune M",
+   "venue": "Neuroscience Letters",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2017,
+   "title": "Viral delivery of C9orf72 hexanucleotide repeat expansions in mice leads to repeat-length-dependent neuropathology and behavioural deficits",
+   "authors": "Herranz-Martin S, Chandran J, Lewis K, Mulcahy P, Higginbottom A, Walker C, Valenzuela IMY, Jones RA, Coldicott I, Iannitti T, Akaaboune M, El-Khamisy SF, Gillingwater TH, Shaw PJ, Azzouz M",
+   "venue": "Disease Models & Mechanisms",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2017,
+   "title": "Spatial distribution and molecular dynamics of dystrophin glycoprotein components at the neuromuscular junction in vivo",
+   "authors": "Aittaleb M, Martinez-Pena y Valenzuela I, Akaaboune M",
+   "venue": "Journal of Cell Science",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/28364093/"
+  },
+  {
+   "year": 2017,
+   "title": "Deletion of Pofut1 in mouse skeletal myofibers induces muscle aging-related phenotypes in cis and in trans",
+   "authors": "Zygmunt DA, Singhal N, Kim ML, Cramer ML, Crowe KE, Xu R, Jia Y, Adair J, Martinez-Pena y Valenzuela I, Akaaboune M, White P, Janssen PM, Martin PT",
+   "venue": "Molecular and Cellular Biology",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/28265002/"
+  },
+  {
+   "year": 2016,
+   "title": "AChRs are essential for the targeting of rapsyn to the postsynaptic membrane of NMJs in living mice",
+   "authors": "Chen PJ, Martinez-Pena y Valenzuela I, Aittaleb M, Akaaboune M",
+   "venue": "Journal of Neuroscience",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/27225759/"
+  },
+  {
+   "year": 2015,
+   "title": "Lysosome clustering deficiency in rapsyn-deficient cells",
+   "authors": "Aittaleb M, Chen PJ, Akaaboune M",
+   "venue": "Journal of Cell Science",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2015,
+   "title": "The knockdown of alpha-kap alters the postsynaptic apparatus of neuromuscular junctions in living mice",
+   "authors": "Martinez-Pena y Valenzuela I, Aittaleb M, Chen PJ, Akaaboune M",
+   "venue": "Journal of Neuroscience",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2015,
+   "title": "CLASP2-dependent microtubule capture at the neuromuscular junction membrane requires LL5beta and actin for focal delivery of acetylcholine receptor vesicles",
+   "authors": "Basu S, Sladecek S, Martinez de la Pena y Valenzuela I, Akaaboune M, Smal I, Martin K, Galjart N, Brenner HR",
+   "venue": "Molecular Biology of the Cell",
+   "doi_or_url": ""
+  }
+ ],
+ "news": [],
+ "funding": [],
+ "joining": "",
+ "address": "830 North University, Ann Arbor, MI 48109-1048",
+ "links": {
+  "twitter": "",
+  "github": "",
+  "google_scholar": "",
+  "pubmed": "",
+  "other": []
+ }
+}

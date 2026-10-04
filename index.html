@@ -1,0 +1,363 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>U-M MCDB Lab Website Prototypes</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#fff;--surface:#f6f7f9;--line:#e4e6ea;--text:#15171c;--muted:#5c6271;--accent:#00274c;--accent2:#ffcb05;color-scheme:light}
+@media (prefers-color-scheme: dark){:root{--bg:#0f1115;--surface:#171a21;--line:#2a2f3a;--text:#e8eaf0;--muted:#a3a9b8;--accent:#ffcb05;color-scheme:dark}}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,sans-serif;background:var(--bg);color:var(--text);line-height:1.55}
+.wrap{max-width:1140px;margin:0 auto;padding:0 clamp(16px,4vw,40px)}
+header{padding:56px 0 28px;border-bottom:1px solid var(--line)}
+h1{font-size:clamp(1.8rem,4vw,2.8rem);margin:0 0 .4rem;letter-spacing:-.02em}
+.sub{color:var(--muted);max-width:70ch;margin:0}
+.tools{display:flex;gap:1rem;align-items:center;flex-wrap:wrap;margin:1.6rem 0 0}
+input{font:inherit;padding:.6rem .9rem;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--text);min-width:min(320px,100%)}
+.legend{display:flex;gap:.5rem;flex-wrap:wrap;font-size:.8rem;color:var(--muted)}
+.legend span{border:1px solid var(--line);border-radius:999px;padding:.15rem .6rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;padding:28px 0 64px}
+.card{border:1px solid var(--line);border-radius:12px;padding:1.1rem 1.2rem;background:var(--surface);display:flex;flex-direction:column;gap:.5rem}
+.card h2{font-size:1.1rem;margin:0}
+.card .pi{color:var(--muted);font-size:.9rem}
+.card .focus{font-size:.85rem;color:var(--muted);margin:0}
+.meta{font-size:.75rem;color:var(--muted);display:flex;gap:.8rem;flex-wrap:wrap}
+.links{display:flex;gap:.5rem;margin-top:auto;padding-top:.6rem;flex-wrap:wrap}
+.links a{flex:1;text-align:center;padding:.5rem .7rem;border-radius:8px;background:var(--accent);color:#fff;text-decoration:none;font-weight:600;font-size:.9rem}
+@media (prefers-color-scheme: dark){.links a{color:#111}}
+.links a.b{background:transparent;color:var(--text);border:1px solid var(--line)}
+.links a small{display:block;font-weight:400;opacity:.8;font-size:.72rem}
+.num{font-size:.75rem;color:var(--muted);font-variant-numeric:tabular-nums}
+footer{border-top:1px solid var(--line);padding:1.5rem 0 3rem;color:var(--muted);font-size:.85rem}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1>Lab website prototypes</h1>
+  <p class="sub">28 research groups in the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan. Each lab has two design directions (A and B) built from the same content, drawn from the lab's current public pages. Every prototype has Research, Publications, People, and Join pages plus light and dark modes.</p>
+  <div class="tools">
+    <input id="q" type="search" placeholder="Filter by name or topic…" aria-label="Filter labs">
+    <div class="legend"><span>editorial</span><span>atlas</span><span>monograph</span><span>specimen</span><span>ledger</span><span>horizon</span></div>
+  </div>
+</div></header>
+<main class="wrap">
+  <div class="grid" id="grid">
+    <article class="card" data-text="akaaboune lab mohammed akaaboune synaptic development and maintenance; neuromuscular junctions; diet and neuromuscular disease">
+      <div class="num">#01</div>
+      <h2>Akaaboune Lab</h2>
+      <div class="pi">Mohammed Akaaboune</div>
+      <p class="focus">Synaptic development and maintenance; neuromuscular junctions; diet and neuromuscular disease</p>
+      <div class="meta"><span>6 members</span><span>10 publications</span><span>A: editorial/indigo</span><span>B: specimen/plum</span></div>
+      <div class="links">
+        <a href="labs/akaaboune-lab/a/index.html">Design A<small>editorial</small></a>
+        <a class="b" href="labs/akaaboune-lab/b/index.html">Design B<small>specimen</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="aton lab sara aton sleep; neural circuits; plasticity; memory formation">
+      <div class="num">#02</div>
+      <h2>Aton Lab</h2>
+      <div class="pi">Sara Aton</div>
+      <p class="focus">Sleep; neural circuits; plasticity; memory formation</p>
+      <div class="meta"><span>10 members</span><span>10 publications</span><span>A: atlas/teal</span><span>B: ledger/ocean</span></div>
+      <div class="links">
+        <a href="labs/aton-lab/a/index.html">Design A<small>atlas</small></a>
+        <a class="b" href="labs/aton-lab/b/index.html">Design B<small>ledger</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="buttitta lab laura buttitta cell proliferation; quiescence; cell-cycle control; cancer">
+      <div class="num">#03</div>
+      <h2>Buttitta Lab</h2>
+      <div class="pi">Laura Buttitta</div>
+      <p class="focus">Cell proliferation; quiescence; cell-cycle control; cancer</p>
+      <div class="meta"><span>5 members</span><span>10 publications</span><span>A: monograph/crimson</span><span>B: horizon/slate</span></div>
+      <div class="links">
+        <a href="labs/buttitta-lab/a/index.html">Design A<small>monograph</small></a>
+        <a class="b" href="labs/buttitta-lab/b/index.html">Design B<small>horizon</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="cadigan lab kenneth cadigan wnt signaling; gene regulation; drosophila development">
+      <div class="num">#04</div>
+      <h2>Cadigan Lab</h2>
+      <div class="pi">Kenneth Cadigan</div>
+      <p class="focus">Wnt signaling; gene regulation; Drosophila development</p>
+      <div class="meta"><span>6 members</span><span>10 publications</span><span>A: specimen/forest</span><span>B: editorial/indigo</span></div>
+      <div class="links">
+        <a href="labs/cadigan-lab/a/index.html">Design A<small>specimen</small></a>
+        <a class="b" href="labs/cadigan-lab/b/index.html">Design B<small>editorial</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="chang lab amy chang protein sorting; quality control; yeast secretory pathway">
+      <div class="num">#05</div>
+      <h2>Chang Lab</h2>
+      <div class="pi">Amy Chang</div>
+      <p class="focus">Protein sorting; quality control; yeast secretory pathway</p>
+      <div class="meta"><span>3 members</span><span>10 publications</span><span>A: ledger/amber</span><span>B: atlas/teal</span></div>
+      <div class="links">
+        <a href="labs/chang-lab/a/index.html">Design A<small>ledger</small></a>
+        <a class="b" href="labs/chang-lab/b/index.html">Design B<small>atlas</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="chapman lab matthew chapman bacterial amyloid fibers; curli; microbial biofilms">
+      <div class="num">#06</div>
+      <h2>Chapman Lab</h2>
+      <div class="pi">Matthew Chapman</div>
+      <p class="focus">Bacterial amyloid fibers; curli; microbial biofilms</p>
+      <div class="meta"><span>8 members</span><span>10 publications</span><span>A: horizon/plum</span><span>B: monograph/crimson</span></div>
+      <div class="links">
+        <a href="labs/chapman-lab/a/index.html">Design A<small>horizon</small></a>
+        <a class="b" href="labs/chapman-lab/b/index.html">Design B<small>monograph</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="clowney lab e. josie clowney neural circuits; olfaction; developmental gene regulation; drosophila">
+      <div class="num">#07</div>
+      <h2>Clowney Lab</h2>
+      <div class="pi">E. Josie Clowney</div>
+      <p class="focus">Neural circuits; olfaction; developmental gene regulation; Drosophila</p>
+      <div class="meta"><span>14 members</span><span>12 publications</span><span>A: editorial/ocean</span><span>B: specimen/forest</span></div>
+      <div class="links">
+        <a href="labs/clowney-lab/a/index.html">Design A<small>editorial</small></a>
+        <a class="b" href="labs/clowney-lab/b/index.html">Design B<small>specimen</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="csankovszki lab gyorgyi csankovszki gene regulation; chromosome segregation; condensin complexes; c. elegans">
+      <div class="num">#08</div>
+      <h2>Csankovszki Lab</h2>
+      <div class="pi">Gyorgyi Csankovszki</div>
+      <p class="focus">Gene regulation; chromosome segregation; condensin complexes; C. elegans</p>
+      <div class="meta"><span>12 members</span><span>10 publications</span><span>A: atlas/slate</span><span>B: ledger/amber</span></div>
+      <div class="links">
+        <a href="labs/csankovszki-lab/a/index.html">Design A<small>atlas</small></a>
+        <a class="b" href="labs/csankovszki-lab/b/index.html">Design B<small>ledger</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="desantis lab morgan desantis microtubule motors; intracellular transport; cellular cargo">
+      <div class="num">#09</div>
+      <h2>DeSantis Lab</h2>
+      <div class="pi">Morgan DeSantis</div>
+      <p class="focus">Microtubule motors; intracellular transport; cellular cargo</p>
+      <div class="meta"><span>12 members</span><span>10 publications</span><span>A: monograph/indigo</span><span>B: horizon/plum</span></div>
+      <div class="links">
+        <a href="labs/desantis-lab/a/index.html">Design A<small>monograph</small></a>
+        <a class="b" href="labs/desantis-lab/b/index.html">Design B<small>horizon</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="bo duan lab bo duan somatosensory circuits; pain; itch; sensory neuroscience">
+      <div class="num">#10</div>
+      <h2>Bo Duan Lab</h2>
+      <div class="pi">Bo Duan</div>
+      <p class="focus">Somatosensory circuits; pain; itch; sensory neuroscience</p>
+      <div class="meta"><span>11 members</span><span>10 publications</span><span>A: specimen/teal</span><span>B: editorial/ocean</span></div>
+      <div class="links">
+        <a href="labs/bo-duan-lab/a/index.html">Design A<small>specimen</small></a>
+        <a class="b" href="labs/bo-duan-lab/b/index.html">Design B<small>editorial</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="c. duan lab cunming duan growth factors; growth; development; aging">
+      <div class="num">#11</div>
+      <h2>C. Duan Lab</h2>
+      <div class="pi">Cunming Duan</div>
+      <p class="focus">Growth factors; growth; development; aging</p>
+      <div class="meta"><span>8 members</span><span>10 publications</span><span>A: ledger/crimson</span><span>B: atlas/slate</span></div>
+      <div class="links">
+        <a href="labs/c-duan-lab/a/index.html">Design A<small>ledger</small></a>
+        <a class="b" href="labs/c-duan-lab/b/index.html">Design B<small>atlas</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="dus laboratory of molecular nutrition monica dus brain-body nutrient sensing; hunger; satiety; epigenetics; neurobiology">
+      <div class="num">#12</div>
+      <h2>Dus Laboratory of Molecular Nutrition</h2>
+      <div class="pi">Monica Dus</div>
+      <p class="focus">Brain-body nutrient sensing; hunger; satiety; epigenetics; neurobiology</p>
+      <div class="meta"><span>8 members</span><span>10 publications</span><span>A: horizon/forest</span><span>B: monograph/indigo</span></div>
+      <div class="links">
+        <a href="labs/dus-lab/a/index.html">Design A<small>horizon</small></a>
+        <a class="b" href="labs/dus-lab/b/index.html">Design B<small>monograph</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="he lab / plant-microbe interaction ping he plant immunity; pathogen recognition; immune signaling; arabidopsis">
+      <div class="num">#13</div>
+      <h2>He Lab / Plant-Microbe Interaction</h2>
+      <div class="pi">Ping He</div>
+      <p class="focus">Plant immunity; pathogen recognition; immune signaling; Arabidopsis</p>
+      <div class="meta"><span>17 members</span><span>10 publications</span><span>A: editorial/amber</span><span>B: specimen/teal</span></div>
+      <div class="links">
+        <a href="labs/he-lab/a/index.html">Design A<small>editorial</small></a>
+        <a class="b" href="labs/he-lab/b/index.html">Design B<small>specimen</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="jakob lab ursula jakob oxidative stress; host defense; aging; protein homeostasis">
+      <div class="num">#14</div>
+      <h2>Jakob Lab</h2>
+      <div class="pi">Ursula Jakob</div>
+      <p class="focus">Oxidative stress; host defense; aging; protein homeostasis</p>
+      <div class="meta"><span>15 members</span><span>10 publications</span><span>A: atlas/plum</span><span>B: ledger/crimson</span></div>
+      <div class="links">
+        <a href="labs/jakob-lab/a/index.html">Design A<small>atlas</small></a>
+        <a class="b" href="labs/jakob-lab/b/index.html">Design B<small>ledger</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="kargbo-hill lab sarah e. kargbo-hill neuroepigenomics; stress; aging; neurodegeneration; ipsc-derived neurons">
+      <div class="num">#15</div>
+      <h2>Kargbo-Hill Lab</h2>
+      <div class="pi">Sarah E. Kargbo-Hill</div>
+      <p class="focus">Neuroepigenomics; stress; aging; neurodegeneration; iPSC-derived neurons</p>
+      <div class="meta"><span>9 members</span><span>10 publications</span><span>A: monograph/ocean</span><span>B: horizon/forest</span></div>
+      <div class="links">
+        <a href="labs/kargbo-hill-lab/a/index.html">Design A<small>monograph</small></a>
+        <a class="b" href="labs/kargbo-hill-lab/b/index.html">Design B<small>horizon</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="kozik lab ariangela j. kozik respiratory microbiome; multi-omics; host-microbe interactions">
+      <div class="num">#16</div>
+      <h2>Kozik Lab</h2>
+      <div class="pi">Ariangela J. Kozik</div>
+      <p class="focus">Respiratory microbiome; multi-omics; host-microbe interactions</p>
+      <div class="meta"><span>9 members</span><span>8 publications</span><span>A: specimen/slate</span><span>B: editorial/amber</span></div>
+      <div class="links">
+        <a href="labs/kozik-lab/a/index.html">Design A<small>specimen</small></a>
+        <a class="b" href="labs/kozik-lab/b/index.html">Design B<small>editorial</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="kramer lab paul f. kramer neuronal excitability; dopamine; synaptic transmission; addiction">
+      <div class="num">#17</div>
+      <h2>Kramer Lab</h2>
+      <div class="pi">Paul F. Kramer</div>
+      <p class="focus">Neuronal excitability; dopamine; synaptic transmission; addiction</p>
+      <div class="meta"><span>6 members</span><span>10 publications</span><span>A: ledger/indigo</span><span>B: atlas/plum</span></div>
+      <div class="links">
+        <a href="labs/kramer-lab/a/index.html">Design A<small>ledger</small></a>
+        <a class="b" href="labs/kramer-lab/b/index.html">Design B<small>atlas</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="kumar lab anuj kumar genomics; proteomics; systems biology; signaling; cancer">
+      <div class="num">#18</div>
+      <h2>Kumar Lab</h2>
+      <div class="pi">Anuj Kumar</div>
+      <p class="focus">Genomics; proteomics; systems biology; signaling; cancer</p>
+      <div class="meta"><span>4 members</span><span>10 publications</span><span>A: horizon/teal</span><span>B: monograph/ocean</span></div>
+      <div class="links">
+        <a href="labs/kumar-lab/a/index.html">Design A<small>horizon</small></a>
+        <a class="b" href="labs/kumar-lab/b/index.html">Design B<small>monograph</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="ming li lab ming li lysosomes; protein quality control; neurodegeneration; cancer">
+      <div class="num">#19</div>
+      <h2>Ming Li Lab</h2>
+      <div class="pi">Ming Li</div>
+      <p class="focus">Lysosomes; protein quality control; neurodegeneration; cancer</p>
+      <div class="meta"><span>9 members</span><span>10 publications</span><span>A: editorial/crimson</span><span>B: specimen/slate</span></div>
+      <div class="links">
+        <a href="labs/ming-li-lab/a/index.html">Design A<small>editorial</small></a>
+        <a class="b" href="labs/ming-li-lab/b/index.html">Design B<small>specimen</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="miller lab ann l. miller cell-cell junctions; mechanical forces; cytokinesis; epithelial barriers">
+      <div class="num">#20</div>
+      <h2>Miller Lab</h2>
+      <div class="pi">Ann L. Miller</div>
+      <p class="focus">Cell-cell junctions; mechanical forces; cytokinesis; epithelial barriers</p>
+      <div class="meta"><span>9 members</span><span>10 publications</span><span>A: atlas/forest</span><span>B: ledger/indigo</span></div>
+      <div class="links">
+        <a href="labs/miller-lab/a/index.html">Design A<small>atlas</small></a>
+        <a class="b" href="labs/miller-lab/b/index.html">Design B<small>ledger</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="nielsen lab erik nielsen plant cell walls; membrane trafficking; cell-wall deposition">
+      <div class="num">#21</div>
+      <h2>Nielsen Lab</h2>
+      <div class="pi">Erik Nielsen</div>
+      <p class="focus">Plant cell walls; membrane trafficking; cell-wall deposition</p>
+      <div class="meta"><span>6 members</span><span>10 publications</span><span>A: monograph/amber</span><span>B: horizon/teal</span></div>
+      <div class="links">
+        <a href="labs/nielsen-lab/a/index.html">Design A<small>monograph</small></a>
+        <a class="b" href="labs/nielsen-lab/b/index.html">Design B<small>horizon</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="schiefelbein lab john schiefelbein cell differentiation; pattern formation; arabidopsis root epidermis">
+      <div class="num">#22</div>
+      <h2>Schiefelbein Lab</h2>
+      <div class="pi">John Schiefelbein</div>
+      <p class="focus">Cell differentiation; pattern formation; Arabidopsis root epidermis</p>
+      <div class="meta"><span>7 members</span><span>10 publications</span><span>A: specimen/plum</span><span>B: editorial/crimson</span></div>
+      <div class="links">
+        <a href="labs/schiefelbein-lab/a/index.html">Design A<small>specimen</small></a>
+        <a class="b" href="labs/schiefelbein-lab/b/index.html">Design B<small>editorial</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="simmons lab lyle simmons dna repair; genome instability; cell cycle; bacterial genetics">
+      <div class="num">#23</div>
+      <h2>Simmons Lab</h2>
+      <div class="pi">Lyle Simmons</div>
+      <p class="focus">DNA repair; genome instability; cell cycle; bacterial genetics</p>
+      <div class="meta"><span>8 members</span><span>10 publications</span><span>A: ledger/ocean</span><span>B: atlas/forest</span></div>
+      <div class="links">
+        <a href="labs/simmons-lab/a/index.html">Design A<small>ledger</small></a>
+        <a class="b" href="labs/simmons-lab/b/index.html">Design B<small>atlas</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="stockbridge lab randy stockbridge membrane proteins; antimicrobial resistance; structural biology; evolution">
+      <div class="num">#24</div>
+      <h2>Stockbridge Lab</h2>
+      <div class="pi">Randy Stockbridge</div>
+      <p class="focus">Membrane proteins; antimicrobial resistance; structural biology; evolution</p>
+      <div class="meta"><span>8 members</span><span>10 publications</span><span>A: horizon/slate</span><span>B: monograph/amber</span></div>
+      <div class="links">
+        <a href="labs/stockbridge-lab/a/index.html">Design A<small>horizon</small></a>
+        <a class="b" href="labs/stockbridge-lab/b/index.html">Design B<small>monograph</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="su lab yujuan su lung-brain communication; interoception; neural circuits; disease">
+      <div class="num">#25</div>
+      <h2>Su Lab</h2>
+      <div class="pi">Yujuan Su</div>
+      <p class="focus">Lung-brain communication; interoception; neural circuits; disease</p>
+      <div class="meta"><span>6 members</span><span>4 publications</span><span>A: editorial/indigo</span><span>B: specimen/plum</span></div>
+      <div class="links">
+        <a href="labs/su-lab/a/index.html">Design A<small>editorial</small></a>
+        <a class="b" href="labs/su-lab/b/index.html">Design B<small>specimen</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="vecchiarelli lab anthony vecchiarelli subcellular organization; cell-free reconstitution; imaging">
+      <div class="num">#26</div>
+      <h2>Vecchiarelli Lab</h2>
+      <div class="pi">Anthony Vecchiarelli</div>
+      <p class="focus">Subcellular organization; cell-free reconstitution; imaging</p>
+      <div class="meta"><span>3 members</span><span>10 publications</span><span>A: atlas/teal</span><span>B: ledger/ocean</span></div>
+      <div class="links">
+        <a href="labs/vecchiarelli-lab/a/index.html">Design A<small>atlas</small></a>
+        <a class="b" href="labs/vecchiarelli-lab/b/index.html">Design B<small>ledger</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="wierzbicki lab andrzej wierzbicki non-coding rna; chromatin; genome regulation; plant molecular biology">
+      <div class="num">#27</div>
+      <h2>Wierzbicki Lab</h2>
+      <div class="pi">Andrzej Wierzbicki</div>
+      <p class="focus">Non-coding RNA; chromatin; genome regulation; plant molecular biology</p>
+      <div class="meta"><span>4 members</span><span>10 publications</span><span>A: monograph/crimson</span><span>B: horizon/slate</span></div>
+      <div class="links">
+        <a href="labs/wierzbicki-lab/a/index.html">Design A<small>monograph</small></a>
+        <a class="b" href="labs/wierzbicki-lab/b/index.html">Design B<small>horizon</small></a>
+      </div>
+    </article>
+    <article class="card" data-text="wittkopp lab patricia wittkopp gene regulation; development; evolution; genetic variation">
+      <div class="num">#28</div>
+      <h2>Wittkopp Lab</h2>
+      <div class="pi">Patricia Wittkopp</div>
+      <p class="focus">Gene regulation; development; evolution; genetic variation</p>
+      <div class="meta"><span>8 members</span><span>10 publications</span><span>A: specimen/forest</span><span>B: editorial/indigo</span></div>
+      <div class="links">
+        <a href="labs/wittkopp-lab/a/index.html">Design A<small>specimen</small></a>
+        <a class="b" href="labs/wittkopp-lab/b/index.html">Design B<small>editorial</small></a>
+      </div>
+    </article>
+  </div>
+</main>
+<footer><div class="wrap">Prototype framework. Content sourced from each lab's public website and faculty profile; corrections welcome. Not affiliated with or endorsed by the University of Michigan.</div></footer>
+<script>
+document.getElementById('q').addEventListener('input',function(){var v=this.value.toLowerCase();document.querySelectorAll('#grid .card').forEach(function(c){c.style.display=c.dataset.text.indexOf(v)>-1?'':'none'})});
+</script>
+</body>
+</html>

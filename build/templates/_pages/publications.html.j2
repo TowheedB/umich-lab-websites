@@ -1,0 +1,19 @@
+{% extends template ~ '/base.html.j2' %}
+{% import '_partials.j2' as P with context %}
+{% block title %}Publications · {{ lab.short }}{% endblock %}
+{% block pagehead %}
+  <div class="eyebrow">Publications</div>
+  <h1>Selected publications</h1>
+  <p class="lede">A selection of the lab's recent work{% if lab.pub_years %}, {{ lab.pub_years[0] }}&ndash;{{ lab.pub_years[1] }}{% endif %}. A complete, automatically updated list can be connected to PubMed or Google Scholar.</p>
+{% endblock %}
+{% block content %}
+<section class="pubs-section">
+  <div class="wrap">
+    <div class="section-head">
+      <label class="search"><span class="muted small">Filter</span> <input id="pubsearch" type="search" placeholder="Search title, author, journal…" aria-label="Filter publications"></label>
+      {% if lab.links.pubmed %}<a class="btn btn-ghost" href="{{ lab.links.pubmed }}" target="_blank" rel="noopener">All papers on PubMed &rarr;</a>{% else %}<a class="btn btn-ghost" href="https://pubmed.ncbi.nlm.nih.gov/?term={{ lab.last | urlencode }}+{{ lab.first.split(' ')[0][0] }}%5BAuthor%5D+Michigan" target="_blank" rel="noopener">Search PubMed &rarr;</a>{% endif %}
+    </div>
+    {% if lab.pubs %}{{ P.pubs_by_year(lab) }}{% else %}<div class="placeholder">Publication list to be provided.</div>{% endif %}
+  </div>
+</section>
+{% endblock %}

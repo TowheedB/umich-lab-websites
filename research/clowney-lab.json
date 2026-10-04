@@ -1,0 +1,248 @@
+{
+ "slug": "clowney-lab",
+ "pi": {
+  "name": "E. Josie Clowney",
+  "title": "Associate Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "E. Josie Clowney is a University of Michigan alumna from Grand Rapids, Michigan. She earned her PhD studying olfactory receptor choice with Stavros Lomvardas at UCSF and completed postdoctoral work on neural circuits for mate choice with Vanessa Ruta at Rockefeller University. She founded her lab in the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan in 2017 and was promoted to Associate Professor with tenure in 2024. Her awards include fellowships from the Sloan, Pew, Rita Allen, and McKnight Foundations.",
+  "email": "jclowney@umich.edu",
+  "phone": "734-763-9036",
+  "office": "4218 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/jclowney.html"
+ },
+ "lab_description": "The Clowney Lab investigates how neural circuits that drive survival behaviors (feeding, fighting, fleeing, mating, parenting, and sleeping) are organized in the brain and how that organization is produced during development. Using developmental biology, connectomics, imaging, genetics, and behavioral analysis, the lab studies the DNA-encoded recipes that build neurons and wire them into functional circuits, focusing on chemosensory circuits in the fruit fly. Projects examine how the male-specific transcription factor Fruitless generates sex-differentiated mating circuits, how randomized wiring in the mushroom body supports general-purpose learning, and how perturbing circuit development changes sensory coding and behavior. The lab also studies vertebrate genome organization, including how AT and GC sequence content relate to gene spacing and the evolution of neurodevelopmental genes.",
+ "research_areas": [
+  {
+   "title": "Sex-specific mating circuits",
+   "summary": "Examines how male fruit flies instinctively identify mates and initiate courtship, focusing on how the male-specific transcription factor Fruitless generates sex-differentiated neural circuits through molecular dissection, imaging, genetics, circuit mapping, and behavior."
+  },
+  {
+   "title": "Randomized wiring in the mushroom body",
+   "summary": "Investigates general-purpose learning circuits that process evolutionarily unpredicted sensory information, using connectomics, developmental imaging, and transcriptional approaches to test whether a simple developmental algorithm generates learning capacity through non-deterministic patterning."
+  },
+  {
+   "title": "Engineering development for olfactory coding",
+   "summary": "Tests theoretical predictions about circuit function by experimentally perturbing neural circuit development during embryogenesis and measuring the resulting changes in sensory coding and behavior."
+  },
+  {
+   "title": "Vertebrate genome organization and transcriptional regulation",
+   "summary": "Analyzes how chromosomal gene organization relates to regulatory control, examining how AT/GC sequence content correlates with genomic spacing and gene evolution in humans."
+  }
+ ],
+ "team": [
+  {
+   "name": "Vanessa Puñal",
+   "role": "Postdoctoral Fellow",
+   "note": "HHMI Hanna H. Gray Fellow and IRACDA Postdoctoral Fellow; joined September 2019; PhD Neurobiology, Duke (Jeremy Kay lab)"
+  },
+  {
+   "name": "Emily Heckman",
+   "role": "Postdoctoral Fellow",
+   "note": "HHMI Hanna H. Gray Fellow; joined October 2022; PhD Biology, University of Oregon (Chris Doe lab)"
+  },
+  {
+   "name": "Margarita Brovkina",
+   "role": "Postdoctoral Fellow",
+   "note": "Joined 2019; BS Biochemistry & Molecular Biology, UMBC"
+  },
+  {
+   "name": "Najia Elkahlah",
+   "role": "Graduate Student",
+   "note": "PhD student, CMB; NINDS DSPAN Fellow; BS Neuroscience, MS MCDB, University of Michigan"
+  },
+  {
+   "name": "Margaret Chapman",
+   "role": "Graduate Student",
+   "note": "PhD student, NGP; BS Biology, North Carolina State University; joined 2021"
+  },
+  {
+   "name": "Yijie Pan",
+   "role": "Graduate Student",
+   "note": "PhD student, MCDB; BS Biology, Fudan University; joined May 2022"
+  },
+  {
+   "name": "Yunzhi Lin",
+   "role": "Graduate Student",
+   "note": "PhD student, MCDB; BS Biological Sciences, Fudan University"
+  },
+  {
+   "name": "Valentina Caicedo Garzón",
+   "role": "Graduate Student",
+   "note": "PhD student, MCDB; BS Biology, Universidad del Rosario, Bogotá; joined April 2023"
+  },
+  {
+   "name": "Joe Carter",
+   "role": "Research Technician",
+   "note": "Senior Research Assistant; BS Mathematics, University of Michigan; joined as research assistant May 2024"
+  },
+  {
+   "name": "Roberta Fuller",
+   "role": "Research Technician",
+   "note": "Emerita Professor of Biological Chemistry, volunteer researcher; joined January 2023"
+  },
+  {
+   "name": "Sam Timmer",
+   "role": "Undergraduate",
+   "note": "Neuroscience major, Computer Science minor"
+  },
+  {
+   "name": "Katelin Wu",
+   "role": "Undergraduate",
+   "note": "Neuroscience and Women's & Gender Studies"
+  },
+  {
+   "name": "Roshni Mohapatra",
+   "role": "Undergraduate",
+   "note": "Biology major, pre-med"
+  },
+  {
+   "name": "Eva Choi",
+   "role": "Undergraduate",
+   "note": "Neuroscience major"
+  }
+ ],
+ "alumni": [
+  {
+   "name": "Maria Ahmed",
+   "role": "Doctoral Graduate Student (2018-2023)",
+   "now": "Postdoctoral fellow, Hiesinger lab, Freie Universität Berlin"
+  },
+  {
+   "name": "Emma Thornton-Kolbe",
+   "role": "Doctoral Graduate Student (2019-2025)",
+   "now": ""
+  },
+  {
+   "name": "Abbie Burtis",
+   "role": "Undergraduate / Research Assistant (2019-2021)",
+   "now": "PhD student, University of Colorado Denver"
+  },
+  {
+   "name": "Donnell Williams",
+   "role": "Undergraduate / Research Assistant (2017-2022)",
+   "now": "Medical student, Harvard"
+  },
+  {
+   "name": "Jamal Jenkins",
+   "role": "Master's Student / Research Assistant (2019-2022)",
+   "now": "PhD student, Northwestern"
+  },
+  {
+   "name": "Veronica Sikora",
+   "role": "Research Assistant (2022-2024)",
+   "now": "PhD student"
+  },
+  {
+   "name": "Bowen Wang",
+   "role": "Undergraduate (2022-2023)",
+   "now": "Research assistant, Diba Lab, University of Michigan"
+  },
+  {
+   "name": "Isaac Levine",
+   "role": "Research Assistant (2017-2018)",
+   "now": "Artist/musician in Los Angeles"
+  }
+ ],
+ "publications": [
+  {
+   "year": 2026,
+   "title": "Transcription factor codes patterning neuronal groundplans of the cerebrum",
+   "authors": "Elkahlah NA, Lin Y, Pan Y, Carter JA, Shirangi TR, Clowney EJ",
+   "venue": "Nature",
+   "doi_or_url": "https://doi.org/10.1038/s41586-026-10526-3"
+  },
+  {
+   "year": 2026,
+   "title": "Fruitless produces diverse neuronal sex differences by editing lineage-programmed chromatin landscapes",
+   "authors": "Brovkina MV, Clowney EJ",
+   "venue": "bioRxiv (preprint)",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/42039416/"
+  },
+  {
+   "year": 2026,
+   "title": "Transcriptional control of brain sex differentiation in Diptera",
+   "authors": "Brovkina MV, Clowney EJ",
+   "venue": "Current Opinion in Neurobiology",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/42008921/"
+  },
+  {
+   "year": 2026,
+   "title": "Modular presynaptic assemblages scale to postsynaptic partner number",
+   "authors": "Puñal VM, Thornton-Kolbe EM, Dhillon J, Rogow JA, Clowney EJ",
+   "venue": "Development (accepted; bioRxiv preprint)",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/41542549/"
+  },
+  {
+   "year": 2025,
+   "title": "Spatial constraints and cell surface molecule depletion structure a randomly connected learning circuit",
+   "authors": "Thornton-Kolbe EM, Ahmed M, Gordon FR, Sieriebriennikov B, Williams DL, Kurmangaliyev YZ, Clowney EJ",
+   "venue": "Current Biology",
+   "doi_or_url": "https://doi.org/10.1016/j.cub.2025.05.062"
+  },
+  {
+   "year": 2024,
+   "title": "Diversity of visual inputs to Kenyon cells of the Drosophila mushroom body",
+   "authors": "Ganguly I, Heckman EL, Litwin-Kumar A, Clowney EJ, Behnia R",
+   "venue": "Nature Communications",
+   "doi_or_url": "https://doi.org/10.1038/s41467-024-49616-z"
+  },
+  {
+   "year": 2024,
+   "title": "Clock-dependent chromatin accessibility rhythms regulate circadian transcription",
+   "authors": "Yuan Y, Chen Q, Brovkina MV, Clowney EJ, Yadlapalli S",
+   "venue": "PLOS Genetics",
+   "doi_or_url": "https://doi.org/10.1371/journal.pgen.1011278"
+  },
+  {
+   "year": 2024,
+   "title": "Let's talk about sex: mechanisms of neural sexual differentiation in Bilateria",
+   "authors": "Roggenbuck EC, Hall EA, Hanson IB, Roby AA, Zhang KK, et al., Clowney EJ",
+   "venue": "WIREs Mechanisms of Disease",
+   "doi_or_url": "https://doi.org/10.1002/wsbm.1636"
+  },
+  {
+   "year": 2023,
+   "title": "Emergence and influence of sequence bias in evolutionarily malleable, mammalian tandem arrays",
+   "authors": "Brovkina MV, Chapman MA, Holding ML, Clowney EJ",
+   "venue": "BMC Biology",
+   "doi_or_url": "https://doi.org/10.1186/s12915-023-01673-4"
+  },
+  {
+   "year": 2023,
+   "title": "Input density tunes Kenyon cell sensory responses in the Drosophila mushroom body",
+   "authors": "Ahmed M, Rajagopalan AE, Pan Y, Li Y, Williams DL, Pedersen EA, Thakral M, Previero A, Close KC, Christoforou CP, Cai D, Turner GC, Clowney EJ",
+   "venue": "Current Biology",
+   "doi_or_url": "https://doi.org/10.1016/j.cub.2023.05.064"
+  },
+  {
+   "year": 2021,
+   "title": "Fruitless decommissions regulatory elements to implement cell-type-specific neuronal masculinization",
+   "authors": "Brovkina M, Duffié R, Burtis AEC, Clowney EJ",
+   "venue": "PLOS Genetics",
+   "doi_or_url": "https://doi.org/10.1371/journal.pgen.1009338"
+  },
+  {
+   "year": 2020,
+   "title": "Presynaptic developmental plasticity allows robust sparse wiring of the Drosophila mushroom body",
+   "authors": "Elkahlah NA, Rogow JA, Ahmed M, Clowney EJ",
+   "venue": "eLife",
+   "doi_or_url": "https://doi.org/10.7554/eLife.52278"
+  }
+ ],
+ "news": [],
+ "funding": [
+  "Sloan Foundation",
+  "Pew Charitable Trusts",
+  "Rita Allen Foundation",
+  "McKnight Foundation"
+ ],
+ "joining": "The Clowney lab accepts graduate students through the MCDB, CMB, and NGP programs, and through PIBS.",
+ "address": "1105 N University Ave, Ann Arbor, MI 48109 (Office: 4218 BSB; Lab: 4224 BSB)",
+ "links": {
+  "twitter": "",
+  "github": "",
+  "google_scholar": "",
+  "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Clowney+EJ%5BAuthor%5D&sort=date",
+  "other": []
+ }
+}

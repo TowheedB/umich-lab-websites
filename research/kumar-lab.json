@@ -1,0 +1,161 @@
+{
+ "slug": "kumar-lab",
+ "pi": {
+  "name": "Anuj Kumar",
+  "title": "Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Anuj Kumar earned his Ph.D. in Biomedical Sciences from Wright State University and completed postdoctoral training at Yale University in Michael Snyder's laboratory, where he held American Cancer Society Postdoctoral and Leslie Warner fellowships. At the University of Michigan he has been named a Biological Scholar, a March of Dimes Basil O'Connor Scholar, and an American Cancer Society Research Scholar, and he serves on the Faculty of 1000 (Genomics section). His lab uses functional genomics, proteomics, genetics, cell biology, and biochemistry in budding yeast and Candida albicans to study signaling pathways underlying eukaryotic cell growth, particularly the pseudohyphal growth transition.",
+  "email": "anujk@umich.edu",
+  "phone": "(734) 647-8060",
+  "office": "3210 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/anujk.html"
+ },
+ "lab_description": "The Kumar Lab applies functional genomics, proteomics, genetics, cell biology, and biochemistry to probe central signaling pathways underlying eukaryotic cell growth and function. A major focus is the transition of yeast cells from unicellular to filamentous (pseudohyphal) growth, a nutrient-responsive developmental program related to the virulence of pathogenic fungi. The lab studies ERK/MAPK and AMP-activated kinase (Snf1) signaling, uses quantitative phosphoproteomics by mass spectrometry to map kinase networks, examines the regulation of P-bodies and stress granules, and investigates metabolic messengers such as inositol polyphosphates in developmental contexts. Work is carried out in Saccharomyces cerevisiae and the human fungal pathogen Candida albicans, including studies of Candida biofilm rheology.",
+ "research_areas": [
+  {
+   "title": "Proteomic analysis of kinase signaling",
+   "summary": "Studies how yeast cells respond to nutritional and environmental stress through protein kinase signaling, including how the kinase Sks1p integrates nitrogen and glucose stress signals, and the relevance of these networks to Candida albicans."
+  },
+  {
+   "title": "Metabolic signaling in yeast pseudohyphal growth",
+   "summary": "Examines how the Snf1p/AMP-activated kinase regulates morphological transitions and energy homeostasis; the lab showed that Snf1p phosphorylates the inositol polyphosphate kinase Kcs1p, linking nutrient availability to cell growth."
+  },
+  {
+   "title": "Amyloid biology and yeast filamentous growth",
+   "summary": "Explores functional amyloid structures in fungal adhesins, finding that nearly 90 percent of identified adhesins contain sequences with high amyloid-forming potential, and developed a Flo11-based surface display system for studying amyloid aggregation."
+  },
+  {
+   "title": "Large-scale analysis of the yeast kinome during filamentous growth",
+   "summary": "A systematic screen of yeast kinases revealed five kinases that relocalize to the nucleus during filamentous growth, forming an interdependent, stress-responsive regulatory network."
+  }
+ ],
+ "team": [
+  {
+   "name": "Zhuoran Lyu",
+   "role": "Graduate Student",
+   "note": "MCDB doctoral student; yeast pseudohyphal growth and adhesin amyloid-forming sequences"
+  },
+  {
+   "name": "Cullen Peterson",
+   "role": "Graduate Student",
+   "note": "MCDB Master's student; yeast pseudohyphal growth and cell signaling"
+  },
+  {
+   "name": "Grant Landry",
+   "role": "Research Technician",
+   "note": "Research Lab Tech Associate (joined 2024); will soon pursue a PhD at Northwestern University"
+  },
+  {
+   "name": "Kayla Pletzer",
+   "role": "Undergraduate",
+   "note": "Honors student; yeast pseudohyphal growth, inositol polyphosphate signaling, and amyloid biology"
+  }
+ ],
+ "alumni": [
+  {
+   "name": "Josh Bauman",
+   "role": "Research Lab Tech Associate (2022)",
+   "now": "Doctoral student, Johns Hopkins University"
+  },
+  {
+   "name": "Hunter Lischwe Mueller",
+   "role": "Master's Student (2022)",
+   "now": "Research staff, Vanderbilt University"
+  },
+  {
+   "name": "Anton Mahama",
+   "role": "Visiting Scholar",
+   "now": "Doctoral student, University of Pittsburgh"
+  },
+  {
+   "name": "Tanvi Dongaonkar",
+   "role": "Undergraduate",
+   "now": ""
+  }
+ ],
+ "publications": [
+  {
+   "year": 2026,
+   "title": "The rheological properties of Candida albicans colony biofilms are impacted by matrix production and cell wall structure",
+   "authors": "Abriat C, Huang L, Sunder S, Bauman JS, Landry GA, Lischwe Mueller HR, VanEpps JS, Solomon MJ, Kumar A",
+   "venue": "Biofilm 11:100369",
+   "doi_or_url": "https://doi.org/10.1016/j.bioflm.2026.100369"
+  },
+  {
+   "year": 2026,
+   "title": "Estimating the distribution of fitness effects of loss of heterozygosity (LOH) events using an engineered library of Saccharomyces cerevisiae",
+   "authors": "Ke Y-H, Orozco-Quime M, Bauman J, Carvalho T, Landry GA, Ge S, Kumar A, James TY",
+   "venue": "PLoS Genetics 22(3):e1012083",
+   "doi_or_url": "https://doi.org/10.1371/journal.pgen.1012083"
+  },
+  {
+   "year": 2024,
+   "title": "The yeast AMP-activated protein kinase Snf1 phosphorylates the inositol polyphosphate kinase Kcs1",
+   "authors": "Sunder S, Bauman JS, Decker SJ, Lifton AR, Kumar A",
+   "venue": "Journal of Biological Chemistry 300(2):105657",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/38224949/"
+  },
+  {
+   "year": 2024,
+   "title": "Fluoride export is required for competitive fitness of pathogenic microorganisms in dental biofilm models",
+   "authors": "Banerjee A, Kang C-Y, An M, Koff B, Sunder S, Kumar A, Tenuta L, Stockbridge R",
+   "venue": "mBio 15(5):e0018424",
+   "doi_or_url": "https://doi.org/10.1128/mbio.00184-24"
+  },
+  {
+   "year": 2022,
+   "title": "Rheology of Candida albicans fungal biofilms",
+   "authors": "Beckwith JK, Ganesan M, VanEpps JS, Kumar A, Solomon MJ",
+   "venue": "Journal of Rheology 66:683-697",
+   "doi_or_url": "https://pubs.aip.org/sor/jor/article/66/4/683/2846154/"
+  },
+  {
+   "year": 2021,
+   "title": "The Complex Genetic Basis and Multilayered Regulatory Control of Yeast Pseudohyphal Growth",
+   "authors": "Kumar A",
+   "venue": "Annual Review of Genetics 55:1-21",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/34280314/"
+  },
+  {
+   "year": 2021,
+   "title": "Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition)",
+   "authors": "Klionsky DJ, et al.",
+   "venue": "Autophagy 17:1-382",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/33634751/"
+  },
+  {
+   "year": 2020,
+   "title": "The Ndr/LATS kinase Cbk1 regulates a specific subset of Ace2 functions and suppresses the hyphae-to-yeast transition in Candida albicans",
+   "authors": "Wakade RS, Ristow LC, Stamnes MA, Kumar A, Krysan DJ",
+   "venue": "mBio 11:e01900-20",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/32817109/"
+  },
+  {
+   "year": 2020,
+   "title": "Jump around: transposons in and out of the laboratory",
+   "authors": "Kumar A",
+   "venue": "F1000Research 9:F1000 Faculty Rev-135",
+   "doi_or_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7043111/"
+  },
+  {
+   "year": 2019,
+   "title": "The Yeast Stress-responsive Ksp1p Kinase Signaling Network Is Required for Pseudohyphal Growth and Wild-Type Ribonucleoprotein Granule Abundance",
+   "authors": "Mutlu N, Sheidy DT, Hsu A, Jeong H, Wozniak KJ, Kumar A",
+   "venue": "Genetics 213:705-720",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/31455721/"
+  }
+ ],
+ "news": [],
+ "funding": [],
+ "joining": "",
+ "address": "3220 Biological Sciences Building, 1105 N. University Avenue, Ann Arbor, MI 48109-1085",
+ "links": {
+  "twitter": "",
+  "github": "",
+  "google_scholar": "",
+  "pubmed": "",
+  "other": [
+   "https://sites.lsa.umich.edu/kumar-lab/functional-genomics-in-yeast-using-transposon-insertion-libraries/"
+  ]
+ }
+}

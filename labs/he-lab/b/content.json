@@ -1,0 +1,253 @@
+{
+ "lab": "He Lab / Plant-Microbe Interaction",
+ "pi": {
+  "name": "Ping He",
+  "title": "Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Ping He is a Professor in the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan. He received his B.S. from China Agricultural University, his M.S. from the Chinese Academy of Sciences, and his Ph.D. from Kansas State University, followed by postdoctoral training at Harvard Medical School. His research focuses on the activation and signaling mechanisms of host immunity upon pathogen infection, using Arabidopsis as a model, and on how signaling crosstalk orchestrates plant responses to extrinsic and intrinsic signals, with applications toward improving crop resilience. He co-leads the Molecular Plant-Microbe Interaction laboratory with Professor Libo Shan.",
+  "email": "pinghemi@umich.edu",
+  "phone": "",
+  "office": "5118 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/pinghemi.html",
+  "initials": "PH"
+ },
+ "description": "The He lab is part of the Molecular Plant-Microbe Interaction (MPMI) laboratory at the University of Michigan, a shared research group co-led by Ping He and Libo Shan. The group studies how plants recognize microbes and activate immune signaling, focusing on the activation and attenuation of pattern recognition receptor (PRR) complexes and NLR immune receptors. Research spans transcriptional, post-transcriptional, and post-translational regulation of plant immunity, including alternative splicing and protein kinase signaling; the coordination of immunity with growth and development; the regulation of plant autoimmunity; and immunomodulatory phytocytokines. Arabidopsis is the primary model, with translational work in cotton disease resistance and abiotic stress adaptation.",
+ "areas": [
+  {
+   "title": "Activation and attenuation of plant PRR complexes and signaling",
+   "summary": "Examines how plants activate and regulate pattern recognition receptor signaling pathways in response to microbial threats."
+  },
+  {
+   "title": "Transcriptional, post-transcriptional, and post-translational regulation of plant immunity",
+   "summary": "Investigates multiple levels of gene expression control, including alternative splicing and phosphorylation, that govern plant defense against pathogens."
+  },
+  {
+   "title": "Coordination of plant immunity, growth, and development",
+   "summary": "Studies how plants balance immune responses with growth and developmental processes under environmental stress."
+  },
+  {
+   "title": "Regulation of plant autoimmunity",
+   "summary": "Explores mechanisms, including E3 ligases, chaperones, and calcium signaling, that prevent plants from mounting excessive self-damaging immune reactions."
+  },
+  {
+   "title": "Immunomodulatory phytocytokines in plant immunity",
+   "summary": "Analyzes peptide signaling molecules that coordinate and fine-tune plant immune activation."
+  },
+  {
+   "title": "Cotton disease resistance and abiotic stress adaptation",
+   "summary": "Applies functional and translational genomics to identify disease-resistant traits and improve stress resilience in cotton."
+  }
+ ],
+ "pubs": [
+  {
+   "year": 2026,
+   "title": "De-repression of protein phosphatase 5 by the chaperone organizer HOP1 activates plant NLR immunity",
+   "authors": "Yan Y, Zhao Z, Yeo IC, et al.",
+   "venue": "Nature Plants",
+   "doi_or_url": "https://doi.org/10.1038/s41477-026-02253-4"
+  },
+  {
+   "year": 2026,
+   "title": "Assembly of helper NLR resistosome clusters upon activation of a coiled-coil NLR",
+   "authors": "Dong D, Ortiz-Morea FA, et al.",
+   "venue": "Nature",
+   "doi_or_url": "https://doi.org/10.1038/s41586-026-10215-1"
+  },
+  {
+   "year": 2025,
+   "title": "Orchestration of plant PRR- and NLR-mediated immunity: Protein kinases and beyond",
+   "authors": "Yan Y, Liu G, Shen Q, He P, Shan L",
+   "venue": "Molecular Cell",
+   "doi_or_url": "https://doi.org/10.1016/j.molcel.2025.09.010"
+  },
+  {
+   "year": 2025,
+   "title": "Global profiling of CPL3-mediated alternative splicing reveals regulatory mechanisms of DGK5",
+   "authors": "Kim S, Ma X, Kong L, et al.",
+   "venue": "Genome Biology",
+   "doi_or_url": "https://doi.org/10.1186/s13059-025-03529-2"
+  },
+  {
+   "year": 2025,
+   "title": "Activation of three targets by a TAL effector confers susceptibility to bacterial blight of cotton",
+   "authors": "Mormile B, Yan Y, et al.",
+   "venue": "Nature Communications",
+   "doi_or_url": "https://doi.org/10.1038/s41467-025-55926-7"
+  },
+  {
+   "year": 2024,
+   "title": "Mechanistic study of SCOOPs recognition by MIK2-BAK1 complex reveals the role of N-glycans",
+   "authors": "Wu H, Wan L, et al.",
+   "venue": "Nature Plants",
+   "doi_or_url": "https://doi.org/10.1038/s41477-024-01836-3"
+  },
+  {
+   "year": 2024,
+   "title": "The antagonistic role of an E3 ligase pair in regulating plant NLR-mediated autoimmunity",
+   "authors": "Liu J, Yang Y, Ortiz-Morea FA, et al.",
+   "venue": "Cell Host & Microbe",
+   "doi_or_url": "https://doi.org/10.1016/j.chom.2024.06.004"
+  },
+  {
+   "year": 2024,
+   "title": "Unlocking Nature's Defense: Plant Pattern Recognition Receptors as Guardians Against Pathogenic Threats",
+   "authors": "Zhang C, Xie Y, He P, Shan L",
+   "venue": "Molecular Plant-Microbe Interactions",
+   "doi_or_url": "https://doi.org/10.1094/MPMI-10-23-0177-HH"
+  },
+  {
+   "year": 2024,
+   "title": "Dual phosphorylation of DGK5-mediated PA burst regulates ROS in plant immunity",
+   "authors": "Kong L, Ma X, et al.",
+   "venue": "Cell",
+   "doi_or_url": "https://doi.org/10.1016/j.cell.2023.12.030"
+  },
+  {
+   "year": 2023,
+   "title": "A phospho-switch constrains BTL2-mediated phytocytokine signaling in plant immunity",
+   "authors": "Yu X, Xie Y, Luo D, et al.",
+   "venue": "Cell",
+   "doi_or_url": "https://doi.org/10.1016/j.cell.2023.04.027"
+  }
+ ],
+ "team_groups": [
+  [
+   "Principal Investigators",
+   [
+    {
+     "name": "Libo Shan",
+     "role": "Co-Principal Investigator",
+     "note": "Professor of MCDB; co-leads the MPMI laboratory",
+     "initials": "LS"
+    }
+   ]
+  ],
+  [
+   "Research Scientists",
+   [
+    {
+     "name": "Lingxiao Ji",
+     "role": "Research Assistant",
+     "note": "Since May 2024; calcium signaling in plant autoimmunity",
+     "initials": "LJ"
+    }
+   ]
+  ],
+  [
+   "Postdoctoral Researchers",
+   [
+    {
+     "name": "Yan Yan",
+     "role": "Postdoctoral Fellow",
+     "note": "Since Dec 2019; post-transcriptional regulation in plant immunity",
+     "initials": "YY"
+    },
+    {
+     "name": "Incheol Yeo",
+     "role": "Postdoctoral Fellow",
+     "note": "Since June 2020; resistance protein activation and plant immunity proteomics",
+     "initials": "IY"
+    },
+    {
+     "name": "Sung-Il Kim",
+     "role": "Postdoctoral Fellow",
+     "note": "Since Sep 2021; RNA alternative splicing in biotic stress responses",
+     "initials": "SK"
+    },
+    {
+     "name": "Yingpeng Xie",
+     "role": "Postdoctoral Fellow",
+     "note": "Since Sep 2021; phytocytokines in plant immunity",
+     "initials": "YX"
+    },
+    {
+     "name": "Guangchao Liu",
+     "role": "Postdoctoral Fellow",
+     "note": "Since Aug 2022; calcium signaling and RNA binding proteins in autoimmunity",
+     "initials": "GL"
+    },
+    {
+     "name": "Yulu Zhou",
+     "role": "Postdoctoral Fellow",
+     "note": "Since 2023; plant autoimmunity mechanisms",
+     "initials": "YZ"
+    },
+    {
+     "name": "Qiaochu Shen",
+     "role": "Postdoctoral Fellow",
+     "note": "Since July 2024; NLR and RLK-mediated immune signaling",
+     "initials": "QS"
+    }
+   ]
+  ],
+  [
+   "Graduate Students",
+   [
+    {
+     "name": "Suji Ye",
+     "role": "Graduate Student",
+     "note": "Ph.D. student since Fall 2020; plant cell death and signaling proteins",
+     "initials": "SY"
+    },
+    {
+     "name": "Keyao Yu",
+     "role": "Graduate Student",
+     "note": "Ph.D. student since 2025; phytocytokine mechanisms",
+     "initials": "KY"
+    },
+    {
+     "name": "Liam Carter",
+     "role": "Graduate Student",
+     "note": "Master's student since Fall 2025; plant immunity and environmental stressors",
+     "initials": "LC"
+    },
+    {
+     "name": "Hassan Kassem",
+     "role": "Undergraduate",
+     "note": "Mentored by Guangchao Liu",
+     "initials": "HK"
+    },
+    {
+     "name": "Khyara Roble Lainez",
+     "role": "Undergraduate",
+     "note": "Mentored by Suji Ye",
+     "initials": "KR"
+    },
+    {
+     "name": "Juan Francis Naasko",
+     "role": "Undergraduate",
+     "note": "Mentored by Qiaochu Shen",
+     "initials": "JF"
+    },
+    {
+     "name": "Brice Van Zant",
+     "role": "Undergraduate",
+     "note": "Mentored by Keyao Yu",
+     "initials": "BV"
+    },
+    {
+     "name": "Cian Dowling",
+     "role": "Undergraduate",
+     "note": "Mentored by Sung-Il Kim",
+     "initials": "CD"
+    }
+   ]
+  ]
+ ],
+ "news": [
+  {
+   "date": "2024",
+   "text": "MPMI Virtual Seminar: \"Unlocking Nature's Defense: Plant Pattern Recognition Receptors as Guardians Against Pathogenic Threats\" featuring Dr. Yingpeng Xie."
+  },
+  {
+   "date": "2023",
+   "text": "Rachel won 1st place poster and Brendan won 2nd place presentation at the MCDB retreat; Rachel received a 2023 NASA Space Technology Graduate Research Fellowship."
+  },
+  {
+   "date": "2022",
+   "text": "Zunyong Liu received the Early Career Scientist Award at the 7th Xanthomonas Genomics Conference; Brendan and Catherine received ASPB travel awards."
+  }
+ ],
+ "joining": "The lab is seeking postdoctoral fellows, PhD students, and undergraduate researchers. Postdoctoral applicants should send a cover letter, CV with publication list, statement of research interests, and contact information for three references to Ping He or Libo Shan.",
+ "address": "Department of Molecular, Cellular, and Developmental Biology, 2220 Biological Science Building, 1105 North University Ave., Ann Arbor, MI 48109-1085"
+}

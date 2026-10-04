@@ -1,0 +1,31 @@
+{% import '_partials.j2' as P with context %}
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ lab.short }}{% endblock %}</title>
+<meta name="description" content="{{ lab.hero }}">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<style>:root{--accent:{{ palette.accent }};--accent-strong:{{ palette.strong }};--accent-base:{{ palette.accent }};--accent-strong-base:{{ palette.strong }};--accent-light:{{ palette.light }};--accent-soft:{{ palette.soft }};--accent-soft-dark:{{ palette.softd }};}</style>
+<script src="script.js"></script>
+</head>
+<body class="t-horizon">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site">
+  <div class="wrap nav">
+    <a class="brand" href="index.html">{{ lab.short }}</a>
+    {{ P.menu(pages, page) }}
+  </div>
+</header>
+<main id="main">
+{% block hero %}
+<div class="pagehead"><div class="wrap">{% block pagehead %}{% endblock %}</div></div>
+{% endblock %}
+{% block content %}{% endblock %}
+</main>
+{{ P.footer(lab, variant, other_variant, template, year) }}
+</body>
+</html>

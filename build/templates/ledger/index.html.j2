@@ -1,0 +1,74 @@
+{% extends 'ledger/base.html.j2' %}
+{% import '_partials.j2' as P with context %}
+{% block hero %}
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div class="hero-text">
+      <div class="eyebrow">Research group</div>
+      <h1>{{ lab.hero }}</h1>
+      <div class="actions">
+        <a class="btn btn-primary" href="research.html">Research &rarr;</a>
+        <a class="btn btn-ghost" href="publications.html">Publications</a>
+      </div>
+    </div>
+    <div class="hero-panel">
+      <div class="panel-art">{{ art | safe }}</div>
+      <dl class="facts">
+        <dt>Principal investigator</dt><dd>{{ lab.pi.name }}</dd>
+        <dt>Focus</dt><dd>{{ lab.keywords[:3] | join(', ') }}</dd>
+        <dt>Members</dt><dd>{{ lab.team_count or '—' }}</dd>
+        {% if lab.pub_years %}<dt>Latest paper</dt><dd>{{ lab.pub_years[1] }}</dd>{% endif %}
+      </dl>
+    </div>
+  </div>
+</section>
+{% endblock %}
+{% block content %}
+<section class="about rule-top">
+  <div class="wrap grid about-grid">
+    <div class="label">01 &mdash; About</div>
+    <div class="prose"><p class="big">{{ lab.description }}</p></div>
+  </div>
+</section>
+<section class="themes rule-top">
+  <div class="wrap grid about-grid">
+    <div class="label">02 &mdash; Research themes</div>
+    <div>
+      <table class="ledger-table">
+        <tbody>
+        {% for a in lab.areas %}
+        <tr><td class="idx">{{ '%02d' % loop.index }}</td><td class="tt">{{ a.title }}</td><td class="ts">{{ a.summary }}</td></tr>
+        {% endfor %}
+        </tbody>
+      </table>
+      <p style="margin-top:1rem"><a href="research.html">Full research overview &rarr;</a></p>
+    </div>
+  </div>
+</section>
+<section class="recent rule-top">
+  <div class="wrap grid about-grid">
+    <div class="label">03 &mdash; Recent publications</div>
+    <div>
+      {{ P.pubs_recent(lab, 5) }}
+      <p style="margin-top:1rem"><a href="publications.html">All publications &rarr;</a></p>
+    </div>
+  </div>
+</section>
+{% if lab.news %}
+<section class="newsblock rule-top">
+  <div class="wrap grid about-grid">
+    <div class="label">04 &mdash; News</div>
+    <div>{{ P.news(lab, 5) }}</div>
+  </div>
+</section>
+{% endif %}
+<section class="joinblock rule-top">
+  <div class="wrap grid about-grid">
+    <div class="label">{{ '05' if lab.news else '04' }} &mdash; Join</div>
+    <div class="join-row">
+      <p class="big">We're looking for students and postdocs who want to work on {{ lab.keywords[0] | lower }}.</p>
+      <a class="btn btn-primary" href="join.html">Openings &rarr;</a>
+    </div>
+  </div>
+</section>
+{% endblock %}

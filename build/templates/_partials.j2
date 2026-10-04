@@ -1,0 +1,179 @@
+{% macro theme_icon() %}
+<button class="theme-btn" type="button" aria-label="Toggle light and dark mode" title="Toggle theme">
+  <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+  <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+</button>
+{% endmacro %}
+
+{% macro menu(pages, page) %}
+<button class="nav-toggle" type="button" aria-expanded="false" aria-controls="menu">Menu</button>
+<ul class="menu" id="menu">
+  {% for p, label in pages if p != 'index' %}
+  <li><a href="{{ p }}.html" {% if p == page %}aria-current="page"{% endif %}>{{ label }}</a></li>
+  {% endfor %}
+  <li>{{ theme_icon() }}</li>
+</ul>
+{% endmacro %}
+
+{% macro areas_cards(lab, numbered=True) %}
+<div class="grid grid-3 areas">
+  {% for a in lab.areas %}
+  <article class="card area">
+    {% if numbered %}<div class="num">{{ '%02d' % loop.index }}</div>{% endif %}
+    <h3>{{ a.title }}</h3>
+    {% if a.summary %}<p>{{ a.summary }}</p>{% else %}<p class="muted">Summary to be added with the lab's input.</p>{% endif %}
+  </article>
+  {% endfor %}
+</div>
+{% endmacro %}
+
+{% macro areas_list(lab) %}
+<ol class="area-list">
+  {% for a in lab.areas %}
+  <li>
+    <h3>{{ a.title }}</h3>
+    {% if a.summary %}<p>{{ a.summary }}</p>{% else %}<p class="muted">Summary to be added with the lab's input.</p>{% endif %}
+  </li>
+  {% endfor %}
+</ol>
+{% endmacro %}
+
+{% macro pub_item(p) %}
+<li class="pub">
+  <div class="yr">{{ p.year or '' }}</div>
+  <div>
+    <p class="t">{{ p.title }}</p>
+    {% if p.authors %}<p class="a">{{ p.authors }}</p>{% endif %}
+    <p class="v">{{ p.venue }}{% if p.doi_or_url %}<a href="{{ p.doi_or_url }}" target="_blank" rel="noopener">Read &rarr;</a>{% endif %}</p>
+  </div>
+</li>
+{% endmacro %}
+
+{% macro pubs_recent(lab, limit=4) %}
+<ul class="pubs">
+  {% for p in lab.pubs[:limit] %}{{ pub_item(p) }}{% endfor %}
+</ul>
+{% endmacro %}
+
+{% macro pubs_by_year(lab) %}
+{% for year, items in lab.pubs | groupby('year') | reverse %}
+<h3 class="year-head">{{ year }}</h3>
+<ul class="pubs">
+  {% for p in items %}{{ pub_item(p) }}{% endfor %}
+</ul>
+{% endfor %}
+{% endmacro %}
+
+{% macro person(m) %}
+<div class="person">
+  <div class="avatar" aria-hidden="true">{{ m.initials }}</div>
+  <div>
+    <p class="n">{{ m.name }}</p>
+    <p class="r">{{ m.role }}</p>
+    {% if m.note %}<p class="note">{{ m.note }}</p>{% endif %}
+  </div>
+</div>
+{% endmacro %}
+
+{% macro pi_block(lab) %}
+<div class="pi-card">
+  <div class="avatar" aria-hidden="true">{{ lab.pi.initials }}</div>
+  <div>
+    <div class="eyebrow">Principal Investigator</div>
+    <h2>{{ lab.pi.name }}</h2>
+    <p class="muted">{{ lab.pi.title or 'Faculty, ' ~ lab.pi.department }}</p>
+    {% if lab.pi.bio %}<p>{{ lab.pi.bio }}</p>{% else %}<p class="placeholder">Short biography to be provided by the lab.</p>{% endif %}
+    <p class="small"><a href="mailto:{{ lab.pi.email }}">{{ lab.pi.email }}</a>{% if lab.pi.profile_url %} &middot; <a href="{{ lab.pi.profile_url }}" target="_blank" rel="noopener">Faculty profile</a>{% endif %}</p>
+  </div>
+</div>
+{% endmacro %}
+
+{% macro team(lab) %}
+{% if lab.team_groups %}
+  {% for group, members in lab.team_groups %}
+  <h3 class="group-head">{{ group }}</h3>
+  <div class="people">
+    {% for m in members %}{{ person(m) }}{% endfor %}
+  </div>
+  {% endfor %}
+{% else %}
+  <div class="placeholder"><strong>Team roster coming soon.</strong> Names, roles, and photos will be added once the lab provides them.</div>
+{% endif %}
+{% endmacro %}
+
+{% macro alumni(lab) %}
+{% if lab.alumni %}
+<ul class="alumni">
+  {% for a in lab.alumni %}<li><strong>{{ a.name }}</strong>{% if a.role %} <span class="now">&middot; {{ a.role }}</span>{% endif %}{% if a.now %} <span class="now">&rarr; {{ a.now }}</span>{% endif %}</li>{% endfor %}
+</ul>
+{% endif %}
+{% endmacro %}
+
+{% macro news(lab, limit=6) %}
+{% if lab.news %}
+<ul class="news">
+  {% for n in lab.news[:limit] %}<li{% if not n.date %} class="nodate"{% endif %}>{% if n.date %}<time>{{ n.date }}</time>{% endif %}<span>{{ n.text }}</span></li>{% endfor %}
+</ul>
+{% endif %}
+{% endmacro %}
+
+{% macro join_text(lab) %}
+{% if lab.joining %}
+  {% for para in lab.joining.split('\n') if para.strip() %}<p>{{ para }}</p>{% endfor %}
+{% else %}
+  <p>We welcome inquiries from motivated scientists at every stage. Prospective graduate students typically join through the University of Michigan's MCDB graduate program or the Program in Biomedical Sciences (PIBS). Postdoctoral candidates and undergraduates interested in research should write to Dr. {{ lab.last }} directly.</p>
+  <p class="placeholder"><strong>Draft text.</strong> The lab can replace this with its own description of current openings and how to apply.</p>
+{% endif %}
+{% endmacro %}
+
+{% macro contact(lab) %}
+<dl class="contact">
+  <dt>Email</dt><dd><a href="mailto:{{ lab.pi.email }}">{{ lab.pi.email }}</a></dd>
+  {% if lab.pi.phone %}<dt>Phone</dt><dd>{{ lab.pi.phone }}</dd>{% endif %}
+  {% if lab.pi.office %}<dt>Office</dt><dd>{{ lab.pi.office }}</dd>{% endif %}
+  <dt>Address</dt><dd>{{ lab.address or 'Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, MI 48109' }}</dd>
+</dl>
+{% endmacro %}
+
+{% macro stats(lab) %}
+<div class="stats">
+  <div class="stat"><b>{{ lab.areas | length }}</b><span>research themes</span></div>
+  <div class="stat"><b>{{ lab.team_count if lab.team_count else '&mdash;' | safe }}</b><span>lab members</span></div>
+  <div class="stat"><b>{{ lab.pubs | length }}{% if lab.pubs|length >= 10 %}+{% endif %}</b><span>selected publications</span></div>
+  {% if lab.pub_years %}<div class="stat"><b>{{ lab.pub_years[1] }}</b><span>latest publication</span></div>{% endif %}
+</div>
+{% endmacro %}
+
+{% macro footer(lab, variant, other_variant, template, year) %}
+<footer class="site">
+  <div class="wrap">
+    <div class="cols">
+      <div>
+        <h4>{{ lab.short }}</h4>
+        <p>{{ lab.pi.department }}</p>
+        <p>University of Michigan</p>
+        <p>{{ lab.address or 'Ann Arbor, MI 48109' }}</p>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <p><a href="mailto:{{ lab.pi.email }}">{{ lab.pi.email }}</a></p>
+        {% if lab.pi.phone %}<p>{{ lab.pi.phone }}</p>{% endif %}
+        {% if lab.pi.office %}<p>{{ lab.pi.office }}</p>{% endif %}
+      </div>
+      <div>
+        <h4>Links</h4>
+        <p><a href="https://lsa.umich.edu/mcdb" target="_blank" rel="noopener">Department of MCDB</a></p>
+        {% if lab.pi.profile_url %}<p><a href="{{ lab.pi.profile_url }}" target="_blank" rel="noopener">Faculty profile</a></p>{% endif %}
+        {% if lab.links.twitter %}<p><a href="{{ lab.links.twitter }}" target="_blank" rel="noopener">Twitter / X</a></p>{% endif %}
+        {% if lab.links.github %}<p><a href="{{ lab.links.github }}" target="_blank" rel="noopener">GitHub</a></p>{% endif %}
+        {% if lab.links.google_scholar %}<p><a href="{{ lab.links.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a></p>{% endif %}
+        <p><a href="{{ lab.existing }}" target="_blank" rel="noopener">Current lab page</a></p>
+      </div>
+    </div>
+    <div class="proto">
+      <span>&copy; {{ year }} {{ lab.short }} &middot; University of Michigan</span>
+      <span>Prototype design {{ variant }} &middot; <a href="../{{ other_variant | lower }}/{{ page }}.html">view design {{ other_variant }}</a> &middot; <a href="../../../index.html">all prototypes</a></span>
+    </div>
+  </div>
+</footer>
+{% endmacro %}

@@ -1,0 +1,160 @@
+{
+ "slug": "wittkopp-lab",
+ "pi": {
+  "name": "Patricia Wittkopp",
+  "title": "Deborah E. Goldberg Distinguished University Professor of Ecology and Evolutionary Biology and Arthur F. Thurnau Professor; Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Patricia (Trisha) Wittkopp earned a B.S. from the University of Michigan (1997) and a Ph.D. from the University of Wisconsin-Madison (2002), then was a Damon Runyon Fellow with Andy Clark at Cornell (2002-2005) before founding her lab at Michigan in August 2005. She served as EEB Department Chair (2020-2023), LSA Associate Dean for Natural Sciences (2023-2025), and is LSA Associate Dean for Research and Graduate Education (2025-present). Her honors include Guggenheim Fellow, AAAS Fellow, Alfred P. Sloan Research Fellow, a Humboldt Research Award, and the Margaret Dayhoff Mid-Career Award. Her lab studies the genetic basis of phenotypic evolution, with an emphasis on gene regulation in Drosophila and yeast.",
+  "email": "wittkopp@umich.edu",
+  "phone": "734-763-1548",
+  "office": "4022 Biological Sciences Building (faculty profile lists 4010 BSB)",
+  "department": "Ecology and Evolutionary Biology; Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/wittkopp.html"
+ },
+ "lab_description": "The Wittkopp Lab investigates the genetic and molecular mechanisms underlying phenotypic differences within and between species, with an emphasis on how transcriptional regulation converts genotype into phenotype. The lab integrates molecular and developmental biology, population and quantitative genetics, genomics, and bioinformatics, working primarily in Drosophila species and the yeast Saccharomyces cerevisiae. Projects range from mechanistic studies of single cis-regulatory sequences and the yeast TDH3 promoter, to genome-wide quantification of cis- versus trans-regulatory contributions to expression variation, to characterizing the effects of new mutations and determining which become fixed within populations or between species. The lab is affiliated with EEB, MCDB, PIBS, the Center for Computational Medicine and Bioinformatics, and the Center for Statistical Genetics.",
+ "research_areas": [
+  {
+   "title": "Genetic mechanisms of phenotypic variation",
+   "summary": "The genetic and molecular basis of trait differences within and between species and their evolutionary origins, using comparative approaches across Drosophila species and yeast, including pigmentation and its role in behavior."
+  },
+  {
+   "title": "Cis-regulatory sequence function and evolution",
+   "summary": "How non-coding DNA sequences control gene expression and how these regulatory regions change structurally over evolutionary time, through mechanistic single-gene studies."
+  },
+  {
+   "title": "Cis- versus trans-regulatory contributions",
+   "summary": "Quantifying the relative contributions of cis- and trans-acting changes to genome-wide expression variation and how natural selection shapes their evolution, using population-level genomic approaches."
+  },
+  {
+   "title": "Mutation properties and fixation",
+   "summary": "Characterizing the functional and fitness effects of newly arising mutations and determining which become established within populations or fixed between species, bridging molecular effects to population outcomes."
+  }
+ ],
+ "team": [
+  {
+   "name": "Erick X. Bayala",
+   "role": "Postdoctoral Fellow",
+   "note": "NSF Postdoctoral Fellow; Ph.D. University of Chicago; Drosophila development, expression dynamics, and patterning; joined Oct 2022"
+  },
+  {
+   "name": "Taslima Haque",
+   "role": "Postdoctoral Fellow",
+   "note": "Ph.D. Plant Biology, UT Austin; gene expression evolution and adaptation; joined May 2023"
+  },
+  {
+   "name": "Rebecca McAvoy",
+   "role": "Graduate Student",
+   "note": "MCDB; CBTP T32 trainee; genetic variation affecting expression and transcription factor binding; joined Mar 2023"
+  },
+  {
+   "name": "Ayushi Dasgupta",
+   "role": "Graduate Student",
+   "note": "EEB; pigmentation genes in Drosophila mating behavior and chemical signaling; joined Oct 2022"
+  },
+  {
+   "name": "Mark Ayers",
+   "role": "Undergraduate",
+   "note": "Biology major; Beckman Scholar; Drosophila americana genome mapping and microbiome-phenotype links; started Jun 2025"
+  },
+  {
+   "name": "Adel Kamel Kaddoumi",
+   "role": "Undergraduate",
+   "note": "Pharmaceutical Sciences; genetic basis of phenotypic evolution"
+  },
+  {
+   "name": "Sam Teppo",
+   "role": "Undergraduate",
+   "note": "Biology, Health, and Society and Psychology double major"
+  },
+  {
+   "name": "Zandra Curley",
+   "role": "Undergraduate",
+   "note": "Biology and Earth & Environmental Sciences double major"
+  }
+ ],
+ "alumni": [],
+ "publications": [
+  {
+   "year": 2024,
+   "title": "A microRNA is the effector gene of a classic evolutionary hotspot locus",
+   "authors": "Tian S, Asano Y, Banerjee TD, Wee JLQ, Lamb A, Wang Y, Murugesan SN, Wittkopp PJ, Monteiro A",
+   "venue": "Science",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2024,
+   "title": "Protocol for dissecting Drosophila pupae and visualizing RNA expression using hybridization chain reaction (HCR)",
+   "authors": "Bayala EX, Sinah P, Wittkopp PJ",
+   "venue": "STAR Protocols",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2024,
+   "title": "Plasticity and environment-specific relationships between gene expression and fitness in Saccharomyces cerevisiae",
+   "authors": "Siddiq M, Duveau F, Wittkopp PJ",
+   "venue": "Nature Ecology & Evolution",
+   "doi_or_url": "https://doi.org/10.1038/s41559-024-02582-7"
+  },
+  {
+   "year": 2023,
+   "title": "Active compensation for changes in TDH3 expression mediated by direct regulators of TDH3",
+   "authors": "Vande Zande P, Siddiq MA, Hodgins-Davis A, Kim L, Wittkopp PJ",
+   "venue": "PLOS Genetics",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2023,
+   "title": "Emerging questions in transcriptional regulation",
+   "authors": "Nora EP, Aerts S, Wittkopp PJ, Bussemaker HJ, Bulyk M, Sinha S, Zeitlinger J, Crocker J, Fuxman Bass JI",
+   "venue": "Philosophical Transactions of the Royal Society B",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2023,
+   "title": "Contributions of mutation and selection to regulatory variation: lessons from the S. cerevisiae TDH3 gene",
+   "authors": "Wittkopp PJ",
+   "venue": "Philosophical Transactions of the Royal Society B",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2023,
+   "title": "Interdisciplinary approaches to predicting evolutionary biology",
+   "authors": "Crocker J, Payne JL, Walczak AM, Wittkopp PJ",
+   "venue": "Philosophical Transactions of the Royal Society B",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2022,
+   "title": "Differential Grainy head binding correlates with variation in chromatin structure and gene expression in Drosophila melanogaster",
+   "authors": "Ertl H, Hill MS, Wittkopp PJ",
+   "venue": "BMC Genomics",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2022,
+   "title": "Regulatory network topology can explain differential pleiotropy of cis- and trans-acting mutations",
+   "authors": "Vande Zande P, Wittkopp PJ",
+   "venue": "Molecular Biology and Evolution",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2022,
+   "title": "Pleiotropic effects of trans-regulatory mutations on fitness and gene expression",
+   "authors": "Vande Zande P, Hill MS, Wittkopp PJ",
+   "venue": "Science",
+   "doi_or_url": ""
+  }
+ ],
+ "news": [],
+ "funding": [],
+ "joining": "Freshman and sophomore undergraduates can apply through the Undergraduate Research Opportunities Program (UROP) at the beginning of each year; juniors and seniors may pursue independent research for credit through their biology department. Prospective graduate students may apply through Ecology and Evolutionary Biology, Molecular, Cellular, and Developmental Biology, or the biomedical sciences (PIBS) programs and should contact Dr. Wittkopp directly during the application process. Postdoctoral openings depend on funding and lab size; interested candidates should email Dr. Wittkopp.",
+ "address": "4022 Biological Sciences Building, 1105 North University Avenue, Ann Arbor, MI 48109-1085",
+ "links": {
+  "twitter": "",
+  "github": "",
+  "google_scholar": "",
+  "pubmed": "",
+  "other": [
+   "https://lsa.umich.edu/content/dam/michigan-lsa/people-update/cv/wittkopp-09042024-162531-09042024WittkoppFullCV.pdf"
+  ]
+ }
+}

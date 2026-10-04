@@ -1,0 +1,229 @@
+{
+ "lab": "Bo Duan Lab",
+ "pi": {
+  "name": "Bo Duan",
+  "title": "Associate Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Bo Duan is an Associate Professor in the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan, where he founded his laboratory in 2016. His lab investigates the development, organization, and function of neural circuits underlying somatosensory modalities such as pain, itch, touch, and temperature sensation. The group uses mouse genetics, histochemistry, neuroanatomical tracing, electrophysiology, in vivo imaging, and behavioral analyses.",
+  "email": "bduan@umich.edu",
+  "phone": "(734) 647-4359",
+  "office": "Room 4264, Biological Sciences Building (lab phone: (734) 615-7161)",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/bo-duan.html",
+  "initials": "BD"
+ },
+ "description": "The Bo Duan lab studies how the nervous system perceives and processes somatosensory information, including temperature, touch, pain, and itch. The lab investigates the neural circuits that transmit and process these distinct sensory modalities in the spinal cord and brain, and how the modalities interact with one another. Current projects aim to identify the spinal neurons that transmit thermal versus mechanical pain, the spinal circuits for mechanical itch, the peripheral sensory inputs that drive pain and itch, and the descending pathways that modulate pain and itch. The lab combines mouse genetics, histochemistry, neuroanatomical tracing, electrophysiology, in vivo imaging, and behavioral analyses.",
+ "areas": [
+  {
+   "title": "Thermal vs. mechanical pain transmission",
+   "summary": "Identifying the spinal neurons responsible for transmitting different types of pain."
+  },
+  {
+   "title": "Mechanical itch circuits",
+   "summary": "Identifying the spinal circuits and dedicated hair afferents that transmit mechanical itch signals."
+  },
+  {
+   "title": "Peripheral inputs for pain and itch",
+   "summary": "Characterizing the peripheral sensory inputs that drive painful and itchy sensations, including dedicated skin-to-brain circuits for temperature sensation."
+  },
+  {
+   "title": "Descending modulation of pain and itch",
+   "summary": "Dissecting the descending neural pathways that regulate pain and itch responses."
+  }
+ ],
+ "pubs": [
+  {
+   "year": 2026,
+   "title": "A Specialized Population of Hair Afferents Dedicated to Transmitting Mechanical Itch",
+   "authors": "Fatima M, Lee H, Cha H, et al.",
+   "venue": "Neuron",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2026,
+   "title": "A touch-guided neural circuit regulates motivated gnawing to maintain dental alignment",
+   "authors": "Su XY, Ronan EA, Perry SK, et al.",
+   "venue": "Neuron",
+   "doi_or_url": "https://www.sciencedirect.com/science/article/pii/S0896627326000462"
+  },
+  {
+   "year": 2026,
+   "title": "Endothelin-2 from Keratinocytes and its Association with Itch in Skin Diseases",
+   "authors": "Dong Y, Sarkar MK, Wu Y, et al.",
+   "venue": "Journal of Investigative Dermatology",
+   "doi_or_url": "https://www.sciencedirect.com/science/article/pii/S0022202X25023541"
+  },
+  {
+   "year": 2025,
+   "title": "PI(3)P coordinates SNX17- and SNX27-dependent protein recycling for long-term synaptic plasticity",
+   "authors": "Rivero-Rios P, Uygun T, Chavis GD, et al.",
+   "venue": "Journal of Cell Biology",
+   "doi_or_url": "https://rupress.org/jcb/article/224/11/e202411198/278308/"
+  },
+  {
+   "year": 2025,
+   "title": "A dedicated skin-to-brain circuit for cool sensation in mice",
+   "authors": "Lee H, Hor CC, Horwitz LR, et al.",
+   "venue": "Nature Communications",
+   "doi_or_url": "https://www.nature.com/articles/s41467-025-61562-y"
+  },
+  {
+   "year": 2025,
+   "title": "Lateral parabrachial nucleus: the commander-in-chief for nocifensive behavior expression in cold allodynia",
+   "authors": "Hor CC, Duan B",
+   "venue": "Pain",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2025,
+   "title": "Mechanisms for dysregulation of excitatory-inhibitory balance underlying allodynia in dorsal horn neural subcircuits",
+   "authors": "Ginsberg AG, Lempka SF, Duan B, Booth V, Crodelle J",
+   "venue": "PLoS Computational Biology",
+   "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1012234"
+  },
+  {
+   "year": 2024,
+   "title": "The Kainate Receptor GluK2 Mediates Cold Sensing in Mice",
+   "authors": "Cai W, Zhang W, Zheng Q, et al.",
+   "venue": "Nature Neuroscience",
+   "doi_or_url": "https://www.nature.com/articles/s41593-024-01585-8"
+  },
+  {
+   "year": 2023,
+   "title": "Understanding Neural Mechanisms of Mechanical Itch",
+   "authors": "Feng J, Duan B",
+   "venue": "Journal of Allergy and Clinical Immunology",
+   "doi_or_url": "https://www.sciencedirect.com/science/article/pii/S0091674923005705"
+  },
+  {
+   "year": 2022,
+   "title": "Molecular Determinants of Mechanical Itch Sensitization in Chronic Itch",
+   "authors": "Lee H, Graham RD, Melikyan D, et al.",
+   "venue": "Frontiers in Molecular Neuroscience",
+   "doi_or_url": "https://doi.org/10.3389/fnmol.2022.937890"
+  }
+ ],
+ "team_groups": [
+  [
+   "Principal Investigators",
+   [
+    {
+     "name": "Wanlu Du",
+     "role": "Co-Principal Investigator",
+     "note": "2023-present",
+     "initials": "WD"
+    }
+   ]
+  ],
+  [
+   "Research Scientists",
+   [
+    {
+     "name": "Rawan Al-Ebidi",
+     "role": "Research Technician",
+     "note": "Since March 2022; B.S. University of Michigan",
+     "initials": "RA"
+    }
+   ]
+  ],
+  [
+   "Postdoctoral Researchers",
+   [
+    {
+     "name": "Hankyu Lee",
+     "role": "Postdoctoral Fellow",
+     "note": "Since December 2018; B.S. Kyung Hee University, Ph.D. Hanyang University",
+     "initials": "HL"
+    },
+    {
+     "name": "Xinyu Su",
+     "role": "Postdoctoral Fellow",
+     "note": "Since September 2021; Ph.D. Shanghai Jiao Tong University",
+     "initials": "XS"
+    }
+   ]
+  ],
+  [
+   "Graduate Students",
+   [
+    {
+     "name": "Hwayeon Cha",
+     "role": "Graduate Student",
+     "note": "MCDB; since March 2021; B.S./M.S. Sookmyung Women's University",
+     "initials": "HC"
+    },
+    {
+     "name": "Katie Qu",
+     "role": "Undergraduate",
+     "note": "Biology/Economics; since May 2023",
+     "initials": "KQ"
+    },
+    {
+     "name": "Sarah Yang",
+     "role": "Undergraduate",
+     "note": "Neuroscience; since September 2023",
+     "initials": "SY"
+    },
+    {
+     "name": "Abbey Dinh",
+     "role": "Undergraduate",
+     "note": "Biochemistry; since May 2024",
+     "initials": "AD"
+    },
+    {
+     "name": "Yumena Nagai",
+     "role": "Undergraduate",
+     "note": "Neuroscience; since December 2023",
+     "initials": "YN"
+    },
+    {
+     "name": "Ziyan Wu",
+     "role": "Undergraduate",
+     "note": "Movement Science; since August 2024",
+     "initials": "ZW"
+    },
+    {
+     "name": "Mariam Iqbal",
+     "role": "Undergraduate",
+     "note": "Biopsychology, Cognition, and Neuroscience; since January 2025",
+     "initials": "MI"
+    }
+   ]
+  ]
+ ],
+ "news": [
+  {
+   "date": "2025-06",
+   "text": "Victor successfully defended his doctoral dissertation."
+  },
+  {
+   "date": "2025-06",
+   "text": "\"A Dedicated Skin-to-Brain Circuit for Cool Sensation in Mice\" accepted at Nature Communications."
+  },
+  {
+   "date": "2025-06",
+   "text": "Hankyu Lee won the best poster award in Neuroscience at the 2025 Saltiel Life Sciences Symposium."
+  },
+  {
+   "date": "2025-05",
+   "text": "Chris, Xi Yuan, and Abbey graduated."
+  },
+  {
+   "date": "2024-11",
+   "text": "Fall 2024 lab roster posted."
+  },
+  {
+   "date": "2024-05",
+   "text": "Undergraduates Charlie Bass and Jingyao Wang graduated with honors."
+  },
+  {
+   "date": "2024-04",
+   "text": "\"The kainate receptor GluK2 mediates cold sensing in mice\" published as a cover story in Nature Neuroscience."
+  },
+  {
+   "date": "2023-10",
+   "text": "Victor received the Best Talk Award at the MCDB department retreat."
+  }
+ ],
+ "joining": "One postdoctoral fellow position is available. Candidates should have a neuroscience background, strong communication skills, and experience with techniques such as patch-clamping, imaging, or molecular biology; send a statement of interest, CV, and three references to Dr. Bo Duan. Graduate students in the MCDB or Neuroscience Graduate Programs may contact the lab about rotations. All undergraduate students are welcome to apply by emailing Dr. Duan directly.",
+ "address": "1105 N. University Ave., Biological Sciences Building Room 4264, Ann Arbor, MI 48109-1048"
+}

@@ -1,0 +1,179 @@
+{
+ "lab": "Csankovszki Lab",
+ "pi": {
+  "name": "Gyorgyi Csankovszki",
+  "title": "Arthur F. Thurnau Professor of Molecular, Cellular, and Developmental Biology; Associate Chair for Graduate Studies",
+  "bio": "Gyorgyi Csankovszki earned her Ph.D. from MIT in 2001 and completed postdoctoral training at UC Berkeley from 2001 to 2005 before joining the University of Michigan. She is a Professor and Arthur F. Thurnau Professor in Molecular, Cellular, and Developmental Biology, where she also serves as Associate Chair for Graduate Studies. Her lab uses C. elegans dosage compensation as a model to study how higher-order chromosome structure and organization affect gene expression, combining biochemical, genetic, and microscopic imaging approaches.",
+  "email": "gyorgyi@umich.edu",
+  "phone": "(734) 764-3412",
+  "office": "Room 5214, Biological Sciences Building (lab: Room 5202 BSB, (734) 936-7277)",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/gyorgyi.html",
+  "initials": "GC"
+ },
+ "description": "The Csankovszki lab studies three basic processes of developmental biology in the nematode C. elegans: regulation of gene expression, segregation of chromosomes, and cytokinesis. These seemingly distinct processes are connected by condensin complexes. C. elegans has three condensins: Condensin IDC regulates X chromosome gene expression during dosage compensation, while Condensins I and II control mitotic and meiotic chromosome segregation. The lab investigates how condensin IDC binds both X chromosomes in hermaphrodites and halves their expression through chromosome compaction, histone modifications (H4K20me1 enrichment, H4K16ac depletion), and tethering to the nuclear lamina. It also examines how condensins I and II function in mitosis and meiosis, including maintenance of the cytokinetic furrow and regulation of cohesin levels, with implications for oocyte health during aging.",
+ "areas": [
+  {
+   "title": "Condensin IDC and regulation of X-linked gene expression",
+   "summary": "In C. elegans dosage compensation, condensin IDC binds both X chromosomes in hermaphrodites to downregulate expression from both by half. The lab examines how chromosome compaction, histone modifications (H4K20me1 enrichment and H4K16ac depletion), and nuclear lamina tethering work together to achieve X chromosome repression."
+  },
+  {
+   "title": "Condensins I and II in chromosome segregation and cell division",
+   "summary": "The lab studies how condensin I and II operate during mitosis and meiosis, including condensin I's role in maintaining the cytokinetic furrow during chromosome segregation errors and its regulation of cohesin levels during meiosis by antagonizing the anti-cohesion factor WAPL-1. Condensin function may contribute to oocyte health during aging."
+  }
+ ],
+ "pubs": [
+  {
+   "year": 2026,
+   "title": "Multi-level transcriptional regulation of embryonic sex determination and dosage compensation by the X-signal element sex-1",
+   "authors": "Jash E, Tan ZM, Rakozy AI, et al.",
+   "venue": "Genetics",
+   "doi_or_url": "https://doi.org/10.1093/genetics/iyag111"
+  },
+  {
+   "year": 2026,
+   "title": "Establishment and Maintenance of Repressed Chromatin States of Dosage-Compensated Sex Chromosomes",
+   "authors": "Eduful J, LeSarge L, Csankovszki G",
+   "venue": "Biomolecules",
+   "doi_or_url": "https://doi.org/10.3390/biom16030386"
+  },
+  {
+   "year": 2026,
+   "title": "Condensin I-DC has a functional ATPase that is required for X-chromosome dosage compensation in C. elegans",
+   "authors": "Chawla B, Jatia S, Sloan D, et al.",
+   "venue": "Genetics",
+   "doi_or_url": "https://doi.org/10.1093/genetics/iyag072"
+  },
+  {
+   "year": 2025,
+   "title": "Distinct regulatory mechanisms by the nuclear Argonautes HRDE-1 and NRDE-3 in the soma of Caenorhabditis elegans",
+   "authors": "Mendoza H, Jash E, Davis MB, et al.",
+   "venue": "G3 (Bethesda)",
+   "doi_or_url": "https://doi.org/10.1093/g3journal/jkaf057"
+  },
+  {
+   "year": 2025,
+   "title": "Condensin IDC, H4K20me1, and perinuclear tethering maintain X chromosome repression in C. elegans",
+   "authors": "Trombley J, Rakozy AI, McClear CA, et al.",
+   "venue": "PLoS Genetics",
+   "doi_or_url": "https://doi.org/10.1371/journal.pgen.1011247"
+  },
+  {
+   "year": 2024,
+   "title": "XOL-1 regulates developmental timing by modulating the H3K9 landscape in C. elegans early embryos",
+   "authors": "Jash E, Azhar AA, Mendoza H, et al.",
+   "venue": "PLoS Genetics",
+   "doi_or_url": "https://doi.org/10.1371/journal.pgen.1011238"
+  },
+  {
+   "year": 2024,
+   "title": "How Chromatin Motor Complexes Influence the Nuclear Architecture",
+   "authors": "Chawla B, Csankovszki G",
+   "venue": "DNA",
+   "doi_or_url": "https://doi.org/10.3390/dna4010005"
+  },
+  {
+   "year": 2024,
+   "title": "Chromatin Organization during C. elegans Early Development",
+   "authors": "Jash E, Csankovszki G",
+   "venue": "DNA",
+   "doi_or_url": "https://doi.org/10.3390/dna4010004"
+  },
+  {
+   "year": 2022,
+   "title": "Dual roles of nuclear RNA Argonautes in Caenorhabditis dosage compensation",
+   "authors": "Davis MB, Jash E, Chawla B, et al.",
+   "venue": "Genetics",
+   "doi_or_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9071528/"
+  },
+  {
+   "year": 2020,
+   "title": "Analysis of Hi-C data using SIP effectively identifies loops in organisms from C. elegans to mammals",
+   "authors": "Rowley MJ, Poulet A, Nichols MH, et al.",
+   "venue": "Genome Research",
+   "doi_or_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7111518/"
+  }
+ ],
+ "team_groups": [
+  [
+   "Graduate Students",
+   [
+    {
+     "name": "Anati Alyaa Azhar",
+     "role": "Graduate Student",
+     "note": "Ph.D. Candidate, MCDB",
+     "initials": "AA"
+    },
+    {
+     "name": "Joshua Eduful",
+     "role": "Graduate Student",
+     "note": "Ph.D. Candidate, MCDB",
+     "initials": "JE"
+    },
+    {
+     "name": "Tevon Madry",
+     "role": "Graduate Student",
+     "note": "Ph.D. Candidate, MCDB",
+     "initials": "TM"
+    },
+    {
+     "name": "Christian McClear",
+     "role": "Graduate Student",
+     "note": "Ph.D. Candidate, MCDB",
+     "initials": "CM"
+    },
+    {
+     "name": "Angelica Previero",
+     "role": "Graduate Student",
+     "note": "Ph.D. Candidate, MCDB",
+     "initials": "AP"
+    },
+    {
+     "name": "Julia D'Arca",
+     "role": "Graduate Student",
+     "note": "Master's Student, MCDB",
+     "initials": "JD"
+    },
+    {
+     "name": "Xavier Fischer",
+     "role": "Graduate Student",
+     "note": "Pathways Master's Student, MCDB",
+     "initials": "XF"
+    },
+    {
+     "name": "Zoey Tan",
+     "role": "Undergraduate",
+     "note": "Senior, Biochemistry",
+     "initials": "ZT"
+    },
+    {
+     "name": "Bronwyn Johnston",
+     "role": "Undergraduate",
+     "note": "Senior, MCDB and Art and Design",
+     "initials": "BJ"
+    },
+    {
+     "name": "Emily Estes",
+     "role": "Undergraduate",
+     "note": "Senior, Microbiology",
+     "initials": "EE"
+    },
+    {
+     "name": "Lily LeSarge",
+     "role": "Undergraduate",
+     "note": "Junior, MCDB",
+     "initials": "LL"
+    },
+    {
+     "name": "Paris Taylor",
+     "role": "Undergraduate",
+     "note": "Sophomore",
+     "initials": "PT"
+    }
+   ]
+  ]
+ ],
+ "news": [],
+ "joining": "",
+ "address": "Molecular, Cellular, and Developmental Biology, Biological Sciences Building, 1105 N. University Ave., Ann Arbor, MI 48109-1085"
+}

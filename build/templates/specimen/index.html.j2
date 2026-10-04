@@ -1,0 +1,66 @@
+{% extends 'specimen/base.html.j2' %}
+{% import '_partials.j2' as P with context %}
+{% block hero %}
+<section class="hero">
+  <div class="wrap">
+    <div class="blob">{{ art | safe }}</div>
+    <div class="eyebrow">{{ lab.short }} &middot; University of Michigan</div>
+    <h1>{{ lab.hero }}</h1>
+    <p class="lede center">{{ lab.description.split('. ')[0] }}.</p>
+    <div class="actions center">
+      <a class="btn btn-primary" href="research.html">What we study</a>
+      <a class="btn btn-ghost" href="people.html">Meet the team</a>
+    </div>
+    <ul class="chips center" aria-label="Keywords">{% for k in lab.keywords %}<li>{{ k }}</li>{% endfor %}</ul>
+  </div>
+</section>
+{% endblock %}
+{% block content %}
+<section class="themes">
+  <div class="wrap">
+    <div class="section-head center-head"><h2>Research themes</h2><p class="muted">The questions that organize our work.</p></div>
+    <div class="tiles">
+      {% for a in lab.areas %}
+      <a class="tile" href="research.html">
+        <span class="tile-n">{{ loop.index }}</span>
+        <h3>{{ a.title }}</h3>
+        {% if a.summary %}<p>{{ a.summary[:140] }}{% if a.summary|length > 140 %}&hellip;{% endif %}</p>{% endif %}
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<section class="team-preview alt">
+  <div class="wrap">
+    <div class="section-head"><h2>People</h2><a href="people.html">Everyone &rarr;</a></div>
+    <div class="avatars">
+      <div class="person"><div class="avatar big">{{ lab.pi.initials }}</div><div><p class="n">{{ lab.pi.name }}</p><p class="r">Principal Investigator</p></div></div>
+      {% for m in lab.team_flat %}
+      <div class="person"><div class="avatar">{{ m.initials }}</div><div><p class="n">{{ m.name }}</p><p class="r">{{ m.role }}</p></div></div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<section class="recent">
+  <div class="wrap">
+    <div class="section-head"><h2>Recent publications</h2><a href="publications.html">All publications &rarr;</a></div>
+    <div class="pub-cards">
+      {% for p in lab.pubs[:3] %}
+      <article class="card">
+        <div class="num">{{ p.year }} &middot; {{ p.venue }}</div>
+        <h3>{{ p.title }}</h3>
+        <p class="small muted">{{ p.authors }}</p>
+        {% if p.doi_or_url %}<a href="{{ p.doi_or_url }}" target="_blank" rel="noopener">Read &rarr;</a>{% endif %}
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<section class="cta">
+  <div class="wrap cta-card">
+    <h2>Interested in joining?</h2>
+    <p>We welcome inquiries from prospective graduate students, postdocs, and undergraduates.</p>
+    <a class="btn btn-light" href="join.html">Learn how &rarr;</a>
+  </div>
+</section>
+{% endblock %}

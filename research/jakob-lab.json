@@ -1,0 +1,211 @@
+{
+ "slug": "jakob-lab",
+ "pi": {
+  "name": "Ursula Jakob",
+  "title": "Patricia S. Yaeger Collegiate Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Ursula Jakob received her B.S. (1991) and Ph.D. (1995) from Regensburg University, Germany, and held postdoctoral and research scientist positions at the University of Michigan from 1996 to 2001 before joining the faculty. She is the Patricia S. Yaeger Collegiate Professor in Molecular, Cellular, and Developmental Biology, a University of Michigan Biological Scholar, a recipient of the Burroughs Wellcome Fund Career Award in Biomedical Sciences (2000), and was elected to the Bavarian Academy of Sciences and Humanities in 2014. Her NIH-funded research examines the role of oxidative stress in host defense and aging, redox-regulated chaperones, and the functions of inorganic polyphosphate.",
+  "email": "ujakob@umich.edu",
+  "phone": "734-615-1286",
+  "office": "Room 5022, Biological Sciences Building (lab: 734-647-6683; fax: 734-647-0884)",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/ujakob.html"
+ },
+ "lab_description": "The Jakob lab works in two broad areas: understanding the events early in life that set the mechanisms governing aging and long-term stress resistance, and uncovering the functions of the ancient and ubiquitous biopolymer inorganic polyphosphate. The lab studies how reactive oxygen species accumulate during aging, host defense, and disease, and how thiol-based redox switches in proteins such as the chaperone Hsp33 allow cells to respond. Work on developmental ROS has shown that transient oxidative events early in life individualize organismal stress resistance and lifespan through changes in the histone landscape. Polyphosphate studies span its roles in amyloidogenesis, bacterial heterochromatin and phase-separated condensates, iron chelation, and tumorigenesis. The lab uses biochemical, structural, and cell biological approaches in E. coli, Vibrio cholerae, S. cerevisiae, C. elegans, and mammalian cells, including mass spectrometry-based thiol trapping.",
+ "research_areas": [
+  {
+   "title": "Redox-regulated chaperones",
+   "summary": "Studies thiol-based redox switches in proteins such as the molecular chaperone Hsp33, which is activated by oxidative stress to protect cells, and how bleach and other oxidants act as physiological antimicrobials."
+  },
+  {
+   "title": "ROS and lifespan",
+   "summary": "Investigates how reactive oxygen species generated early in development alter the histone landscape and set long-term stress resistance and lifespan in C. elegans."
+  },
+  {
+   "title": "ROS in cell fate decisions",
+   "summary": "Examines how redox heterogeneity influences cell fate decisions, including in mouse embryonic stem cells."
+  },
+  {
+   "title": "Polyphosphate in amyloidogenesis and cell biology",
+   "summary": "Explores how inorganic polyphosphate modulates amyloid formation, bacterial heterochromatin and RNA-protein condensates, iron chemistry, and tumorigenesis."
+  }
+ ],
+ "team": [
+  {
+   "name": "Bryndon Oleson",
+   "role": "Research Scientist",
+   "note": "Ph.D. Medical College of Wisconsin; joined 2018; epigenetic regulation of proteostasis and aging in C. elegans"
+  },
+  {
+   "name": "Luke Rolling",
+   "role": "Graduate Student",
+   "note": "B.S. University of Michigan (2021); histone modifications and hormetic stress adaptations"
+  },
+  {
+   "name": "Pavithra Mahadevan",
+   "role": "Graduate Student",
+   "note": "M.S. Heidelberg University; polyphosphates in amyloidogenesis"
+  },
+  {
+   "name": "Akash Rai",
+   "role": "Graduate Student",
+   "note": "Polyphosphate interactions with the cytoskeleton and tumorigenesis"
+  },
+  {
+   "name": "Janakraj Bhattrai",
+   "role": "Graduate Student",
+   "note": "M.S. Tata Institute of Fundamental Research; redox-regulated histone modifications in C. elegans"
+  },
+  {
+   "name": "Jian Guan",
+   "role": "Graduate Student",
+   "note": "B.S. Ocean University of China (2019); polyphosphate in bacterial phase-separated condensates"
+  },
+  {
+   "name": "Traci Banjanin",
+   "role": "Lab Manager",
+   "note": "Lab Manager and Research Technician; former high school chemistry teacher"
+  },
+  {
+   "name": "Sarah Zalubas",
+   "role": "Research Technician",
+   "note": "B.S. MCDB, University of Michigan (2022)"
+  },
+  {
+   "name": "Ke Wan",
+   "role": "Senior Research Laboratory Technician",
+   "note": "Protein expression, purification, and crystallography"
+  },
+  {
+   "name": "Aanchal Jain",
+   "role": "Undergraduate",
+   "note": "MCDB; polyphosphate and filopodia formation"
+  },
+  {
+   "name": "Alpana Rajagopal",
+   "role": "Undergraduate",
+   "note": "MCDB"
+  },
+  {
+   "name": "Kat Goralka",
+   "role": "Undergraduate",
+   "note": "Biology, Health, and Society"
+  },
+  {
+   "name": "Adam Jackiw",
+   "role": "Undergraduate",
+   "note": "Biochemistry and Mathematics; epigenetic regulation and aging"
+  },
+  {
+   "name": "Hannah Zunker",
+   "role": "Undergraduate",
+   "note": "Neuroscience; polyphosphate in tumorigenesis"
+  },
+  {
+   "name": "Caden Proctor",
+   "role": "Undergraduate",
+   "note": "Biochemistry"
+  }
+ ],
+ "alumni": [],
+ "publications": [
+  {
+   "year": 2026,
+   "title": "Intragenomic homologs with distinct phase behaviors broaden cellular stress responses",
+   "authors": "Guan J, Sahoo BR, Brant TS, Mahadevan P, Brooks A, Mosalaganti S, Bardwell JCA, Jakob U",
+   "venue": "Molecular Cell",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/42664965/"
+  },
+  {
+   "year": 2026,
+   "title": "Redox signaling in development: An emerging frontier",
+   "authors": "Ulfig A, Jakob U",
+   "venue": "Developmental Cell",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/42537640/"
+  },
+  {
+   "year": 2026,
+   "title": "Polyphosphate modulates stress-responsive RNA-protein condensate formation in bacteria and mammalian cells",
+   "authors": "Guan J, Hurto RL, Rai A, et al., Jakob U",
+   "venue": "PLoS Biology",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/42044170/"
+  },
+  {
+   "year": 2025,
+   "title": "Polyphosphate: a cellular Swiss army knife",
+   "authors": "Rai A, Jakob U",
+   "venue": "Current Opinion in Biotechnology",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/40222262/"
+  },
+  {
+   "year": 2024,
+   "title": "Amyloid accelerator polyphosphate fits as mystery density in alpha-synuclein fibrils",
+   "authors": "Huettemann P, Mahadevan P, Lempart J, et al., Jakob U",
+   "venue": "PLoS Biology",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/39480879/"
+  },
+  {
+   "year": 2024,
+   "title": "Cryosectioning and immunofluorescence of C. elegans reveals endogenous polyphosphate in intestinal organelles",
+   "authors": "Quarles E, Petreanu L, Narain A, et al., Jakob U",
+   "venue": "Cell Reports Methods",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/39413779/"
+  },
+  {
+   "year": 2024,
+   "title": "Early life changes in histone landscape protect against age-associated amyloid toxicities through HSF-1-dependent regulation of lipid metabolism",
+   "authors": "Jakob lab (full author list not given on site)",
+   "venue": "Nature Aging",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2024,
+   "title": "Redox heterogeneity in mouse embryonic stem cells individualizes cell fate decisions",
+   "authors": "Jakob lab (full author list not given on site)",
+   "venue": "Developmental Cell",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2021,
+   "title": "Polyphosphate drives bacterial heterochromatin formation",
+   "authors": "Jakob lab (full author list not given on site)",
+   "venue": "Science Advances",
+   "doi_or_url": "https://doi.org/10.1126/sciadv.abk0233"
+  },
+  {
+   "year": 2019,
+   "title": "Developmental ROS individualizes organismal stress resistance and lifespan",
+   "authors": "Jakob lab (full author list not given on site)",
+   "venue": "Nature",
+   "doi_or_url": "https://doi.org/10.1038/s41586-019-1814-y"
+  }
+ ],
+ "news": [
+  {
+   "date": "2024",
+   "text": "Developmental Cell paper and Nature review on the fundamentals of redox regulation published."
+  },
+  {
+   "date": "2023",
+   "text": "Nature Aging paper published."
+  },
+  {
+   "date": "",
+   "text": "Lab research featured in the Michigan Daily, Scientific American, and an ASBMB Today profile of Dr. Jakob."
+  }
+ ],
+ "funding": [
+  "NIH"
+ ],
+ "joining": "",
+ "address": "Biological Sciences Building, Room 5022, 1105 N. University Ave., Ann Arbor, MI 48109",
+ "links": {
+  "twitter": "https://x.com/jakob_lab",
+  "github": "",
+  "google_scholar": "",
+  "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Jakob+U%5BAuthor%5D+AND+Michigan%5BAffiliation%5D",
+  "other": [
+   "https://www.instagram.com/umichjakoblab",
+   "https://sites.lsa.umich.edu/jakob-lab/research/tools/"
+  ]
+ }
+}

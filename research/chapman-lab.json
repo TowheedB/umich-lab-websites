@@ -1,0 +1,213 @@
+{
+ "slug": "chapman-lab",
+ "pi": {
+  "name": "Matthew Chapman",
+  "title": "Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Matthew Chapman earned his Ph.D. in Microbiology from Indiana University in 1999 and was a Keck and NIH postdoctoral fellow in Scott Hultgren's laboratory at Washington University in St. Louis from 1999 to 2003. He joined the faculty of the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan in September 2003. His lab studies the structure, function, and biogenesis of bacterial amyloid fibers, using E. coli curli as a model for understanding amyloid formation and its role in biofilms and disease.",
+  "email": "chapmanm@umich.edu",
+  "phone": "734-764-7592",
+  "office": "5268 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/chapmanm.html"
+ },
+ "lab_description": "The Chapman Lab studies how bacteria integrate and adapt to their environment by investigating curli, extracellular amyloid fibers produced by Escherichia coli and certain Salmonella species. Curli are structurally and biochemically similar to the amyloid fibers associated with human diseases such as Alzheimer's and Huntington's, making bacterial curli a tractable model for understanding amyloid formation. The lab uses microscopy, biochemistry, and genetics to study how aggregation-prone curli subunits are safely transported to the cell surface and polymerized into stable fibers, and how chaperones such as CsgC prevent toxic aggregation. Additional work examines the bacterial extracellular matrix and its contribution to biofilm resistance, rationally designed anti-amyloid and anti-biofilm compounds, and the evolutionary economics of producing extracellular proteins.",
+ "research_areas": [
+  {
+   "title": "Curli biogenesis and amyloid assembly",
+   "summary": "Studies how aggregation-prone curli subunits are transported from the cell interior to the surface, where they polymerize into stable amyloid fibers, using microscopy, biochemistry, and genetics."
+  },
+  {
+   "title": "Protein and chemical chaperones",
+   "summary": "Characterizes molecules that limit amyloid aggregation, including the bacterial chaperone CsgC, and investigates rationally designed 2-pyridone compounds as anti-amyloid and anti-biofilm agents."
+  },
+  {
+   "title": "Bacterial extracellular matrix biology",
+   "summary": "Examines the molecular pathways controlling extracellular matrix components and their role in biofilm resistance to antibiotics and immune responses."
+  },
+  {
+   "title": "Protein economics and evolution",
+   "summary": "Explores how evolutionary pressures shape protein design, including the synthetic costs of producing extracellular proteins in microorganisms."
+  }
+ ],
+ "team": [
+  {
+   "name": "Kailyn Jessel",
+   "role": "Graduate Student",
+   "note": "B.S. Butler University; joined spring 2021; studies subpopulations within E. coli biofilms"
+  },
+  {
+   "name": "Divya Kolli",
+   "role": "Graduate Student",
+   "note": "B.S. University of Texas at Austin; joined 2022; studies CsgA polymerization and curli formation"
+  },
+  {
+   "name": "Evelyn Sowers",
+   "role": "Graduate Student",
+   "note": "PhD candidate; B.A. Carroll College, M.S. University of Michigan (2025); joined spring 2026"
+  },
+  {
+   "name": "Mark Gomulinski",
+   "role": "Research Technician",
+   "note": "B.S. Michigan State University; joined early 2018; tests novel compounds against amyloid cross-seeding and fiber formation"
+  },
+  {
+   "name": "Sam Schweid",
+   "role": "Undergraduate",
+   "note": "Joined 2024; visualizing functional amyloid polymerization"
+  },
+  {
+   "name": "Hassan Mustapha",
+   "role": "Undergraduate",
+   "note": "Joined winter 2026; alpha-synuclein amyloid inhibitor testing"
+  },
+  {
+   "name": "Brooklyn Nichols",
+   "role": "Undergraduate",
+   "note": "Joined 2026; UTI89 biofilm formation in flowcell systems"
+  },
+  {
+   "name": "Eleanor Vogel",
+   "role": "Undergraduate",
+   "note": "Joined 2026; hypothetical protein C1162 and UTI89 biofilm formation"
+  }
+ ],
+ "alumni": [
+  {
+   "name": "Sujeet Bhoite",
+   "role": "Graduate Student (graduated 2022)",
+   "now": "GSK, working on vaccines"
+  },
+  {
+   "name": "Anthony Balistreri",
+   "role": "Graduate Student (graduated 2022)",
+   "now": "Scripps Research Institute, Jeffrey Kelly lab"
+  },
+  {
+   "name": "Hema Swasthi",
+   "role": "Postdoctoral Fellow",
+   "now": ""
+  },
+  {
+   "name": "Janet Price",
+   "role": "Graduate Student (graduated 2020)",
+   "now": "JustLight pbc, light-based therapeutics startup"
+  },
+  {
+   "name": "Neha Jain",
+   "role": "Postdoctoral Fellow (left 2017)",
+   "now": "Started her own lab at Indian Institute of Technology Jodhpur"
+  },
+  {
+   "name": "Will DePas",
+   "role": "Graduate Student (PhD 2014)",
+   "now": "Assistant Professor of Pediatrics, University of Pittsburgh School of Medicine"
+  },
+  {
+   "name": "Neal Hammer",
+   "role": "Graduate Student (PhD 2009)",
+   "now": "Assistant Professor, Michigan State University"
+  },
+  {
+   "name": "Matthew Badtke",
+   "role": "Postdoctoral Fellow",
+   "now": "Faculty member at Albion College, Michigan"
+  },
+  {
+   "name": "Emily Goetzler",
+   "role": "Undergraduate Researcher",
+   "now": "Graduate student at Columbia University"
+  },
+  {
+   "name": "Isaac Payne",
+   "role": "Undergraduate Researcher (graduated 2020)",
+   "now": "PhD student, Johns Hopkins University, Goley lab"
+  }
+ ],
+ "publications": [
+  {
+   "year": 2025,
+   "title": "The evolution of functional amyloids and their impact on host-microbe interactions",
+   "authors": "Kolli D, Rout SK, Riek R, Chapman MR",
+   "venue": "Advanced Sciences",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/40899597/"
+  },
+  {
+   "year": 2025,
+   "title": "The bacterial chaperone CsgC inhibits functional amyloid CsgA formation by promoting the intrinsically disordered pre-nuclear state",
+   "authors": "Balistreri A, Kolli D, Jayaweera SJ, Lundahl D, Han Y, Kalcec L, Goetzler E, Alessio R, Ruotolo B, Olofsson A, Chapman MR",
+   "venue": "Journal of Biological Chemistry",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/40348191/"
+  },
+  {
+   "year": 2024,
+   "title": "Microbial warfare: B. subtilis antagonizes E. coli biofilm formation",
+   "authors": "Jessel K, Chapman MR",
+   "venue": "Trends in Microbiology",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/38158310/"
+  },
+  {
+   "year": 2023,
+   "title": "Digestive exophagy of biofilms by intestinal amoeba and its impact on stress tolerance and cytotoxicity",
+   "authors": "Zanditenas E, Trebicz-Geffen M, Kolli D, Dominguez-Garcia L, Farhi E, Linde L, Romero D, Chapman MR, Kolodkin-Gal I, Ankri S",
+   "venue": "npj Biofilms and Microbiomes",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/37813896/"
+  },
+  {
+   "year": 2023,
+   "title": "Cell surface-localized CsgF condensate is a gatekeeper in bacterial curli subunit secretion",
+   "authors": "Swasthi H, Basalla J, Dudley C, Vecchiarelli A, Chapman MR",
+   "venue": "Nature Communications",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/37100792/"
+  },
+  {
+   "year": 2023,
+   "title": "Electrostatic interactions mediate the nucleation and growth of a bacterial functional amyloid",
+   "authors": "Bhoite S, Kolli D, Gomulinski MA, Chapman MR",
+   "venue": "Frontiers in Molecular Biosciences",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/36756360/"
+  },
+  {
+   "year": 2022,
+   "title": "Mechanistic insights into accelerated alpha-synuclein aggregation mediated by human microbiome-associated functional amyloids",
+   "authors": "Bhoite S, Han Y, Ruotolo B, Chapman MR",
+   "venue": "Journal of Biological Chemistry",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/35654142/"
+  },
+  {
+   "year": 2020,
+   "title": "Functional amyloids are the rule rather than the exception in cellular biology",
+   "authors": "Balistreri A, Goetzler E, Chapman MR",
+   "venue": "Microorganisms",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/33316961/"
+  },
+  {
+   "year": 2020,
+   "title": "Tuning functional amyloid formation through disulfide engineering",
+   "authors": "Balistreri A, Kahana E, Janakiraman S, Chapman MR",
+   "venue": "Frontiers in Microbiology",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/32528432/"
+  },
+  {
+   "year": 2020,
+   "title": "A gut bacterial amyloid promotes alpha-synuclein aggregation and motor impairment in mice",
+   "authors": "Sampson TR, Challis C, Jain N, Moiseyenko A, Ladinsky MS, Shastri GG, Thron T, Needham BD, Horvath I, Debelius JW, Janssen S, Knight R, Wittung-Stafshede P, Gradinaru V, Chapman MR, Mazmanian SK",
+   "venue": "eLife",
+   "doi_or_url": "https://pubmed.ncbi.nlm.nih.gov/32043464/"
+  }
+ ],
+ "news": [],
+ "funding": [
+  "NIH"
+ ],
+ "joining": "",
+ "address": "Biological Sciences Building, 1105 North University Ave, Ann Arbor, MI 48109",
+ "links": {
+  "twitter": "https://twitter.com/Chapman_Lab",
+  "github": "",
+  "google_scholar": "",
+  "pubmed": "",
+  "other": [
+   "https://www.instagram.com/chapman_lab/"
+  ]
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "lab": "Kramer Lab",
+ "pi": {
+  "name": "Paul F. Kramer",
+  "title": "Assistant Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Paul Kramer earned a B.A. in Psychology with a Neuroscience concentration from Grinnell College (2009) and a Ph.D. in Neuroscience from Oregon Health and Science University (2016), where he worked with John T. Williams. He completed postdoctoral training at the NIH with Zayd Khaliq studying dopaminergic axon physiology, including synaptic-like axo-axonal transmission from striatal cholinergic interneurons onto dopamine fibers. He opened his lab at the University of Michigan in August 2023 and received the Brain and Behavior Research Foundation Young Investigator Award in 2025 for nicotine research.",
+  "email": "pfkramer@umich.edu",
+  "phone": "734-647-8044",
+  "office": "4160 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/pfkramer.html",
+  "initials": "PF"
+ },
+ "description": "The Kramer Lab studies cellular and synaptic neurobiology in pursuit of new knowledge that will advance human health. Its overarching hypothesis is that axons have an active and unexplored role in neurotransmission: axons can compute information and generate output that contributes to behavior and to the etiology of neurological disease, much like the somatodendritic compartment. The lab focuses on dopaminergic axons in the striatum, how cholinergic and GABAergic inputs modulate them through axo-axonic transmission, and how this signaling is altered in substance use disorders (especially nicotine use disorder) and Parkinson's disease. In 2026 the lab received a NIDA-supported R01 to study the cellular mechanisms of nicotine use disorder.",
+ "areas": [
+  {
+   "title": "Axon physiology",
+   "summary": "The lab's central focus: how axons actively participate in neurotransmission and information processing, challenging the traditional view that limits neuronal computation to the cell body and dendrites."
+  },
+  {
+   "title": "Axo-axonic transmission",
+   "summary": "Investigates communication between axons and neighboring axonal segments, including synaptic-like transmission from striatal cholinergic interneurons onto dopaminergic fibers."
+  },
+  {
+   "title": "Substance use disorders",
+   "summary": "Examines how drugs of abuse, including nicotine, alter neuronal communication within brain reward circuitry."
+  },
+  {
+   "title": "Parkinson's disease",
+   "summary": "Studies how disrupted dopaminergic neuronal signaling contributes to this neurodegenerative condition."
+  }
+ ],
+ "pubs": [
+  {
+   "year": 2025,
+   "title": "High-frequency axonal bursts mediate bidirectional modulation of dopamine signaling by nicotinic receptors",
+   "authors": "Kramer PF, Yanez A, Clever F, Zhang R, Khaliq ZM",
+   "venue": "Preprint",
+   "doi_or_url": "https://doi.org/10.64898/2025.12.19.695584"
+  },
+  {
+   "year": 2025,
+   "title": "Intrinsic and synaptic regulation of axonal excitability in dopaminergic neurons",
+   "authors": "Seddon J, Kramer PF",
+   "venue": "Frontiers in Cellular Neuroscience",
+   "doi_or_url": "https://doi.org/10.3389/fncel.2025.1681044"
+  },
+  {
+   "year": 2025,
+   "title": "Presynaptic GABAA receptors control integration of nicotinic input onto dopaminergic axons in the striatum",
+   "authors": "Brill-Weil SG, Kramer PF, Yanez A, Lipkin AM, Clever FH, Zhang R, Khaliq ZM",
+   "venue": "Cell Reports",
+   "doi_or_url": "https://doi.org/10.1016/j.celrep.2025.116555"
+  },
+  {
+   "year": 2022,
+   "title": "Synaptic-like axo-axonal transmission from striatal cholinergic interneurons onto dopaminergic fibers",
+   "authors": "Kramer PF, Brill-Weil SG, Cummins AC, Zhang R, Camacho-Hernandez GA, Newman AH, Eldridge MAG, Averbeck BB, Khaliq ZM",
+   "venue": "Neuron",
+   "doi_or_url": "https://doi.org/10.1016/j.neuron.2022.07.011"
+  },
+  {
+   "year": 2022,
+   "title": "An action potential initiation mechanism in distal axons for the control of dopamine release",
+   "authors": "Lu C, Cai X, Ritzau-Jost A, Kramer PF, Li Y, Khaliq ZM, Hallermann S, Kaeser PS",
+   "venue": "Science",
+   "doi_or_url": "https://doi.org/10.1126/science.abn0532"
+  },
+  {
+   "year": 2020,
+   "title": "Axonal mechanisms mediating gamma-aminobutyric acid receptor type A (GABA-A) inhibition of striatal dopamine release",
+   "authors": "Kramer PF, Twedell EL, Shin JH, Zhang R, Khaliq ZM",
+   "venue": "eLife",
+   "doi_or_url": "https://doi.org/10.7554/eLife.55729"
+  },
+  {
+   "year": 2017,
+   "title": "Two-color, one-photon uncaging of glutamate and GABA",
+   "authors": "Passlick S, Kramer PF, Richers MT, Williams JT, Ellis-Davies GCR",
+   "venue": "PLOS ONE",
+   "doi_or_url": "https://doi.org/10.1371/journal.pone.0187732"
+  },
+  {
+   "year": 2016,
+   "title": "Calcium Release from Stores Inhibits GIRK",
+   "authors": "Kramer PF, Williams JT",
+   "venue": "Cell Reports",
+   "doi_or_url": "https://doi.org/10.1016/j.celrep.2016.11.076"
+  },
+  {
+   "year": 2015,
+   "title": "Cocaine Decreases Metabotropic Glutamate Receptor mGluR1 Currents in Dopamine Neurons by Activating mGluR5",
+   "authors": "Kramer PF, Williams JT",
+   "venue": "Neuropsychopharmacology",
+   "doi_or_url": "https://doi.org/10.1038/npp.2015.91"
+  },
+  {
+   "year": 2011,
+   "title": "Dopamine D2 receptor overexpression alters behavior and physiology in Drd2-EGFP mice",
+   "authors": "Kramer PF, Christensen CH, Hazelwood LA, Dobi A, Bock R, Sibley DR, Mateo Y, Alvarez VA",
+   "venue": "Journal of Neuroscience",
+   "doi_or_url": "https://doi.org/10.1523/JNEUROSCI.4287-10.2011"
+  }
+ ],
+ "team_groups": [
+  [
+   "Research Scientists",
+   [
+    {
+     "name": "Sarah Wajdi",
+     "role": "Research Technician",
+     "note": "B.S. Neuroscience, University of Michigan; cholinergic modulation of dopamine release; plans MD/PhD",
+     "initials": "SW"
+    }
+   ]
+  ],
+  [
+   "Postdoctoral Researchers",
+   [
+    {
+     "name": "Lauren R. Madden",
+     "role": "Postdoctoral Fellow",
+     "note": "Ph.D. Biomedical Engineering, University of Michigan (2025); NIDA T32 postdoctoral fellow; nicotine's effects on dopaminergic axon signal transmission",
+     "initials": "LR"
+    }
+   ]
+  ],
+  [
+   "Graduate Students",
+   [
+    {
+     "name": "Vinayak Ghosh",
+     "role": "Graduate Student",
+     "note": "PhD candidate, MCDB; cholinergic regulation of dopamine in health and disease",
+     "initials": "VG"
+    },
+    {
+     "name": "Jackie Seddon",
+     "role": "Graduate Student",
+     "note": "PhD candidate, Neuroscience Graduate Program; synaptic and intrinsic properties controlling dopamine axon excitability",
+     "initials": "JS"
+    },
+    {
+     "name": "Qianyi Yu",
+     "role": "Graduate Student",
+     "note": "PhD candidate, MCDB; cholinergic modulation across dopaminergic neuron subpopulations",
+     "initials": "QY"
+    },
+    {
+     "name": "Keira Bunce",
+     "role": "Undergraduate",
+     "note": "Biology, Health, and Society, University of Michigan",
+     "initials": "KB"
+    }
+   ]
+  ]
+ ],
+ "news": [
+  {
+   "date": "2026-06",
+   "text": "Recent U-M graduate and neuroscience major Sarah Wajdi joined the lab."
+  },
+  {
+   "date": "2026-05",
+   "text": "Jackie, Vin, and Lauren presented research at the Michigan Chapter of the Society for Neuroscience conference in Kalamazoo."
+  },
+  {
+   "date": "2026-05",
+   "text": "Qianyi Yu joins the lab, transitioning from the master's program to doctoral studies."
+  },
+  {
+   "date": "2026-05",
+   "text": "The lab received the notice of award for a NIDA-supported R01 to study the cellular mechanisms of nicotine use disorder."
+  },
+  {
+   "date": "2026-05",
+   "text": "Keira completed her Biology, Health and Society degree from the University of Michigan."
+  },
+  {
+   "date": "2026-04",
+   "text": "Lauren presented at the NIDA T32 year-end research update."
+  },
+  {
+   "date": "2025-10",
+   "text": "Dr. Lauren Madden joins the lab to study axonal computation, supported by a NIDA postdoctoral T32 fellowship."
+  },
+  {
+   "date": "2025-08",
+   "text": "Dr. Kramer received the Brain and Behavior Research Foundation Young Investigator Award for nicotine research."
+  }
+ ],
+ "joining": "The lab welcomes graduate applicants from the Molecular, Cellular, and Developmental Biology program (PhD or Master's) and the Neuroscience Graduate Program (PhD only). Candidates for postdoctoral and technical positions should reach out directly to Paul Kramer to inquire about available opportunities. Dr. Kramer emphasizes giving trainees foundational knowledge and tools to pursue shared research interests, and believes anyone driven by intrinsic motivation can become a scientist.",
+ "address": "Biological Sciences Building, 1105 N. University Ave., Ann Arbor, MI 48109"
+}

@@ -1,0 +1,51 @@
+{% extends 'atlas/base.html.j2' %}
+{% import '_partials.j2' as P with context %}
+{% block hero %}
+<section class="hero">
+  <div class="hero-bg">{{ art | safe }}</div>
+  <div class="wrap">
+    <p class="kicker">{{ lab.short }} &middot; University of Michigan</p>
+    <h1>{{ lab.hero }}</h1>
+    <p class="lede">{{ lab.keywords | join(' · ') }}</p>
+    <div class="actions">
+      <a class="btn btn-light" href="research.html">Explore our research</a>
+      <a class="btn btn-outline" href="publications.html">Publications</a>
+    </div>
+  </div>
+</section>
+<div class="wrap statbar">{{ P.stats(lab) }}</div>
+{% endblock %}
+{% block content %}
+<section class="about">
+  <div class="wrap grid grid-2 about-grid">
+    <div>
+      <div class="eyebrow">About</div>
+      <h2>What drives the lab</h2>
+    </div>
+    <div class="prose"><p>{{ lab.description }}</p><a href="research.html">Read more about our research &rarr;</a></div>
+  </div>
+</section>
+<section class="themes alt">
+  <div class="wrap">
+    <div class="eyebrow">Research</div>
+    <div class="section-head"><h2>Where we focus</h2></div>
+    {{ P.areas_cards(lab) }}
+  </div>
+</section>
+<section class="recent">
+  <div class="wrap">
+    <div class="section-head"><h2>Latest from the lab</h2><a href="publications.html">All publications &rarr;</a></div>
+    <div class="grid grid-2 recent-grid">
+      <div>{{ P.pubs_recent(lab, 3) }}</div>
+      <aside class="side">
+        {% if lab.news %}<h3>News</h3>{{ P.news(lab, 4) }}{% endif %}
+        <div class="card join-card">
+          <h3>Join us</h3>
+          <p class="small muted">We welcome students and postdocs interested in {{ lab.keywords[0] | lower }}.</p>
+          <a class="btn btn-primary" href="join.html">Open positions &rarr;</a>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,562 @@
+[
+ {
+  "n": 1,
+  "slug": "akaaboune-lab",
+  "lab": "Akaaboune Lab",
+  "pi": "Mohammed Akaaboune",
+  "email": "makaabou@umich.edu",
+  "focus": "Synaptic development and maintenance; neuromuscular junctions; diet and neuromuscular disease",
+  "hero": "Understanding how neuromuscular synapses develop, adapt, and remain stable in health and disease.",
+  "a": {
+   "template": "editorial",
+   "palette": "indigo"
+  },
+  "b": {
+   "template": "specimen",
+   "palette": "plum"
+  },
+  "team": 6,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/makaabou-lab/"
+ },
+ {
+  "n": 2,
+  "slug": "aton-lab",
+  "lab": "Aton Lab",
+  "pi": "Sara Aton",
+  "email": "saton@umich.edu",
+  "focus": "Sleep; neural circuits; plasticity; memory formation",
+  "hero": "Exploring how sleep and experience reshape neural circuits to create lasting memories.",
+  "a": {
+   "template": "atlas",
+   "palette": "teal"
+  },
+  "b": {
+   "template": "ledger",
+   "palette": "ocean"
+  },
+  "team": 10,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/aton-lab/"
+ },
+ {
+  "n": 3,
+  "slug": "buttitta-lab",
+  "lab": "Buttitta Lab",
+  "pi": "Laura Buttitta",
+  "email": "buttitta@umich.edu",
+  "focus": "Cell proliferation; quiescence; cell-cycle control; cancer",
+  "hero": "Discovering how cells control proliferation and how those safeguards break down in disease.",
+  "a": {
+   "template": "monograph",
+   "palette": "crimson"
+  },
+  "b": {
+   "template": "horizon",
+   "palette": "slate"
+  },
+  "team": 5,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/buttitta-lab/"
+ },
+ {
+  "n": 4,
+  "slug": "cadigan-lab",
+  "lab": "Cadigan Lab",
+  "pi": "Kenneth Cadigan",
+  "email": "cadigan@umich.edu",
+  "focus": "Wnt signaling; gene regulation; Drosophila development",
+  "hero": "Decoding how Wnt signaling controls gene expression during development.",
+  "a": {
+   "template": "specimen",
+   "palette": "forest"
+  },
+  "b": {
+   "template": "editorial",
+   "palette": "indigo"
+  },
+  "team": 6,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/cadigan-lab/"
+ },
+ {
+  "n": 5,
+  "slug": "chang-lab",
+  "lab": "Chang Lab",
+  "pi": "Amy Chang",
+  "email": "amychang@umich.edu",
+  "focus": "Protein sorting; quality control; yeast secretory pathway",
+  "hero": "Understanding how cells sort proteins and maintain quality control within the secretory pathway.",
+  "a": {
+   "template": "ledger",
+   "palette": "amber"
+  },
+  "b": {
+   "template": "atlas",
+   "palette": "teal"
+  },
+  "team": 3,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/amychang-lab/"
+ },
+ {
+  "n": 6,
+  "slug": "chapman-lab",
+  "lab": "Chapman Lab",
+  "pi": "Matthew Chapman",
+  "email": "chapmanm@umich.edu",
+  "focus": "Bacterial amyloid fibers; curli; microbial biofilms",
+  "hero": "Investigating how bacteria build functional amyloid fibers and organize microbial communities.",
+  "a": {
+   "template": "horizon",
+   "palette": "plum"
+  },
+  "b": {
+   "template": "monograph",
+   "palette": "crimson"
+  },
+  "team": 8,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/chapman-lab/"
+ },
+ {
+  "n": 7,
+  "slug": "clowney-lab",
+  "lab": "Clowney Lab",
+  "pi": "E. Josie Clowney",
+  "email": "jclowney@umich.edu",
+  "focus": "Neural circuits; olfaction; developmental gene regulation; Drosophila",
+  "hero": "Discovering how development builds neural circuits that transform sensory information into behavior.",
+  "a": {
+   "template": "editorial",
+   "palette": "ocean"
+  },
+  "b": {
+   "template": "specimen",
+   "palette": "forest"
+  },
+  "team": 14,
+  "pubs": 12,
+  "existing": "https://sites.lsa.umich.edu/clowney-lab/"
+ },
+ {
+  "n": 8,
+  "slug": "csankovszki-lab",
+  "lab": "Csankovszki Lab",
+  "pi": "Gyorgyi Csankovszki",
+  "email": "gyorgyi@umich.edu",
+  "focus": "Gene regulation; chromosome segregation; condensin complexes; C. elegans",
+  "hero": "Uncovering how chromosome organization shapes gene regulation and faithful cell division.",
+  "a": {
+   "template": "atlas",
+   "palette": "slate"
+  },
+  "b": {
+   "template": "ledger",
+   "palette": "amber"
+  },
+  "team": 12,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/csankovszki-lab/"
+ },
+ {
+  "n": 9,
+  "slug": "desantis-lab",
+  "lab": "DeSantis Lab",
+  "pi": "Morgan DeSantis",
+  "email": "mdesant@umich.edu",
+  "focus": "Microtubule motors; intracellular transport; cellular cargo",
+  "hero": "Revealing how molecular motors move essential cargo through the cell.",
+  "a": {
+   "template": "monograph",
+   "palette": "indigo"
+  },
+  "b": {
+   "template": "horizon",
+   "palette": "plum"
+  },
+  "team": 12,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/desantis-lab/"
+ },
+ {
+  "n": 10,
+  "slug": "bo-duan-lab",
+  "lab": "Bo Duan Lab",
+  "pi": "Bo Duan",
+  "email": "bduan@umich.edu",
+  "focus": "Somatosensory circuits; pain; itch; sensory neuroscience",
+  "hero": "Mapping the neural circuits that allow the nervous system to sense pain, itch, and touch.",
+  "a": {
+   "template": "specimen",
+   "palette": "teal"
+  },
+  "b": {
+   "template": "editorial",
+   "palette": "ocean"
+  },
+  "team": 11,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/boduan-lab/"
+ },
+ {
+  "n": 11,
+  "slug": "c-duan-lab",
+  "lab": "C. Duan Lab",
+  "pi": "Cunming Duan",
+  "email": "cduan@umich.edu",
+  "focus": "Growth factors; growth; development; aging",
+  "hero": "Understanding how growth-factor signaling coordinates growth, development, and aging.",
+  "a": {
+   "template": "ledger",
+   "palette": "crimson"
+  },
+  "b": {
+   "template": "atlas",
+   "palette": "slate"
+  },
+  "team": 8,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/duan-lab/"
+ },
+ {
+  "n": 12,
+  "slug": "dus-lab",
+  "lab": "Dus Laboratory of Molecular Nutrition",
+  "pi": "Monica Dus",
+  "email": "mdus@umich.edu",
+  "focus": "Brain-body nutrient sensing; hunger; satiety; epigenetics; neurobiology",
+  "hero": "Exploring how nutrients reshape the brain and influence hunger, physiology, and behavior.",
+  "a": {
+   "template": "horizon",
+   "palette": "forest"
+  },
+  "b": {
+   "template": "monograph",
+   "palette": "indigo"
+  },
+  "team": 8,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/dus-lab/"
+ },
+ {
+  "n": 13,
+  "slug": "he-lab",
+  "lab": "He Lab / Plant-Microbe Interaction",
+  "pi": "Ping He",
+  "email": "pinghemi@umich.edu",
+  "focus": "Plant immunity; pathogen recognition; immune signaling; Arabidopsis",
+  "hero": "Discovering how plants recognize pathogens and activate precisely controlled immune responses.",
+  "a": {
+   "template": "editorial",
+   "palette": "amber"
+  },
+  "b": {
+   "template": "specimen",
+   "palette": "teal"
+  },
+  "team": 17,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/mpmi/"
+ },
+ {
+  "n": 14,
+  "slug": "jakob-lab",
+  "lab": "Jakob Lab",
+  "pi": "Ursula Jakob",
+  "email": "ujakob@umich.edu",
+  "focus": "Oxidative stress; host defense; aging; protein homeostasis",
+  "hero": "Investigating how cells sense and survive oxidative stress across health, defense, and aging.",
+  "a": {
+   "template": "atlas",
+   "palette": "plum"
+  },
+  "b": {
+   "template": "ledger",
+   "palette": "crimson"
+  },
+  "team": 15,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/jakob-lab/"
+ },
+ {
+  "n": 15,
+  "slug": "kargbo-hill-lab",
+  "lab": "Kargbo-Hill Lab",
+  "pi": "Sarah E. Kargbo-Hill",
+  "email": "skarhill@umich.edu",
+  "focus": "Neuroepigenomics; stress; aging; neurodegeneration; iPSC-derived neurons",
+  "hero": "Understanding how neurons rewrite gene regulation in response to stress, aging, and neurodegenerative disease.",
+  "a": {
+   "template": "monograph",
+   "palette": "ocean"
+  },
+  "b": {
+   "template": "horizon",
+   "palette": "forest"
+  },
+  "team": 9,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/kargbohill-lab/"
+ },
+ {
+  "n": 16,
+  "slug": "kozik-lab",
+  "lab": "Kozik Lab",
+  "pi": "Ariangela J. Kozik",
+  "email": "dariange@umich.edu",
+  "focus": "Respiratory microbiome; multi-omics; host-microbe interactions",
+  "hero": "Deciphering the molecular conversations between microbes and the human respiratory tract.",
+  "a": {
+   "template": "specimen",
+   "palette": "slate"
+  },
+  "b": {
+   "template": "editorial",
+   "palette": "amber"
+  },
+  "team": 9,
+  "pubs": 8,
+  "existing": "https://sites.lsa.umich.edu/koziklab/"
+ },
+ {
+  "n": 17,
+  "slug": "kramer-lab",
+  "lab": "Kramer Lab",
+  "pi": "Paul F. Kramer",
+  "email": "pfkramer@umich.edu",
+  "focus": "Neuronal excitability; dopamine; synaptic transmission; addiction",
+  "hero": "Exploring how electrical signaling in dopamine neurons shapes reward, behavior, and addiction.",
+  "a": {
+   "template": "ledger",
+   "palette": "indigo"
+  },
+  "b": {
+   "template": "atlas",
+   "palette": "plum"
+  },
+  "team": 6,
+  "pubs": 10,
+  "existing": "https://www.kramerlab.net/"
+ },
+ {
+  "n": 18,
+  "slug": "kumar-lab",
+  "lab": "Kumar Lab",
+  "pi": "Anuj Kumar",
+  "email": "anujk@umich.edu",
+  "focus": "Genomics; proteomics; systems biology; signaling; cancer",
+  "hero": "Using systems biology to uncover the molecular networks that drive cell signaling and cancer.",
+  "a": {
+   "template": "horizon",
+   "palette": "teal"
+  },
+  "b": {
+   "template": "monograph",
+   "palette": "ocean"
+  },
+  "team": 4,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/kumar-lab/"
+ },
+ {
+  "n": 19,
+  "slug": "ming-li-lab",
+  "lab": "Ming Li Lab",
+  "pi": "Ming Li",
+  "email": "mlium@umich.edu",
+  "focus": "Lysosomes; protein quality control; neurodegeneration; cancer",
+  "hero": "Understanding how lysosomes maintain cellular quality control and how these systems fail in disease.",
+  "a": {
+   "template": "editorial",
+   "palette": "crimson"
+  },
+  "b": {
+   "template": "specimen",
+   "palette": "slate"
+  },
+  "team": 9,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/mlium-lab/"
+ },
+ {
+  "n": 20,
+  "slug": "miller-lab",
+  "lab": "Miller Lab",
+  "pi": "Ann L. Miller",
+  "email": "annlm@umich.edu",
+  "focus": "Cell-cell junctions; mechanical forces; cytokinesis; epithelial barriers",
+  "hero": "Revealing how cells preserve tissue barriers while dividing and responding to mechanical force.",
+  "a": {
+   "template": "atlas",
+   "palette": "forest"
+  },
+  "b": {
+   "template": "ledger",
+   "palette": "indigo"
+  },
+  "team": 9,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/miller-lab/"
+ },
+ {
+  "n": 21,
+  "slug": "nielsen-lab",
+  "lab": "Nielsen Lab",
+  "pi": "Erik Nielsen",
+  "email": "nielsene@umich.edu",
+  "focus": "Plant cell walls; membrane trafficking; cell-wall deposition",
+  "hero": "Discovering how plant cells build and organize the walls that shape their growth.",
+  "a": {
+   "template": "monograph",
+   "palette": "amber"
+  },
+  "b": {
+   "template": "horizon",
+   "palette": "teal"
+  },
+  "team": 6,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/nielsen-lab/"
+ },
+ {
+  "n": 22,
+  "slug": "schiefelbein-lab",
+  "lab": "Schiefelbein Lab",
+  "pi": "John Schiefelbein",
+  "email": "schiefel@umich.edu",
+  "focus": "Cell differentiation; pattern formation; Arabidopsis root epidermis",
+  "hero": "Using plant development to uncover the molecular rules that give cells distinct identities.",
+  "a": {
+   "template": "specimen",
+   "palette": "plum"
+  },
+  "b": {
+   "template": "editorial",
+   "palette": "crimson"
+  },
+  "team": 7,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/schiefelbein-lab/"
+ },
+ {
+  "n": 23,
+  "slug": "simmons-lab",
+  "lab": "Simmons Lab",
+  "pi": "Lyle Simmons",
+  "email": "lasimm@umich.edu",
+  "focus": "DNA repair; genome instability; cell cycle; bacterial genetics",
+  "hero": "Discovering how cells detect, repair, and survive damage to their genomes.",
+  "a": {
+   "template": "ledger",
+   "palette": "ocean"
+  },
+  "b": {
+   "template": "atlas",
+   "palette": "forest"
+  },
+  "team": 8,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/simmons-lab/"
+ },
+ {
+  "n": 24,
+  "slug": "stockbridge-lab",
+  "lab": "Stockbridge Lab",
+  "pi": "Randy Stockbridge",
+  "email": "stockbr@umich.edu",
+  "focus": "Membrane proteins; antimicrobial resistance; structural biology; evolution",
+  "hero": "Exploring how microbial membrane proteins evolve to protect cells from toxic compounds and antibiotics.",
+  "a": {
+   "template": "horizon",
+   "palette": "slate"
+  },
+  "b": {
+   "template": "monograph",
+   "palette": "amber"
+  },
+  "team": 8,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/randystockbridge/"
+ },
+ {
+  "n": 25,
+  "slug": "su-lab",
+  "lab": "Su Lab",
+  "pi": "Yujuan Su",
+  "email": "yujuansu@umich.edu",
+  "focus": "Lung-brain communication; interoception; neural circuits; disease",
+  "hero": "Mapping the neural circuits that allow the brain to sense the lungs and regulate physiology.",
+  "a": {
+   "template": "editorial",
+   "palette": "indigo"
+  },
+  "b": {
+   "template": "specimen",
+   "palette": "plum"
+  },
+  "team": 6,
+  "pubs": 4,
+  "existing": "https://sites.lsa.umich.edu/su-lab/"
+ },
+ {
+  "n": 26,
+  "slug": "vecchiarelli-lab",
+  "lab": "Vecchiarelli Lab",
+  "pi": "Anthony Vecchiarelli",
+  "email": "ave@umich.edu",
+  "focus": "Subcellular organization; cell-free reconstitution; imaging",
+  "hero": "Reconstructing cellular organization from the ground up to understand how life organizes itself in space.",
+  "a": {
+   "template": "atlas",
+   "palette": "teal"
+  },
+  "b": {
+   "template": "ledger",
+   "palette": "ocean"
+  },
+  "team": 3,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/vecchiarelli-lab/"
+ },
+ {
+  "n": 27,
+  "slug": "wierzbicki-lab",
+  "lab": "Wierzbicki Lab",
+  "pi": "Andrzej Wierzbicki",
+  "email": "wierzbic@umich.edu",
+  "focus": "Non-coding RNA; chromatin; genome regulation; plant molecular biology",
+  "hero": "Uncovering how non-coding RNA and chromatin work together to control genome activity.",
+  "a": {
+   "template": "monograph",
+   "palette": "crimson"
+  },
+  "b": {
+   "template": "horizon",
+   "palette": "slate"
+  },
+  "team": 4,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/wierzbicki-lab/"
+ },
+ {
+  "n": 28,
+  "slug": "wittkopp-lab",
+  "lab": "Wittkopp Lab",
+  "pi": "Patricia Wittkopp",
+  "email": "wittkopp@umich.edu",
+  "focus": "Gene regulation; development; evolution; genetic variation",
+  "hero": "Understanding how changes in gene regulation generate biological diversity and evolutionary change.",
+  "a": {
+   "template": "specimen",
+   "palette": "forest"
+  },
+  "b": {
+   "template": "editorial",
+   "palette": "indigo"
+  },
+  "team": 8,
+  "pubs": 10,
+  "existing": "https://sites.lsa.umich.edu/wittkopp-lab/"
+ }
+]

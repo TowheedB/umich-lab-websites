@@ -1,0 +1,250 @@
+{
+ "slug": "buttitta-lab",
+ "pi": {
+  "name": "Laura Buttitta",
+  "title": "Professor of Molecular, Cellular, and Developmental Biology",
+  "bio": "Laura Buttitta earned her Ph.D. from Johns Hopkins University in 2004 and completed postdoctoral training with Bruce Edgar at the Fred Hutchinson Cancer Research Center. She opened her lab in the Department of Molecular, Cellular, and Developmental Biology at the University of Michigan in January 2011. Her research focuses on how the cell cycle is shut off in quiescent cells, such as differentiated or stem cells, using Drosophila and mammalian systems. She teaches MCDB 440, Cell Cycle Control and Cancer.",
+  "email": "buttitta@umich.edu",
+  "phone": "734-764-2802",
+  "office": "5218 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/buttitta.html"
+ },
+ "lab_description": "The Buttitta Lab studies states of G0 in development, cancer, and aging: how the cell cycle machinery is controlled during the decision to exit the cell cycle, and how quiescence is made reversible or irreversible in different biological contexts. The lab uses Drosophila melanogaster genetics together with mammalian cell lines to dissect the signals, phosphatases, and chromatin changes that enforce cell cycle exit. Projects range from the PP2A-B56 phosphatase complex and tumor dormancy in prostate cancer, to chromatin-mediated silencing of cell cycle genes in postmitotic tissues, hormone-driven quiescence and polyploid cell cycles in the fly accessory gland, and abnormal cell cycle re-entry in the aging brain. The work has applications to tissue regeneration, aging, and cancer.",
+ "research_areas": [
+  {
+   "title": "Modulators of the proliferation-quiescence decision",
+   "summary": "Studies how the PP2A phosphatase complex, particularly the B56 regulatory subunit, promotes cell cycle exit by dephosphorylating Cdk2, extending the work to mammalian cells with fluorescent cell cycle sensors and to tumor dormancy in prostate cancer models."
+  },
+  {
+   "title": "Silencing cell cycle genes: chromatin changes during G0",
+   "summary": "Uses FAIRE-seq, ATAC-seq, and RNA-seq in fruit fly wings to show how nucleosome-mediated silencing and enhancer decommissioning shut down genes such as Cyclin E and cdc25c in prolonged quiescence, with ongoing work on the Brahma and NuRD complexes."
+  },
+  {
+   "title": "Developmental signals that promote quiescence",
+   "summary": "Examines how the steroid hormone ecdysone triggers cell cycle arrest during metamorphosis, and studies polyploid and variant cell cycles in the Drosophila accessory gland, a prostate-like organ."
+  },
+  {
+   "title": "Cell cycle exit in the aged brain",
+   "summary": "Investigates abnormal cell cycle re-entry in aging neurons using the fruit fly brain, developing genetic tools to force re-entry and assessing neurodegeneration with behavioral assays."
+  }
+ ],
+ "team": [
+  {
+   "name": "Deena Damschroder",
+   "role": "Postdoctoral Fellow",
+   "note": "Joined November 2021; Ph.D. Wayne State University; studies polyploidy and cell size in the aging Drosophila brain"
+  },
+  {
+   "name": "Elizabeth Fogarty",
+   "role": "Lab Manager",
+   "note": "Lab Manager and Senior Scientist; joined November 2019; Ph.D. Neuroscience, University of Michigan; studies developmental chromatin dynamics and cell cycle exit"
+  },
+  {
+   "name": "Lizi Yang",
+   "role": "Graduate Student",
+   "note": "PhD student, joined May 2024; studies quiescence in mouse and human prostate cancer cells"
+  },
+  {
+   "name": "Hailee Aro",
+   "role": "Graduate Student",
+   "note": "Pathway Master's student, joined July 2024; wound healing and regeneration model in the Drosophila accessory gland"
+  },
+  {
+   "name": "Arpitha S. Banakar",
+   "role": "Graduate Student",
+   "note": "Master's student, joined January 2025; tissue damage and recovery in the Drosophila prostate model"
+  }
+ ],
+ "alumni": [
+  {
+   "name": "Navyashree Ramesh",
+   "role": "Graduate Student",
+   "now": "PhD completed 2025"
+  },
+  {
+   "name": "Allison Box",
+   "role": "Graduate Student",
+   "now": "Postdoc with Cheng-Yu Lee, Life Sciences Institute, University of Michigan"
+  },
+  {
+   "name": "S. Jaimian Church",
+   "role": "Graduate Student",
+   "now": "Joint MS Bioinformatics / PhD MCDB completed May 2024"
+  },
+  {
+   "name": "Elli Buchert",
+   "role": "Graduate Student",
+   "now": "PhD completed December 2023"
+  },
+  {
+   "name": "Ajai Pulianmackal",
+   "role": "Graduate Student",
+   "now": "Lead Cell Biologist at Artemys Foods"
+  },
+  {
+   "name": "Shyama Nandakumar",
+   "role": "Graduate Student",
+   "now": "Postdoc in Nicholas Buchon's lab, Cornell University"
+  },
+  {
+   "name": "Yiqin Ma",
+   "role": "Graduate Student",
+   "now": "Postdoc with Bruce Edgar, University of Utah"
+  },
+  {
+   "name": "Kiriaki Kanakousaki",
+   "role": "Research Fellow",
+   "now": "Postdoc with Laura Johnston, Columbia University"
+  },
+  {
+   "name": "Dan (Rosaline) Sun",
+   "role": "Graduate Student",
+   "now": "Postdoc with Julio Aguirre-Ghiso, Mount Sinai"
+  },
+  {
+   "name": "Kerry Flegel",
+   "role": "Graduate Student",
+   "now": "Lecturer, University of Michigan"
+  },
+  {
+   "name": "Joseph Dixon",
+   "role": "Undergraduate",
+   "now": "PhD student, Johns Hopkins University"
+  },
+  {
+   "name": "Jingyi Du",
+   "role": "Undergraduate",
+   "now": "Graduate student, University of Pennsylvania"
+  },
+  {
+   "name": "Ariana Afrakhteh",
+   "role": "Undergraduate / Master's Student",
+   "now": "MD student, Wayne State University"
+  },
+  {
+   "name": "Emily Rozich",
+   "role": "Undergraduate / Master's Student",
+   "now": "Technician, Ryan Insolera lab, Wayne State University"
+  }
+ ],
+ "publications": [
+  {
+   "year": 2025,
+   "title": "Changes in cell size occur across brain regions in the aging Drosophila brain",
+   "authors": "Damschroder D, Buttitta L",
+   "venue": "bioRxiv (preprint)",
+   "doi_or_url": "https://doi.org/10.1101/2025.10.15.682616"
+  },
+  {
+   "year": 2025,
+   "title": "p27Kip1 regulates gamma-globin production",
+   "authors": "Balbin-Cuesta G, Drysdale C, Kerpet C, Yu L, Myers G, Lin Z, McGee B, Friedman A, Liu X, Singh SA, Engel JD, Buttitta L, Khoriaty R",
+   "venue": "Blood",
+   "doi_or_url": "https://doi.org/10.1182/blood.2025028895"
+  },
+  {
+   "year": 2025,
+   "title": "Evidence for transcriptomic conservation between the main cells of the Drosophila prostate-like accessory gland and basal cells of the mammalian prostate",
+   "authors": "Church SJ, Kriebel AR, Welch JD, Buttitta LA",
+   "venue": "bioRxiv (preprint)",
+   "doi_or_url": "https://doi.org/10.1101/2025.06.05.658085"
+  },
+  {
+   "year": 2025,
+   "title": "A window of cell cycle plasticity enables imperfect regeneration of an adult postmitotic organ in Drosophila",
+   "authors": "Ramesh NA, Buttitta L",
+   "venue": "bioRxiv (preprint)",
+   "doi_or_url": "https://doi.org/10.1101/2025.06.05.658044"
+  },
+  {
+   "year": 2025,
+   "title": "Post-eclosion growth in the Drosophila ejaculatory duct is driven by Juvenile Hormone signaling and is essential for male fertility",
+   "authors": "Ramesh NA, Box AM, Buttitta LA",
+   "venue": "Developmental Biology",
+   "doi_or_url": "https://doi.org/10.1016/j.ydbio.2024.12.010"
+  },
+  {
+   "year": 2025,
+   "title": "Oncogenic signaling in the adult Drosophila prostate-like accessory gland leads to activation of a conserved pro-tumorigenic program",
+   "authors": "Church SJ, Pulianmackal AJ, Dixon JA, Loftus LV, Amend SR, Pienta K, Cackowski FC, Buttitta LA",
+   "venue": "Disease Models & Mechanisms",
+   "doi_or_url": "https://doi.org/10.1242/dmm.052001"
+  },
+  {
+   "year": 2024,
+   "title": "Cell cycle re-entry in the aging Drosophila brain",
+   "authors": "Damschroder D, Sun J, McDonald KO, Buttitta L",
+   "venue": "bioRxiv (preprint)",
+   "doi_or_url": "https://doi.org/10.1101/2024.08.26.609689"
+  },
+  {
+   "year": 2024,
+   "title": "Transcriptional repression and enhancer decommissioning silence cell cycle genes in postmitotic tissues",
+   "authors": "Fogarty EA, Buchert EM, Ma Y, Nicely AB, Buttitta LA",
+   "venue": "G3: Genes, Genomes, Genetics",
+   "doi_or_url": "https://doi.org/10.1093/g3journal/jkae203"
+  },
+  {
+   "year": 2024,
+   "title": "Cell cycle variants during Drosophila male accessory gland development",
+   "authors": "Box AM, Ramesh N, Church SJ, Nandakumar S, Prasad D, Afrakhteh A, Taichman RS, Buttitta L",
+   "venue": "G3: Genes, Genomes, Genetics",
+   "doi_or_url": "https://doi.org/10.1093/g3journal/jkae089"
+  },
+  {
+   "year": 2023,
+   "title": "A tissue dissociation method for ATAC-seq and CUT&RUN in Drosophila pupal tissues",
+   "authors": "Buchert EM, Fogarty EA, Uyehara C, McKay DJ, Buttitta L",
+   "venue": "Fly",
+   "doi_or_url": "https://doi.org/10.1080/19336934.2023.2209481"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-04",
+   "text": "Graduate student Hailee Aro completed her Master's defense."
+  },
+  {
+   "date": "2026-01",
+   "text": "PhD candidate Navyashree Ramesh completed her doctoral defense."
+  },
+  {
+   "date": "2026",
+   "text": "PhD candidate Lizi Yang presented a poster at the FASEB Conference on Cell Cycle Regulation."
+  },
+  {
+   "date": "2026",
+   "text": "Postdoc Deena Damschroder received a GSA travel award for her DROS26 presentation on cell body size changes in the aging Drosophila brain."
+  },
+  {
+   "date": "2024-12",
+   "text": "Allison Box completed her thesis defense; undergraduate Jingyi Du completed an Honors thesis."
+  },
+  {
+   "date": "2024-12",
+   "text": "Navyashree Ramesh won 1st place microscopy award at the Midwest Drosophila meeting and 3rd place poster at UM CPOD."
+  },
+  {
+   "date": "2024-06",
+   "text": "Jaimian Church completed his PhD defense; paper on oncogenic signaling in the Drosophila prostate published."
+  },
+  {
+   "date": "2023",
+   "text": "Three posters presented at the Polyploidy 2023 meeting; ATAC-seq and CUT&RUN protocol paper published in Fly."
+  }
+ ],
+ "funding": [],
+ "joining": "",
+ "address": "Biological Sciences Building, 1105 North University Ave, Ann Arbor, MI 48109 (Office: 5218 BSB; Lab: 5224 BSB)",
+ "links": {
+  "twitter": "https://twitter.com/Buttitta_Lab",
+  "github": "",
+  "google_scholar": "",
+  "pubmed": "",
+  "other": [
+   "https://sites.google.com/umich.edu/polyploidyatlas/home",
+   "https://sites.lsa.umich.edu/buttitta-lab/variations-in-biology/"
+  ]
+ }
+}

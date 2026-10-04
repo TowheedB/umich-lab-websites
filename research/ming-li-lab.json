@@ -1,0 +1,260 @@
+{
+ "slug": "ming-li-lab",
+ "pi": {
+  "name": "Ming Li",
+  "title": "Associate Professor of Molecular, Cellular, and Developmental Biology; Associate Chair for Research and Facilities",
+  "bio": "Ming Li grew up in Jingdezhen, China, and was the first in his family to attend college. He earned a B.S. from Fudan University in Shanghai and a Ph.D. from the University of Massachusetts-Amherst, followed by postdoctoral training at UMass-Amherst and Cornell University. He is an Associate Professor in MCDB at the University of Michigan, where he also serves as Associate Chair for Research and Facilities. His lab studies lysosomal membrane protein quality control and lysosome biogenesis in the context of neurodegeneration, cancer, and lysosomal storage diseases; he received an NIH R35 award in 2024.",
+  "email": "mlium@umich.edu",
+  "phone": "734-647-7264",
+  "office": "4114 Biological Sciences Building",
+  "department": "Molecular, Cellular, and Developmental Biology",
+  "profile_url": "https://lsa.umich.edu/mcdb/people/faculty/ming-li.html"
+ },
+ "lab_description": "The Ming Li Lab investigates the lysosome: how it is born (biogenesis), how it is regulated to stay functional (quality control), and how it communicates with other organelles. The lab discovered that damaged or misregulated lysosomal membrane proteins are ubiquitinated and internalized by the ESCRT machinery into the lumen for degradation, and it has identified E3 ligase complexes responsible for substrate recognition in yeast and human cells. Through CRISPR screening the lab identified TMEM251 (LYSET) as a Golgi protein essential for the mannose-6-phosphate pathway, whose mutation causes a severe skeletal dysplasia (mucolipidosis type V). Other projects examine ER-associated degradation of mutant cystinosin in cystinosis, where chemical chaperones partially rescue folding and reduce cystine accumulation by about 70 percent, and how cancer cells upregulate lysosome numbers to support rapid growth. The lab uses budding yeast, human cancer cell lines, and vertebrate models including zebrafish and mice.",
+ "research_areas": [
+  {
+   "title": "Lysosome membrane quality control via ubiquitin and ESCRT-dependent microautophagy",
+   "summary": "Studies how damaged or mutated lysosomal membrane proteins are recognized by E3 ligases, ubiquitinated, and internalized by ESCRT machinery for degradation, from yeast vacuoles to human lysosomes, including reconstitution of lysosomal transporters such as Ypq1."
+  },
+  {
+   "title": "TMEM251 and mucolipidosis type V",
+   "summary": "Characterizes TMEM251, a small Golgi membrane protein identified by CRISPR screening that regulates the M6P pathway for lysosomal enzyme trafficking; current work examines TMEM251-GNPT interactions and zebrafish knockout models."
+  },
+  {
+   "title": "ERAD in cystinosis pathogenesis",
+   "summary": "Examines how cystinosin mutations cause misfolding and ER-associated degradation, leading to cystine accumulation and kidney and eye damage; chemical chaperones partially rescue the mutant, and the lab is developing mouse models and screening other unstable variants."
+  },
+  {
+   "title": "Lysosome biogenesis in cancer",
+   "summary": "Explores how cancer cells dramatically increase lysosome numbers to meet nutrient demands, using genome-wide CRISPR screening and live-cell imaging."
+  }
+ ],
+ "team": [
+  {
+   "name": "Danielle Henn",
+   "role": "Postdoctoral Fellow",
+   "note": "Joined 11/2022; BSc Biochemistry and PhD Veterinary Science, University of Pretoria"
+  },
+  {
+   "name": "Xiaotong Yang",
+   "role": "Postdoctoral Fellow",
+   "note": "Joined 08/2026; Ph.D. Biochemistry and Molecular Biology, Chinese Academy of Sciences; secretory pathway homeostasis"
+  },
+  {
+   "name": "Haikun Zhao",
+   "role": "Graduate Student",
+   "note": "MCDB PhD student (joined 06/2024); human lysosome membrane quality control and lysosomal storage disease"
+  },
+  {
+   "name": "Yue Shang",
+   "role": "Graduate Student",
+   "note": "Joined 09/2025; B.A. Biochemistry, Mount Holyoke College"
+  },
+  {
+   "name": "Rongkai Wei",
+   "role": "Research Technician",
+   "note": "Joined 09/2025; B.S. Biology, Fudan University; lysosomal degradation defects"
+  },
+  {
+   "name": "Seth Palmer",
+   "role": "Undergraduate",
+   "note": "10/2021-04/2023 and 08/2025-present; prospective biomedical engineer, plans medical school"
+  },
+  {
+   "name": "Eita Shinkawa",
+   "role": "Undergraduate",
+   "note": "Joined 02/2025; Biology major, pre-med"
+  },
+  {
+   "name": "Lauren Yung",
+   "role": "Undergraduate",
+   "note": "Joined 09/2026; MCDB major, plans PhD"
+  },
+  {
+   "name": "David Olivera",
+   "role": "Undergraduate",
+   "note": "Joined 02/2026; Neuroscience major, pre-med"
+  }
+ ],
+ "alumni": [
+  {
+   "name": "Liang Chen",
+   "role": "Graduate Student (2020-2026)",
+   "now": "Postdoc, UC Berkeley"
+  },
+  {
+   "name": "Rocio Cisneros",
+   "role": "Graduate Student, CMB (2024-2026)",
+   "now": ""
+  },
+  {
+   "name": "Varsha Venkatarangan",
+   "role": "Graduate Student (2018-2024)",
+   "now": "Postdoc, Harvard Medical School"
+  },
+  {
+   "name": "Xi Yang",
+   "role": "Postdoctoral Fellow (2017-2023)",
+   "now": "Assistant Professor, University of Denver"
+  },
+  {
+   "name": "Felichi Mae Arines",
+   "role": "Graduate Student (2017-2022)",
+   "now": "Helen Hay Whitney Postdoctoral Fellow, Broad Institute"
+  },
+  {
+   "name": "Weichao Zhang",
+   "role": "Graduate Student (2017-2022)",
+   "now": "Research scientist, GSK"
+  },
+  {
+   "name": "Bokai Zhang",
+   "role": "Undergraduate (2021-2023)",
+   "now": "PhD student, Rockefeller University"
+  },
+  {
+   "name": "Francisco Narro Garcia",
+   "role": "Undergraduate (2019-2023)",
+   "now": "MD student, Washington University in St. Louis"
+  },
+  {
+   "name": "Lucas Reist",
+   "role": "Undergraduate (2017-2021)",
+   "now": "Graduate school, Michigan State University"
+  },
+  {
+   "name": "Dominic Chomchai",
+   "role": "Undergraduate (2018-2020)",
+   "now": "Graduate school, University of Wisconsin-Madison"
+  },
+  {
+   "name": "Yun-Yu Liu",
+   "role": "Undergraduate (2016-2020)",
+   "now": "MD program, Albert Einstein College of Medicine"
+  },
+  {
+   "name": "Aaron Hamlin",
+   "role": "Undergraduate (2016-2020)",
+   "now": "Graduate school, Princeton University"
+  }
+ ],
+ "publications": [
+  {
+   "year": 2026,
+   "title": "Peroxisome-derived ether lipids regulate lysosomal exocytosis",
+   "authors": "Chen L, Henn D, Dong Z, Wielenga A, Liang J, et al., Li M",
+   "venue": "EMBO Journal",
+   "doi_or_url": "https://link.springer.com/article/10.1038/s44318-026-00791-3"
+  },
+  {
+   "year": 2026,
+   "title": "Molecular Insights into the Regulation of GNPTAB by TMEM251",
+   "authors": "Yang X, Doray B, Henn D, Venkatarangan V, Jennings BC, et al., Li M",
+   "venue": "Nature Communications",
+   "doi_or_url": "https://www.nature.com/articles/s41467-026-70402-6"
+  },
+  {
+   "year": 2025,
+   "title": "Protocol to measure endogenous GlcNAc-1-phosphotransferase activity in SK-MEL-30 cells",
+   "authors": "Baraj D, Henn D, Yang X, Li M, Dickson P",
+   "venue": "STAR Protocols 6(3):103935",
+   "doi_or_url": ""
+  },
+  {
+   "year": 2025,
+   "title": "Lysosomal quality control",
+   "authors": "Henn D, Yang X, Li M",
+   "venue": "Autophagy 21(7):1413-1432",
+   "doi_or_url": "https://doi.org/10.1080/15548627.2025.2469206"
+  },
+  {
+   "year": 2025,
+   "title": "LYSET facilitates integration of both the N- and C-terminal transmembrane helices/cytoplasmic domains of GlcNAc-1-phosphotransferase",
+   "authors": "Baraj D, Jennings BC, Yang X, Liu L, Venkatarangan V, Kornfeld S, Li M",
+   "venue": "Molecular Biology of the Cell 36(4):br12",
+   "doi_or_url": "https://doi.org/10.1091/mbc.E24-08-0349"
+  },
+  {
+   "year": 2024,
+   "title": "Protocol for purifying and reconstituting a vacuole membrane transporter Ypq1 into proteoliposomes",
+   "authors": "Arines FM, Wielenga A, Stockbridge RB, Li M",
+   "venue": "STAR Protocols 5(4):103483",
+   "doi_or_url": "https://www.sciencedirect.com/science/article/pii/S2666166724006488"
+  },
+  {
+   "year": 2024,
+   "title": "Lysosome transporter purification and reconstitution identifies Ypq1 as a pH-gated lysine transporter",
+   "authors": "Arines FM, Wielenga A, Henn D, Burata OE, Garcia FN, Stockbridge RB, Li M",
+   "venue": "Molecular Biology of the Cell 35(3):ar28",
+   "doi_or_url": "https://doi.org/10.1091/mbc.E23-06-0259"
+  },
+  {
+   "year": 2023,
+   "title": "Profiling and verifying the substrates of E3 ubiquitin ligase Rsp5 in yeast cells",
+   "authors": "Fang S, Chen G, Wang Y, Ganti R, Chernova TA, et al., Li M, Yin J",
+   "venue": "STAR Protocols 4(3):102489",
+   "doi_or_url": "https://www.sciencedirect.com/science/article/pii/S2666166723004562"
+  },
+  {
+   "year": 2023,
+   "title": "ER-associated degradation in cystinosis pathogenesis and the prospects of precision medicine",
+   "authors": "Venkatarangan V, Zhang W, Yang X, Thoene J, Hahn S, Li M",
+   "venue": "Journal of Clinical Investigation",
+   "doi_or_url": "https://www.jci.org/articles/view/169551"
+  },
+  {
+   "year": 2023,
+   "title": "LYSET/TMEM251/GCAF is critical for autophagy and lysosomal function by regulating the mannose-6-phosphate (M6P) pathway",
+   "authors": "Zhang B, Yang X, Li M",
+   "venue": "Autophagy",
+   "doi_or_url": "https://doi.org/10.1080/15548627.2023.2167375"
+  }
+ ],
+ "news": [
+  {
+   "date": "2024-09",
+   "text": "The lab received an NIH R35 grant."
+  },
+  {
+   "date": "2024-09",
+   "text": "Zhongzheng Dong joined the lab as a technician."
+  },
+  {
+   "date": "2024-07",
+   "text": "Rocio joined the lab from the CMB Graduate Program."
+  },
+  {
+   "date": "2024-06",
+   "text": "Haikun joined the lab from the MCDB Graduate Program."
+  },
+  {
+   "date": "2024-05",
+   "text": "Grace Barron joined as a Horizons undergraduate student."
+  },
+  {
+   "date": "2024-01",
+   "text": "Jiaxuan Liang joined the lab as a technician."
+  },
+  {
+   "date": "2023-12",
+   "text": "The lab received a Cystinosis Research Foundation grant."
+  },
+  {
+   "date": "2023-06",
+   "text": "Xiaoting Dong joined the lab as a postdoctoral researcher."
+  }
+ ],
+ "funding": [
+  "NIH (R35)",
+  "Cystinosis Research Foundation"
+ ],
+ "joining": "Two postdoctoral research associate positions are open to study lysosomal membrane quality control using yeast and mammalian cell lines; applicants need a strong background in molecular and cell biology and published first-author papers, and should email a statement of interest, CV, and three referee contacts to Dr. Ming Li. Graduate students must be enrolled in MCDB or PIBS and can email Dr. Li to arrange a rotation. The lab actively recruits undergraduates, many of whom have become publication co-authors; email Dr. Li for details.",
+ "address": "4114 Biological Sciences Building, 1105 North University Avenue, Ann Arbor, MI 48109-1048",
+ "links": {
+  "twitter": "",
+  "github": "",
+  "google_scholar": "",
+  "pubmed": "",
+  "other": []
+ }
+}
